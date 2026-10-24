@@ -1,0 +1,260 @@
+---
+title: "Food Delivery Order Analysis and Customer Insights Using R"
+author: "[Your name]"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+    code_folding: show
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE,
+                      fig.width = 8, fig.height = 5, fig.align = "center")
+library(dplyr); library(ggplot2); library(lubridate); library(scales)
+theme_set(theme_minimal(base_size = 13))
+orange <- "#E8590C"
+```
+
+# 1. Introduction and Problem Statement
+
+Online food delivery platforms generate a large volume of order records. This project analyses 2,015 orders placed across eight areas of Hyderabad during 2025 to answer practical questions: which food sells best, where and when demand is highest, which areas receive slower service, and whether service quality affects customer ratings.
+
+# 2. Objectives
+
+1. Clean the raw data (duplicates, missing values, impossible outliers) and document every change.
+2. Identify the most ordered categories, busiest areas and peak ordering hours.
+3. Compare average order value and delivery time across categories and areas.
+4. Describe monthly, daily and weekday trends and payment preferences.
+5. Measure relationships between ratings, orders and delivery time (Pearson correlation).
+6. Test whether delivery is slower during peak hours (Welch two-sample t-test).
+
+# 3. Dataset
+
+* **File:** `food_delivery_data.csv` (2,015 rows, 10 columns, one row per order, year 2025)
+* **Dataset URL:** *(paste your GitHub raw link here after pushing, e.g. `https://raw.githubusercontent.com/<username>/<repo>/main/food_delivery_data.csv`)*
+
+| Column | Description |
+|---|---|
+| order_id | Unique order identifier |
+| order_date | Date of the order |
+| order_hour | Hour of day (24h clock) |
+| area | Delivery area (8 areas) |
+| restaurant_id | Restaurant identifier (30 restaurants) |
+| food_category | Food category (8 categories) |
+| payment_method | UPI, Credit/Debit Card, Cash on Delivery, Wallet |
+| order_value | Order amount (Rs) |
+| delivery_time_min | Delivery time (minutes) |
+| rating | Customer rating |
+
+```{r load}
+raw <- read.csv("food_delivery_data.csv", na.strings = c("NA", ""),
+                stringsAsFactors = FALSE)
+cat("Rows:", nrow(raw), " Columns:", ncol(raw), "\n")
+colSums(is.na(raw))
+```
+
+# 4. Data Preparation
+
+```{r clean}
+n_before <- nrow(raw)
+df <- distinct(raw)                                   # duplicates
+n_dup <- n_before - nrow(df)
+
+df$order_date <- as.Date(df$order_date)
+df$month   <- month(df$order_date, label = TRUE, abbr = TRUE)
+df$weekday <- wday(df$order_date,  label = TRUE, abbr = TRUE)
+
+n_out <- sum(df$delivery_time_min > 120, na.rm = TRUE) # outliers
+df <- df %>% filter(is.na(delivery_time_min) | delivery_time_min <= 120)
+
+df$order_value[is.na(df$order_value)] <- median(df$order_value, na.rm = TRUE)
+df$delivery_time_min[is.na(df$delivery_time_min)] <-
+  median(df$delivery_time_min, na.rm = TRUE)
+# rating NAs are kept and ignored with na.rm = TRUE
+```
+
+**Result:** `r n_dup` duplicate rows and `r n_out` outliers (delivery time over 120 minutes) were removed, and missing order values and delivery times were replaced by the median. The clean dataset has **`r nrow(df)`** rows; `r sum(is.na(df$rating))` ratings remain missing.
+
+# 5. Analysis
+
+## 5.1 Descriptive statistics
+
+```{r desc}
+desc <- data.frame(
+  Variable = c("Order value (Rs)", "Delivery time (min)", "Rating"),
+  Mean   = c(mean(df$order_value), mean(df$delivery_time_min), mean(df$rating, na.rm = TRUE)),
+  Median = c(median(df$order_value), median(df$delivery_time_min), median(df$rating, na.rm = TRUE)),
+  SD     = c(sd(df$order_value), sd(df$delivery_time_min), sd(df$rating, na.rm = TRUE)))
+desc[, -1] <- round(desc[, -1], 2)
+knitr::kable(desc)
+```
+
+## 5.2 Food categories and average order value
+
+```{r categories}
+cat_tab <- df %>% count(food_category, sort = TRUE)
+aov_tab <- df %>% group_by(food_category) %>%
+  summarise(avg_order_value = round(mean(order_value), 1), orders = n()) %>%
+  arrange(desc(avg_order_value))
+knitr::kable(cat_tab %>% mutate(share = paste0(round(100 * n / sum(n), 1), "%")))
+knitr::kable(aov_tab)
+```
+
+## 5.3 Areas, delivery time and peak hours
+
+```{r areas}
+area_tab <- df %>% count(area, sort = TRUE)
+dt_area <- df %>% group_by(area) %>%
+  summarise(avg_delivery = round(mean(delivery_time_min), 1)) %>% arrange(avg_delivery)
+hour_tab <- df %>% count(order_hour)
+knitr::kable(area_tab)
+knitr::kable(dt_area)
+knitr::kable(hour_tab %>% arrange(desc(n)) %>% head(5))
+```
+
+## 5.4 Trends and payment methods
+
+```{r trends}
+month_tab <- df %>% count(month)
+wk_tab    <- df %>% count(weekday)
+pay_tab   <- df %>% count(payment_method, sort = TRUE) %>%
+  mutate(percent = round(100 * n / sum(n), 1))
+knitr::kable(month_tab); knitr::kable(wk_tab); knitr::kable(pay_tab)
+```
+
+## 5.5 Correlation analysis
+
+```{r corr}
+rest_tab <- df %>% group_by(restaurant_id) %>%
+  summarise(orders = n(), avg_rating = mean(rating, na.rm = TRUE)) %>%
+  filter(!is.na(avg_rating))
+cor_rest <- cor(rest_tab$avg_rating, rest_tab$orders)
+cor.test(rest_tab$avg_rating, rest_tab$orders)
+
+num_vars <- df[, c("order_value", "delivery_time_min", "rating", "order_hour")]
+round(cor(num_vars, use = "complete.obs"), 3)
+```
+
+## 5.6 Hypothesis test: peak vs off-peak delivery
+
+H0: mean delivery time is the same in peak (12-14 h, 19-21 h) and off-peak hours.
+
+```{r ttest}
+df$period <- ifelse(df$order_hour %in% c(12, 13, 14, 19, 20, 21), "Peak", "Off-peak")
+df %>% group_by(period) %>%
+  summarise(avg_delivery = round(mean(delivery_time_min), 2), orders = n())
+t.test(delivery_time_min ~ period, data = df)
+```
+
+# 6. Visualization
+
+```{r fig-categories}
+ggplot(cat_tab, aes(reorder(food_category, n), n)) +
+  geom_col(fill = orange) + coord_flip() + geom_text(aes(label = n), hjust = -0.2) +
+  labs(title = "Most Ordered Food Categories", x = NULL, y = "Number of orders") +
+  expand_limits(y = max(cat_tab$n) * 1.1)
+```
+
+```{r fig-area}
+ggplot(area_tab, aes(reorder(area, n), n)) +
+  geom_col(fill = "#364FC7") + coord_flip() + geom_text(aes(label = n), hjust = -0.2) +
+  labs(title = "Orders by Area", x = NULL, y = "Number of orders") +
+  expand_limits(y = max(area_tab$n) * 1.1)
+```
+
+```{r fig-aov}
+ggplot(aov_tab, aes(reorder(food_category, avg_order_value), avg_order_value)) +
+  geom_col(fill = "#2B8A3E") + coord_flip() +
+  geom_text(aes(label = avg_order_value), hjust = -0.2) +
+  labs(title = "Average Order Value by Category", x = NULL, y = "Average order value (Rs)") +
+  expand_limits(y = max(aov_tab$avg_order_value) * 1.12)
+```
+
+```{r fig-hours}
+ggplot(hour_tab, aes(order_hour, n)) + geom_col(fill = orange) +
+  scale_x_continuous(breaks = 8:23) +
+  labs(title = "Orders by Hour of the Day", x = "Hour (24h clock)", y = "Number of orders")
+```
+
+```{r fig-delivery}
+ggplot(df, aes(delivery_time_min)) +
+  geom_histogram(binwidth = 3, fill = "#7048E8", colour = "white") +
+  geom_vline(xintercept = mean(df$delivery_time_min), colour = "red", linetype = "dashed") +
+  labs(title = "Distribution of Delivery Time", subtitle = "Red dashed line = mean",
+       x = "Delivery time (minutes)", y = "Orders")
+
+ggplot(dt_area, aes(reorder(area, avg_delivery), avg_delivery)) +
+  geom_col(fill = "#7048E8") + coord_flip() + geom_text(aes(label = avg_delivery), hjust = -0.2) +
+  labs(title = "Average Delivery Time by Area", x = NULL, y = "Minutes") +
+  expand_limits(y = max(dt_area$avg_delivery) * 1.1)
+```
+
+```{r fig-trend}
+ggplot(month_tab, aes(month, n, group = 1)) +
+  geom_line(colour = orange, linewidth = 1.2) + geom_point(colour = orange, size = 3) +
+  labs(title = "Monthly Order Trend (2025)", x = NULL, y = "Number of orders")
+
+daily_tab <- df %>% count(order_date)
+ggplot(daily_tab, aes(order_date, n)) +
+  geom_line(colour = "grey60", alpha = 0.6) +
+  geom_smooth(method = "loess", se = FALSE, colour = orange, formula = y ~ x) +
+  labs(title = "Daily Orders with Trend Line", x = NULL, y = "Orders per day")
+```
+
+```{r fig-payment}
+ggplot(pay_tab, aes(x = "", y = n, fill = payment_method)) +
+  geom_col(width = 1, colour = "white") + coord_polar("y") +
+  geom_text(aes(label = paste0(percent, "%")), position = position_stack(vjust = 0.5), colour = "white") +
+  scale_fill_brewer(palette = "Set1") +
+  labs(title = "Payment Method Preference", fill = NULL) + theme_void(base_size = 13)
+```
+
+```{r fig-corr}
+ggplot(rest_tab, aes(avg_rating, orders)) +
+  geom_point(colour = orange, size = 3) +
+  geom_smooth(method = "lm", se = FALSE, colour = "black", formula = y ~ x) +
+  labs(title = "Restaurant Rating vs Number of Orders",
+       subtitle = paste("Pearson r =", round(cor_rest, 2)),
+       x = "Average rating", y = "Number of orders")
+
+ggplot(df, aes(delivery_time_min, rating)) +
+  geom_point(alpha = 0.25, colour = "#364FC7") +
+  geom_smooth(method = "lm", colour = "red", formula = y ~ x) +
+  labs(title = "Delivery Time vs Rating",
+       subtitle = paste("Pearson r =", round(cor(df$delivery_time_min, df$rating, use = "complete.obs"), 2)),
+       x = "Delivery time (min)", y = "Rating")
+```
+
+# 7. Results
+
+| Question | Result |
+|---|---|
+| Most ordered category | Biryani: 526 orders (26.4%) |
+| Busiest area | Gachibowli: 344 orders; top 3 areas = 49.4% of orders |
+| Highest average order value | Pizza, Rs 417 (overall average Rs 311.85) |
+| Peak ordering hours | 19:00 (300) and 12:00 (296); 59.3% of orders in peak windows |
+| Fastest / slowest area | Gachibowli 30.3 min / Dilsukhnagar 42.4 min |
+| Order trend | 117 orders in Jan rising to 213 in Dec; weekends busiest |
+| Preferred payment | UPI, 52.5% |
+| Rating vs orders (restaurant level) | r = 0.835, p < 0.001 |
+| Delivery time vs rating | r = -0.39 |
+| Peak vs off-peak delivery | 35.90 vs 32.44 min; Welch t-test p < 2.2e-16 |
+
+# 8. Conclusion
+
+Biryani is the staple product, demand clusters around Gachibowli, Madhapur and Hitech City, and orders surge at lunch and dinner and on weekends. Order volume grew through 2025 and UPI is the dominant payment method.
+
+Service quality matters: deliveries are about 3.5 minutes slower in peak hours, slower in Secunderabad and Dilsukhnagar, and slower deliveries receive lower ratings (r = -0.39). Recommended actions: add rider capacity at 12:00-14:00 and 18:00-21:00, review logistics for the two slowest areas, and promote high-value categories such as Pizza and Biryani.
+
+**Limitations:** median imputation reduces variance; 98 orders have no rating; correlations show association, not causation; the data covers a single year.
+
+# 9. References
+
+* R Core Team (2024). *R: A Language and Environment for Statistical Computing*. https://www.R-project.org/
+* Wickham, H. et al. *dplyr: A Grammar of Data Manipulation*. https://dplyr.tidyverse.org/
+* Wickham, H. (2016). *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag, New York.
+* Grolemund, G. and Wickham, H. (2011). Dates and Times Made Easy with lubridate. *Journal of Statistical Software*, 40(3).
+* Wickham, H. and Seidel, D. *scales: Scale Functions for Visualization*. https://scales.r-lib.org/
