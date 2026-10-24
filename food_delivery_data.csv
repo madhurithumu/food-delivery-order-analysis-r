@@ -1,0 +1,2016 @@
+order_id,order_date,order_hour,area,restaurant_id,food_category,payment_method,order_value,delivery_time_min,rating
+2416,2025-07-06,11,Kukatpally,15,Beverages,UPI,105.0,35.0,NA
+2730,2025-10-03,17,Madhapur,3,Desserts,UPI,137.0,24.0,4.0
+1788,2025-02-02,19,Hitech City,21,Pizza,UPI,250.0,38.0,3.8
+1880,2025-01-06,12,Madhapur,3,Desserts,Wallet,154.0,20.0,4.9
+2963,2025-05-23,12,Dilsukhnagar,1,North Indian,UPI,404.0,42.0,3.9
+2938,2025-07-13,20,Hitech City,12,Biryani,UPI,425.0,39.0,4.2
+2793,2025-06-11,10,Kukatpally,15,North Indian,UPI,NA,33.0,3.7
+2363,2025-09-21,20,Madhapur,14,Pizza,Credit/Debit Card,631.0,33.0,5.0
+2225,2025-04-01,12,Dilsukhnagar,28,Fast Food,Cash on Delivery,219.0,47.0,4.2
+2895,2025-02-05,16,Secunderabad,28,Chinese,Cash on Delivery,NA,45.0,3.3
+2184,2025-05-17,12,Secunderabad,2,Biryani,Credit/Debit Card,413.0,51.0,3.6
+2822,2025-12-07,12,Gachibowli,19,Biryani,Cash on Delivery,299.0,37.0,4.7
+1960,2025-04-20,17,Kukatpally,14,South Indian,Credit/Debit Card,282.0,33.0,5.0
+2441,2025-06-29,12,Kukatpally,21,Chinese,UPI,274.0,49.0,3.2
+1891,2025-03-16,12,Kukatpally,16,North Indian,UPI,316.0,39.0,3.6
+1141,2025-02-28,12,Kukatpally,24,Biryani,Credit/Debit Card,381.0,35.0,3.8
+1551,2025-11-29,20,Banjara Hills,17,Biryani,UPI,476.0,35.0,4.6
+2142,2025-12-10,12,Madhapur,17,Beverages,UPI,106.0,43.0,3.8
+1650,2025-09-16,14,Gachibowli,15,North Indian,Credit/Debit Card,454.0,27.0,4.4
+1621,2025-11-04,21,Banjara Hills,3,Biryani,UPI,390.0,37.0,3.7
+1264,2025-02-10,11,Gachibowli,16,Desserts,Credit/Debit Card,229.0,31.0,3.3
+1926,2025-04-23,13,Kukatpally,28,Chinese,UPI,230.0,37.0,3.4
+1703,2025-02-20,21,Ameerpet,2,North Indian,UPI,237.0,33.0,3.6
+2172,2025-02-25,21,Madhapur,19,South Indian,Wallet,166.0,37.0,4.0
+1113,2025-07-31,23,Hitech City,10,Pizza,Cash on Delivery,366.0,36.0,3.3
+1643,2025-06-19,13,Dilsukhnagar,5,Biryani,UPI,427.0,NA,2.2
+2120,2025-08-01,18,Madhapur,8,Biryani,Credit/Debit Card,360.0,23.0,4.0
+1802,2025-08-08,20,Ameerpet,23,North Indian,Cash on Delivery,321.0,35.0,4.0
+2799,2025-10-06,18,Ameerpet,10,Fast Food,Credit/Debit Card,286.0,41.0,NA
+1479,2025-01-07,12,Kukatpally,6,Biryani,UPI,417.0,35.0,3.2
+2197,2025-02-20,18,Hitech City,23,Fast Food,UPI,347.0,28.0,4.2
+1294,2025-08-15,10,Hitech City,18,Biryani,Cash on Delivery,318.0,26.0,4.5
+2580,2025-08-10,18,Hitech City,23,North Indian,Wallet,NA,NA,4.9
+1417,2025-03-11,18,Secunderabad,14,South Indian,UPI,178.0,42.0,4.3
+1465,2025-12-07,19,Madhapur,4,Biryani,Cash on Delivery,289.0,31.0,3.8
+2418,2025-12-06,17,Madhapur,30,Chinese,Cash on Delivery,160.0,29.0,5.0
+2732,2025-05-26,19,Kukatpally,11,Biryani,Credit/Debit Card,318.0,36.0,4.8
+2549,2025-04-05,16,Madhapur,14,Beverages,UPI,106.0,35.0,4.3
+1872,2025-04-09,19,Banjara Hills,12,North Indian,Cash on Delivery,335.0,39.0,4.2
+1205,2025-08-20,19,Hitech City,28,Pizza,UPI,432.0,25.0,4.6
+1169,2025-01-20,18,Hitech City,19,Desserts,UPI,210.0,21.0,4.6
+1211,2025-09-11,23,Hitech City,2,Fast Food,Credit/Debit Card,238.0,27.0,4.7
+2209,2025-12-18,21,Ameerpet,15,Desserts,UPI,220.0,48.0,4.6
+1516,2025-09-08,12,Kukatpally,15,Fast Food,Credit/Debit Card,269.0,39.0,2.5
+1566,2025-07-02,19,Ameerpet,13,Biryani,Credit/Debit Card,175.0,34.0,3.6
+1167,2025-10-05,18,Hitech City,1,Chinese,Credit/Debit Card,299.0,29.0,4.2
+2413,2025-08-17,21,Hitech City,4,Biryani,UPI,505.0,34.0,3.2
+2442,2025-08-23,18,Banjara Hills,29,Pizza,UPI,243.0,22.0,3.9
+1004,2025-02-15,18,Hitech City,23,Chinese,UPI,354.0,28.0,5.0
+1084,2025-11-06,15,Banjara Hills,18,North Indian,UPI,355.0,31.0,NA
+1240,2025-10-13,19,Dilsukhnagar,19,North Indian,Wallet,335.0,41.0,3.8
+1550,2025-06-06,22,Gachibowli,14,Biryani,Cash on Delivery,407.0,32.0,4.5
+1305,2025-09-23,19,Ameerpet,20,Fast Food,UPI,169.0,43.0,3.2
+2384,2025-06-10,19,Gachibowli,2,North Indian,UPI,319.0,40.0,3.7
+1935,2025-08-20,18,Secunderabad,28,Fast Food,Cash on Delivery,428.0,27.0,4.5
+2466,2025-07-06,21,Madhapur,7,Pizza,Cash on Delivery,358.0,32.0,4.4
+2927,2025-04-14,10,Dilsukhnagar,10,South Indian,UPI,302.0,44.0,3.4
+1769,2025-11-08,20,Kukatpally,27,Biryani,Credit/Debit Card,260.0,39.0,3.5
+2106,2025-10-01,19,Hitech City,26,North Indian,Credit/Debit Card,384.0,23.0,4.3
+1634,2025-12-28,20,Secunderabad,12,Biryani,UPI,270.0,46.0,4.4
+1082,2025-07-06,18,Gachibowli,15,Biryani,Cash on Delivery,200.0,30.0,3.6
+1086,2025-12-12,12,Banjara Hills,11,Pizza,Wallet,491.0,36.0,4.4
+1320,2025-10-02,10,Hitech City,23,Fast Food,UPI,330.0,27.0,4.4
+2222,2025-01-18,13,Gachibowli,13,Beverages,Credit/Debit Card,159.0,38.0,4.1
+2919,2025-07-27,12,Ameerpet,23,Biryani,UPI,374.0,38.0,3.9
+2655,2025-11-19,11,Madhapur,11,Biryani,Cash on Delivery,NA,31.0,5.0
+2845,2025-06-14,17,Dilsukhnagar,19,Pizza,UPI,526.0,34.0,4.9
+1771,2025-04-15,18,Hitech City,19,Biryani,Cash on Delivery,320.0,42.0,4.2
+1506,2025-06-22,19,Banjara Hills,21,North Indian,UPI,139.0,33.0,3.1
+1032,2025-11-19,19,Gachibowli,22,Biryani,UPI,652.0,29.0,3.7
+1607,2025-12-02,20,Secunderabad,24,Fast Food,UPI,304.0,40.0,2.8
+1950,2025-10-20,16,Kukatpally,14,Biryani,Cash on Delivery,378.0,33.0,4.6
+1421,2025-08-01,17,Secunderabad,13,Biryani,Wallet,220.0,40.0,4.3
+1867,2025-09-29,12,Madhapur,5,Chinese,Credit/Debit Card,273.0,35.0,2.8
+1195,2025-12-22,20,Ameerpet,9,Chinese,Credit/Debit Card,392.0,35.0,3.8
+1661,2025-08-03,17,Hitech City,15,South Indian,UPI,271.0,20.0,4.5
+1288,2025-11-14,20,Banjara Hills,10,Biryani,Credit/Debit Card,216.0,38.0,3.7
+2070,2025-12-16,22,Madhapur,30,Pizza,Cash on Delivery,459.0,31.0,3.3
+1858,2025-11-20,19,Banjara Hills,4,Biryani,Credit/Debit Card,285.0,30.0,4.3
+1070,2025-01-14,21,Gachibowli,19,Fast Food,UPI,280.0,NA,5.0
+2869,2025-03-09,20,Gachibowli,1,South Indian,Credit/Debit Card,249.0,37.0,4.2
+1313,2025-05-19,18,Dilsukhnagar,12,Biryani,UPI,388.0,27.0,3.5
+2877,2025-06-02,12,Madhapur,15,North Indian,Cash on Delivery,338.0,34.0,3.9
+2537,2025-11-24,21,Madhapur,7,Biryani,UPI,180.0,33.0,3.6
+2161,2025-05-06,11,Madhapur,1,Beverages,UPI,73.0,13.0,5.0
+2857,2025-08-05,20,Ameerpet,20,Pizza,Cash on Delivery,647.0,27.0,4.5
+1062,2025-01-18,20,Hitech City,20,Pizza,UPI,438.0,43.0,2.9
+2612,2025-09-05,20,Gachibowli,19,Beverages,Credit/Debit Card,124.0,38.0,3.9
+2587,2025-06-05,18,Gachibowli,11,Fast Food,Credit/Debit Card,267.0,NA,4.7
+2435,2025-03-05,20,Ameerpet,14,Biryani,Credit/Debit Card,402.0,37.0,4.6
+1104,2025-07-03,15,Kukatpally,1,Biryani,Credit/Debit Card,503.0,32.0,4.4
+2189,2025-11-27,11,Secunderabad,27,Pizza,UPI,484.0,32.0,3.4
+2152,2025-10-04,12,Secunderabad,25,North Indian,Cash on Delivery,216.0,52.0,2.8
+2180,2025-05-25,18,Ameerpet,4,Beverages,UPI,125.0,33.0,4.7
+2350,2025-02-20,20,Madhapur,23,Pizza,UPI,295.0,35.0,4.8
+1604,2025-04-25,11,Ameerpet,3,Desserts,Cash on Delivery,220.0,29.0,NA
+2281,2025-06-01,13,Kukatpally,3,Biryani,Credit/Debit Card,419.0,39.0,5.0
+1839,2025-09-09,20,Kukatpally,7,North Indian,UPI,274.0,46.0,3.3
+2640,2025-07-05,10,Kukatpally,23,Biryani,Cash on Delivery,639.0,32.0,3.6
+1476,2025-08-28,11,Gachibowli,8,Biryani,UPI,287.0,29.0,4.5
+1059,2025-02-23,13,Ameerpet,14,North Indian,UPI,358.0,27.0,5.0
+2953,2025-12-12,9,Banjara Hills,4,Biryani,Cash on Delivery,220.0,33.0,4.9
+2286,2025-09-25,11,Kukatpally,19,Pizza,UPI,327.0,39.0,3.5
+1924,2025-09-04,12,Secunderabad,15,South Indian,UPI,185.0,47.0,3.4
+1441,2025-01-18,9,Ameerpet,23,Biryani,UPI,267.0,43.0,4.1
+1410,2025-06-01,12,Ameerpet,15,North Indian,UPI,387.0,33.0,3.7
+1916,2025-11-09,16,Gachibowli,19,Biryani,UPI,318.0,39.0,3.4
+2217,2025-07-24,18,Hitech City,7,South Indian,UPI,248.0,33.0,4.0
+1155,2025-12-10,18,Madhapur,23,Biryani,Credit/Debit Card,323.0,33.0,4.1
+1374,2025-05-25,14,Ameerpet,26,Pizza,UPI,405.0,32.0,4.3
+1824,2025-05-28,13,Secunderabad,15,Biryani,Cash on Delivery,439.0,47.0,3.5
+2511,2025-10-23,12,Banjara Hills,13,Biryani,Cash on Delivery,468.0,43.0,2.9
+2944,2025-04-23,12,Gachibowli,20,Biryani,Wallet,514.0,26.0,3.8
+1230,2025-05-13,18,Ameerpet,3,Biryani,UPI,313.0,36.0,4.3
+2481,2025-11-30,22,Dilsukhnagar,25,Beverages,Cash on Delivery,NA,43.0,4.0
+1333,2025-06-08,18,Madhapur,19,Fast Food,Credit/Debit Card,174.0,33.0,4.5
+2767,2025-05-05,19,Secunderabad,16,Desserts,UPI,206.0,36.0,3.5
+2669,2025-10-07,21,Kukatpally,1,Pizza,Credit/Debit Card,471.0,47.0,4.2
+1379,2025-07-07,13,Ameerpet,23,Desserts,Wallet,167.0,36.0,3.6
+1582,2025-10-23,8,Secunderabad,24,Beverages,Cash on Delivery,137.0,44.0,3.5
+1633,2025-11-26,19,Ameerpet,9,Biryani,UPI,305.0,44.0,4.0
+1028,2025-06-05,19,Madhapur,14,Biryani,Cash on Delivery,402.0,29.0,4.5
+2902,2025-03-05,12,Madhapur,14,Fast Food,UPI,347.0,35.0,4.3
+1887,2025-05-26,18,Banjara Hills,23,Biryani,Wallet,618.0,32.0,NA
+2348,2025-04-27,12,Kukatpally,3,Biryani,UPI,396.0,33.0,4.2
+1741,2025-12-31,17,Hitech City,23,Biryani,UPI,456.0,29.0,5.0
+2250,2025-02-06,13,Hitech City,29,Pizza,UPI,372.0,32.0,NA
+2276,2025-06-06,20,Ameerpet,26,South Indian,UPI,159.0,34.0,3.6
+2738,2025-10-28,21,Ameerpet,11,North Indian,UPI,384.0,36.0,4.2
+2625,2025-03-30,16,Gachibowli,4,Biryani,Cash on Delivery,356.0,19.0,4.7
+2396,2025-10-29,18,Kukatpally,3,Biryani,UPI,590.0,39.0,3.2
+1298,2025-07-30,13,Dilsukhnagar,24,Biryani,Credit/Debit Card,530.0,38.0,NA
+2376,2025-08-20,11,Hitech City,30,Fast Food,Credit/Debit Card,319.0,25.0,NA
+1580,2025-04-05,12,Hitech City,27,Biryani,UPI,433.0,39.0,5.0
+1505,2025-09-03,12,Hitech City,20,Fast Food,Credit/Debit Card,386.0,27.0,3.6
+1285,2025-10-11,19,Madhapur,24,South Indian,UPI,187.0,28.0,4.2
+1816,2025-04-13,18,Kukatpally,27,North Indian,Credit/Debit Card,324.0,35.0,4.6
+1071,2025-04-06,19,Madhapur,6,Pizza,Cash on Delivery,333.0,37.0,3.7
+2950,2025-09-06,20,Kukatpally,22,North Indian,UPI,443.0,36.0,3.7
+2813,2025-02-25,11,Madhapur,30,Pizza,Credit/Debit Card,424.0,29.0,4.6
+2638,2025-01-25,21,Secunderabad,24,Fast Food,Credit/Debit Card,183.0,50.0,3.5
+1841,2025-06-18,18,Hitech City,15,Biryani,UPI,342.0,29.0,4.5
+2596,2025-02-11,12,Secunderabad,13,South Indian,Credit/Debit Card,256.0,51.0,3.8
+1862,2025-01-04,12,Secunderabad,26,Chinese,Credit/Debit Card,278.0,52.0,3.0
+2201,2025-02-09,19,Ameerpet,2,Beverages,Credit/Debit Card,91.0,28.0,3.2
+2607,2025-04-10,12,Secunderabad,26,Beverages,Credit/Debit Card,150.0,49.0,2.8
+1066,2025-06-18,12,Madhapur,15,North Indian,UPI,430.0,27.0,5.0
+1671,2025-01-02,13,Secunderabad,11,Biryani,UPI,245.0,40.0,4.1
+2483,2025-11-29,18,Banjara Hills,12,Fast Food,UPI,221.0,29.0,NA
+1401,2025-11-25,16,Madhapur,18,Desserts,Wallet,264.0,32.0,NA
+1943,2025-04-24,19,Kukatpally,4,Fast Food,Cash on Delivery,178.0,43.0,4.2
+1819,2025-08-09,15,Banjara Hills,19,Biryani,UPI,293.0,22.0,5.0
+2265,2025-09-03,12,Banjara Hills,12,Fast Food,UPI,211.0,36.0,3.7
+2639,2025-01-13,20,Gachibowli,29,Biryani,Cash on Delivery,387.0,26.0,3.3
+2312,2025-01-19,23,Ameerpet,29,Biryani,UPI,436.0,39.0,4.6
+2155,2025-03-13,16,Secunderabad,11,Biryani,UPI,253.0,36.0,4.4
+2571,2025-02-22,16,Kukatpally,15,Chinese,Credit/Debit Card,120.0,50.0,3.4
+1472,2025-09-14,13,Dilsukhnagar,23,Biryani,UPI,450.0,55.0,4.9
+1896,2025-05-31,12,Hitech City,27,North Indian,Wallet,296.0,NA,NA
+1704,2025-05-23,18,Banjara Hills,4,Pizza,Cash on Delivery,512.0,28.0,4.0
+1610,2025-07-18,13,Ameerpet,13,South Indian,UPI,285.0,29.0,2.8
+2108,2025-03-31,19,Madhapur,17,Biryani,Cash on Delivery,312.0,29.0,4.9
+2306,2025-05-28,21,Gachibowli,16,North Indian,Wallet,196.0,37.0,3.3
+1906,2025-08-14,9,Kukatpally,15,Biryani,UPI,518.0,35.0,4.2
+2861,2025-04-13,17,Banjara Hills,15,Biryani,Cash on Delivery,307.0,32.0,4.9
+1171,2025-06-01,22,Ameerpet,4,Biryani,Credit/Debit Card,443.0,36.0,4.7
+2671,2025-12-14,13,Banjara Hills,29,North Indian,Cash on Delivery,342.0,28.0,4.3
+1289,2025-02-14,18,Hitech City,19,Biryani,UPI,321.0,28.0,4.3
+1756,2025-08-19,9,Madhapur,27,North Indian,UPI,443.0,36.0,4.9
+1029,2025-10-09,11,Madhapur,5,Fast Food,UPI,149.0,26.0,NA
+2940,2025-03-28,20,Dilsukhnagar,16,Fast Food,Credit/Debit Card,310.0,46.0,3.2
+1147,2025-10-10,12,Hitech City,4,North Indian,UPI,570.0,37.0,3.8
+1017,2025-12-25,19,Kukatpally,11,Biryani,Credit/Debit Card,463.0,47.0,4.4
+1668,2025-03-08,12,Madhapur,2,North Indian,Credit/Debit Card,268.0,28.0,4.0
+1563,2025-04-17,19,Gachibowli,30,Biryani,Cash on Delivery,232.0,29.0,4.1
+1587,2025-10-13,21,Gachibowli,1,Chinese,UPI,347.0,24.0,4.4
+2648,2025-09-24,20,Hitech City,13,Desserts,UPI,185.0,35.0,4.6
+2763,2025-08-12,19,Madhapur,16,Fast Food,Cash on Delivery,285.0,22.0,3.8
+1558,2025-11-22,18,Ameerpet,12,Chinese,Credit/Debit Card,321.0,35.0,4.1
+1882,2025-04-15,10,Hitech City,26,Biryani,Wallet,539.0,33.0,4.0
+1060,2025-04-22,17,Gachibowli,19,Chinese,UPI,185.0,26.0,4.8
+2698,2025-05-08,18,Gachibowli,29,Fast Food,UPI,235.0,18.0,NA
+2791,2025-07-03,23,Kukatpally,9,Biryani,UPI,575.0,27.0,3.9
+2236,2025-12-22,18,Dilsukhnagar,13,North Indian,Cash on Delivery,221.0,49.0,NA
+2254,2025-09-07,19,Kukatpally,1,Pizza,UPI,497.0,26.0,4.0
+1657,2025-07-31,13,Banjara Hills,17,Biryani,UPI,308.0,36.0,4.6
+1632,2025-06-17,12,Gachibowli,27,North Indian,UPI,453.0,44.0,5.0
+1707,2025-07-10,19,Secunderabad,7,South Indian,UPI,178.0,35.0,3.7
+2093,2025-06-07,17,Dilsukhnagar,3,Fast Food,UPI,398.0,45.0,4.3
+1132,2025-08-21,19,Gachibowli,9,South Indian,UPI,105.0,35.0,4.6
+2500,2025-08-04,12,Ameerpet,27,Pizza,Credit/Debit Card,546.0,41.0,4.5
+2243,2025-04-29,19,Ameerpet,23,Biryani,Wallet,440.0,36.0,5.0
+2354,2025-01-28,12,Kukatpally,28,Beverages,Credit/Debit Card,155.0,45.0,3.8
+1265,2025-05-02,12,Kukatpally,26,South Indian,UPI,209.0,33.0,4.2
+2522,2025-11-01,15,Ameerpet,11,Biryani,Cash on Delivery,695.0,32.0,5.0
+1851,2025-10-05,11,Secunderabad,23,North Indian,Credit/Debit Card,271.0,27.0,NA
+1598,2025-08-21,11,Dilsukhnagar,11,Fast Food,Cash on Delivery,329.0,44.0,4.3
+1878,2025-02-13,19,Kukatpally,4,Biryani,Credit/Debit Card,452.0,49.0,3.8
+2590,2025-11-21,12,Banjara Hills,24,Fast Food,Cash on Delivery,361.0,34.0,4.2
+2913,2025-08-06,18,Kukatpally,23,Beverages,Wallet,114.0,36.0,4.0
+2733,2025-01-13,12,Gachibowli,8,Biryani,Credit/Debit Card,330.0,35.0,4.4
+2324,2025-08-18,12,Gachibowli,30,Desserts,Credit/Debit Card,197.0,NA,4.0
+1826,2025-04-15,20,Dilsukhnagar,13,Biryani,UPI,344.0,49.0,3.0
+2888,2025-02-15,19,Hitech City,28,Biryani,UPI,339.0,37.0,4.6
+1488,2025-03-25,12,Kukatpally,3,Fast Food,UPI,239.0,30.0,4.5
+2428,2025-10-18,12,Gachibowli,15,Fast Food,Cash on Delivery,351.0,38.0,4.5
+1026,2025-05-02,21,Secunderabad,3,South Indian,Cash on Delivery,203.0,45.0,3.3
+2352,2025-03-07,20,Banjara Hills,30,North Indian,UPI,345.0,40.0,4.0
+2054,2025-09-20,21,Kukatpally,28,Fast Food,UPI,206.0,53.0,3.9
+2349,2025-08-01,12,Kukatpally,27,Chinese,UPI,269.0,35.0,NA
+2981,2025-07-09,17,Gachibowli,11,Biryani,UPI,445.0,31.0,3.8
+2803,2025-09-26,19,Gachibowli,30,Biryani,Cash on Delivery,526.0,41.0,4.6
+1616,2025-07-30,12,Gachibowli,13,Chinese,Credit/Debit Card,151.0,36.0,3.3
+1199,2025-01-31,22,Hitech City,3,Chinese,UPI,363.0,42.0,4.4
+2171,2025-07-08,20,Madhapur,8,Biryani,UPI,430.0,29.0,3.5
+1270,2025-07-29,21,Madhapur,11,Fast Food,Cash on Delivery,332.0,21.0,5.0
+1738,2025-06-06,17,Madhapur,6,Pizza,UPI,394.0,NA,3.6
+2041,2025-12-18,18,Madhapur,1,North Indian,Cash on Delivery,232.0,26.0,3.5
+1005,2025-07-03,11,Madhapur,19,Desserts,Credit/Debit Card,223.0,25.0,5.0
+2903,2025-10-02,18,Banjara Hills,18,Biryani,Cash on Delivery,NA,30.0,3.9
+2831,2025-03-11,22,Kukatpally,9,Pizza,UPI,443.0,46.0,4.0
+2462,2025-11-24,12,Hitech City,16,Pizza,UPI,379.0,42.0,3.4
+2798,2025-07-07,18,Madhapur,11,Pizza,Credit/Debit Card,355.0,19.0,4.1
+2785,2025-12-20,17,Gachibowli,6,Biryani,UPI,372.0,29.0,4.4
+1102,2025-05-03,13,Kukatpally,28,Fast Food,Credit/Debit Card,246.0,46.0,5.0
+1181,2025-05-15,20,Banjara Hills,25,Biryani,UPI,397.0,35.0,3.5
+1611,2025-09-06,12,Hitech City,4,Biryani,UPI,305.0,33.0,4.4
+2259,2025-02-13,16,Hitech City,23,Chinese,Credit/Debit Card,231.0,47.0,3.2
+2999,2025-06-22,20,Banjara Hills,4,Chinese,UPI,354.0,35.0,4.4
+2272,2025-05-07,19,Ameerpet,15,Biryani,Wallet,203.0,37.0,NA
+2841,2025-03-11,20,Hitech City,18,Biryani,UPI,508.0,37.0,3.8
+2460,2025-10-24,18,Gachibowli,8,Biryani,Credit/Debit Card,546.0,21.0,3.9
+2778,2025-01-21,18,Banjara Hills,14,Fast Food,Wallet,262.0,35.0,3.8
+1574,2025-09-12,13,Kukatpally,12,Pizza,Credit/Debit Card,270.0,43.0,4.5
+1223,2025-06-01,19,Hitech City,9,North Indian,UPI,346.0,40.0,4.5
+1394,2025-11-01,19,Madhapur,6,Beverages,UPI,130.0,27.0,3.8
+1966,2025-03-10,18,Kukatpally,11,Fast Food,Credit/Debit Card,236.0,45.0,3.2
+1323,2025-03-15,12,Banjara Hills,24,Biryani,UPI,376.0,38.0,4.3
+1212,2025-09-06,17,Madhapur,7,Biryani,Cash on Delivery,365.0,33.0,2.8
+1148,2025-07-09,11,Madhapur,21,North Indian,UPI,327.0,31.0,3.5
+1958,2025-02-15,17,Gachibowli,26,North Indian,UPI,526.0,41.0,4.1
+1871,2025-08-31,19,Madhapur,11,Pizza,UPI,435.0,34.0,3.8
+1382,2025-03-19,13,Ameerpet,5,North Indian,UPI,216.0,36.0,3.1
+2796,2025-04-14,20,Secunderabad,30,Biryani,UPI,330.0,39.0,4.1
+1145,2025-05-26,19,Gachibowli,1,North Indian,Credit/Debit Card,365.0,40.0,2.5
+1087,2025-02-17,10,Secunderabad,12,Biryani,UPI,359.0,30.0,5.0
+1693,2025-11-15,14,Secunderabad,9,Chinese,Credit/Debit Card,402.0,50.0,2.6
+1074,2025-12-11,18,Madhapur,12,South Indian,Cash on Delivery,142.0,31.0,4.3
+2931,2025-12-26,11,Kukatpally,3,North Indian,Wallet,437.0,24.0,4.3
+2019,2025-09-05,14,Gachibowli,19,Biryani,UPI,225.0,279.0,4.6
+1614,2025-07-20,13,Hitech City,23,Biryani,Cash on Delivery,298.0,27.0,5.0
+1122,2025-12-22,11,Kukatpally,27,Chinese,Credit/Debit Card,392.0,42.0,4.0
+2780,2025-05-10,12,Madhapur,23,Beverages,UPI,60.0,33.0,5.0
+1534,2025-03-03,12,Secunderabad,19,Fast Food,UPI,349.0,43.0,3.4
+2421,2025-07-09,10,Kukatpally,14,Beverages,Credit/Debit Card,95.0,30.0,4.0
+2285,2025-07-31,13,Madhapur,30,Pizza,Credit/Debit Card,363.0,41.0,2.6
+2982,2025-10-20,8,Hitech City,24,Fast Food,Cash on Delivery,NA,37.0,4.1
+2425,2025-10-04,20,Madhapur,19,Chinese,UPI,271.0,43.0,3.5
+2315,2025-08-01,19,Kukatpally,30,Pizza,UPI,463.0,31.0,4.1
+2140,2025-12-12,18,Banjara Hills,23,Fast Food,UPI,248.0,24.0,4.7
+1578,2025-04-09,19,Banjara Hills,23,North Indian,Cash on Delivery,355.0,38.0,4.1
+1491,2025-08-14,11,Ameerpet,15,Pizza,Wallet,432.0,35.0,3.8
+2117,2025-11-23,12,Gachibowli,15,Fast Food,UPI,253.0,41.0,4.4
+2053,2025-10-07,19,Banjara Hills,19,Fast Food,UPI,308.0,35.0,4.9
+2561,2025-09-09,17,Madhapur,8,Biryani,Cash on Delivery,306.0,22.0,4.6
+2283,2025-03-18,20,Ameerpet,15,South Indian,UPI,226.0,38.0,4.9
+1356,2025-02-23,20,Gachibowli,9,South Indian,Wallet,182.0,34.0,3.5
+2966,2025-12-17,20,Hitech City,13,Biryani,Credit/Debit Card,577.0,43.0,4.8
+1266,2025-12-28,18,Madhapur,20,Biryani,UPI,267.0,26.0,4.2
+1194,2025-08-29,18,Hitech City,10,South Indian,UPI,NA,32.0,3.8
+1375,2025-10-03,18,Kukatpally,1,Chinese,UPI,259.0,22.0,5.0
+2200,2025-01-23,12,Gachibowli,30,Fast Food,UPI,194.0,34.0,4.8
+1805,2025-06-29,19,Kukatpally,3,Biryani,Credit/Debit Card,527.0,44.0,4.4
+2232,2025-10-10,17,Madhapur,20,South Indian,UPI,201.0,23.0,NA
+1222,2025-03-31,14,Madhapur,7,Pizza,Cash on Delivery,384.0,32.0,3.3
+2410,2025-12-22,11,Kukatpally,6,Biryani,Cash on Delivery,343.0,42.0,3.6
+1200,2025-07-05,13,Madhapur,19,Pizza,Wallet,210.0,32.0,4.2
+2909,2025-07-06,19,Gachibowli,15,Biryani,UPI,508.0,40.0,4.6
+1886,2025-06-30,20,Secunderabad,9,Chinese,Wallet,276.0,53.0,3.5
+2630,2025-06-17,20,Hitech City,13,Biryani,Credit/Debit Card,374.0,30.0,4.3
+2893,2025-12-16,17,Ameerpet,23,South Indian,UPI,219.0,28.0,5.0
+2957,2025-04-27,12,Secunderabad,11,Pizza,Wallet,444.0,40.0,4.0
+1679,2025-10-06,12,Secunderabad,13,Chinese,Credit/Debit Card,353.0,35.0,4.0
+1832,2025-12-26,13,Madhapur,29,Chinese,UPI,308.0,31.0,4.1
+2298,2025-07-23,16,Gachibowli,15,Pizza,Wallet,297.0,NA,5.0
+1898,2025-01-07,12,Kukatpally,16,Pizza,Credit/Debit Card,541.0,40.0,3.3
+2069,2025-09-30,21,Ameerpet,20,North Indian,UPI,413.0,35.0,3.4
+2263,2025-10-06,20,Hitech City,1,Biryani,UPI,517.0,26.0,4.3
+2291,2025-01-18,21,Gachibowli,24,Chinese,UPI,377.0,42.0,4.1
+1895,2025-08-05,12,Banjara Hills,28,Fast Food,Wallet,294.0,45.0,1.9
+2056,2025-09-12,21,Ameerpet,3,South Indian,UPI,153.0,47.0,3.6
+1158,2025-12-12,11,Banjara Hills,4,Pizza,UPI,366.0,37.0,4.9
+2761,2025-10-25,19,Banjara Hills,28,South Indian,Cash on Delivery,244.0,41.0,3.7
+1210,2025-11-24,19,Gachibowli,1,North Indian,UPI,235.0,26.0,3.4
+2021,2025-04-15,12,Secunderabad,9,Fast Food,Credit/Debit Card,480.0,35.0,4.0
+2575,2025-08-29,11,Gachibowli,30,Pizza,UPI,218.0,25.0,NA
+1209,2025-10-11,20,Gachibowli,4,Chinese,Cash on Delivery,191.0,26.0,3.8
+2624,2025-07-25,18,Ameerpet,11,North Indian,Wallet,381.0,34.0,4.1
+2678,2025-10-12,19,Hitech City,8,Biryani,Cash on Delivery,322.0,37.0,3.5
+2985,2025-07-23,18,Dilsukhnagar,30,North Indian,UPI,483.0,44.0,NA
+1752,2025-11-25,19,Madhapur,1,Beverages,Credit/Debit Card,181.0,38.0,4.4
+1720,2025-03-08,19,Banjara Hills,26,Biryani,UPI,203.0,27.0,4.2
+1900,2025-12-07,19,Ameerpet,16,Pizza,Wallet,286.0,34.0,4.6
+1949,2025-02-09,19,Gachibowli,23,Chinese,UPI,297.0,40.0,3.7
+1351,2025-09-28,14,Gachibowli,21,Chinese,UPI,309.0,29.0,3.3
+1719,2025-04-30,13,Hitech City,23,South Indian,Cash on Delivery,171.0,28.0,4.7
+2127,2025-10-12,9,Madhapur,13,Chinese,Wallet,311.0,26.0,3.3
+1411,2025-07-11,21,Hitech City,13,Fast Food,UPI,167.0,33.0,5.0
+2837,2025-05-21,11,Kukatpally,20,Pizza,UPI,516.0,33.0,3.2
+1934,2025-08-16,14,Kukatpally,8,North Indian,UPI,319.0,38.0,3.2
+1182,2025-02-01,20,Gachibowli,24,Beverages,UPI,108.0,37.0,3.7
+2856,2025-05-18,18,Dilsukhnagar,8,North Indian,Cash on Delivery,296.0,38.0,4.9
+2547,2025-03-11,11,Secunderabad,29,Fast Food,Credit/Debit Card,124.0,45.0,4.0
+1412,2025-11-23,13,Kukatpally,15,South Indian,Credit/Debit Card,259.0,36.0,3.7
+2221,2025-09-23,22,Banjara Hills,12,Desserts,UPI,242.0,32.0,3.9
+1272,2025-06-15,21,Dilsukhnagar,8,Pizza,Cash on Delivery,270.0,44.0,3.3
+1100,2025-01-22,12,Dilsukhnagar,23,North Indian,Cash on Delivery,309.0,48.0,4.9
+1500,2025-01-17,19,Madhapur,15,South Indian,Cash on Delivery,260.0,24.0,NA
+1363,2025-10-24,18,Banjara Hills,1,Pizza,UPI,434.0,34.0,4.4
+1676,2025-07-16,19,Dilsukhnagar,22,North Indian,UPI,251.0,44.0,3.1
+1716,2025-06-07,11,Hitech City,26,Biryani,UPI,317.0,40.0,3.2
+1198,2025-11-02,17,Gachibowli,3,Biryani,UPI,365.0,30.0,4.1
+2392,2025-08-19,18,Madhapur,19,Biryani,Wallet,487.0,19.0,4.3
+1304,2025-11-29,22,Gachibowli,3,North Indian,Credit/Debit Card,300.0,35.0,4.9
+2143,2025-12-08,12,Gachibowli,25,Fast Food,Credit/Debit Card,60.0,31.0,3.9
+1047,2025-10-08,19,Dilsukhnagar,14,Biryani,UPI,251.0,50.0,3.9
+1922,2025-05-08,12,Dilsukhnagar,25,Pizza,UPI,540.0,36.0,3.5
+2601,2025-04-11,16,Hitech City,5,North Indian,Cash on Delivery,590.0,31.0,3.5
+2068,2025-03-05,12,Hitech City,21,Pizza,UPI,439.0,30.0,4.5
+1686,2025-10-29,10,Gachibowli,15,North Indian,UPI,392.0,22.0,4.1
+2364,2025-06-25,8,Hitech City,13,Biryani,UPI,456.0,35.0,3.2
+1494,2025-12-17,19,Gachibowli,28,Chinese,UPI,146.0,23.0,3.8
+1938,2025-04-10,17,Hitech City,1,Fast Food,Cash on Delivery,195.0,23.0,4.7
+2154,2025-08-30,21,Kukatpally,13,Biryani,UPI,377.0,33.0,4.0
+1911,2025-07-19,19,Secunderabad,10,South Indian,Credit/Debit Card,146.0,49.0,3.2
+1591,2025-12-29,20,Banjara Hills,13,North Indian,Credit/Debit Card,411.0,29.0,5.0
+1457,2025-03-13,17,Banjara Hills,11,Desserts,UPI,181.0,35.0,4.3
+2936,2025-01-08,14,Madhapur,23,Fast Food,Cash on Delivery,205.0,33.0,5.0
+2558,2025-03-19,20,Banjara Hills,17,Biryani,UPI,253.0,24.0,5.0
+1340,2025-08-18,20,Secunderabad,14,South Indian,Cash on Delivery,228.0,37.0,4.2
+2894,2025-10-09,10,Gachibowli,29,Fast Food,Wallet,189.0,21.0,3.8
+1301,2025-11-13,12,Madhapur,28,Biryani,Cash on Delivery,553.0,23.0,4.4
+2545,2025-12-13,18,Ameerpet,9,Biryani,UPI,490.0,40.0,3.7
+1318,2025-09-02,12,Ameerpet,14,South Indian,UPI,148.0,27.0,4.4
+1579,2025-11-10,12,Secunderabad,23,Fast Food,Credit/Debit Card,288.0,47.0,4.1
+2910,2025-03-11,20,Gachibowli,15,Fast Food,UPI,331.0,19.0,4.8
+2814,2025-03-01,12,Gachibowli,30,Biryani,UPI,296.0,25.0,4.4
+2900,2025-06-22,13,Dilsukhnagar,19,North Indian,UPI,350.0,41.0,4.1
+1567,2025-08-19,20,Banjara Hills,24,North Indian,UPI,426.0,45.0,2.7
+2071,2025-07-04,13,Hitech City,30,Biryani,UPI,504.0,34.0,4.9
+2204,2025-07-22,20,Gachibowli,29,South Indian,UPI,272.0,32.0,4.1
+1176,2025-11-26,12,Gachibowli,24,Biryani,UPI,440.0,36.0,3.5
+2850,2025-11-09,12,Hitech City,27,South Indian,Credit/Debit Card,189.0,38.0,4.4
+2683,2025-11-21,20,Secunderabad,1,Pizza,Wallet,548.0,50.0,3.6
+2007,2025-06-28,19,Banjara Hills,13,North Indian,Cash on Delivery,205.0,42.0,3.2
+1977,2025-09-07,21,Gachibowli,12,Desserts,UPI,174.0,24.0,4.0
+2220,2025-02-22,19,Banjara Hills,19,Desserts,UPI,198.0,30.0,4.3
+1335,2025-08-31,14,Kukatpally,1,Biryani,Credit/Debit Card,329.0,34.0,4.5
+2605,2025-04-22,12,Gachibowli,28,Biryani,Credit/Debit Card,303.0,32.0,4.0
+2513,2025-05-19,18,Gachibowli,17,Fast Food,UPI,170.0,26.0,3.9
+2429,2025-04-09,16,Gachibowli,27,Beverages,UPI,203.0,28.0,4.2
+1996,2025-07-28,13,Hitech City,21,Desserts,Credit/Debit Card,180.0,32.0,3.7
+1247,2025-08-06,18,Banjara Hills,13,Chinese,UPI,372.0,28.0,4.2
+1444,2025-11-12,17,Ameerpet,15,Pizza,Credit/Debit Card,435.0,18.0,4.9
+1138,2025-08-03,20,Gachibowli,27,Biryani,Credit/Debit Card,336.0,NA,4.8
+1006,2025-12-12,20,Ameerpet,17,Biryani,Wallet,331.0,35.0,3.5
+1329,2025-10-19,19,Dilsukhnagar,4,Fast Food,UPI,261.0,46.0,3.8
+1791,2025-06-16,12,Dilsukhnagar,7,North Indian,UPI,314.0,49.0,3.2
+1760,2025-12-10,18,Dilsukhnagar,11,Desserts,UPI,240.0,52.0,2.8
+2838,2025-06-24,20,Gachibowli,11,South Indian,UPI,120.0,27.0,4.3
+1051,2025-08-05,13,Gachibowli,14,North Indian,UPI,420.0,32.0,4.7
+2036,2025-01-25,18,Madhapur,13,Pizza,Cash on Delivery,467.0,33.0,4.4
+2195,2025-01-20,19,Kukatpally,4,South Indian,UPI,67.0,41.0,NA
+2618,2025-08-23,18,Dilsukhnagar,14,Chinese,Wallet,112.0,39.0,4.6
+2975,2025-03-02,23,Gachibowli,3,Beverages,UPI,175.0,37.0,4.7
+1920,2025-11-26,21,Banjara Hills,7,Pizza,Credit/Debit Card,198.0,42.0,2.5
+1954,2025-10-03,19,Banjara Hills,29,North Indian,UPI,198.0,50.0,1.8
+1267,2025-04-09,11,Ameerpet,24,Chinese,UPI,295.0,35.0,3.5
+1455,2025-04-19,11,Gachibowli,12,North Indian,Wallet,252.0,25.0,4.4
+1877,2025-05-25,14,Ameerpet,28,Biryani,Cash on Delivery,356.0,36.0,3.3
+2897,2025-12-28,18,Hitech City,17,Chinese,Cash on Delivery,429.0,34.0,4.2
+2824,2025-07-17,22,Banjara Hills,23,North Indian,Wallet,392.0,41.0,4.4
+2092,2025-09-01,11,Banjara Hills,27,North Indian,UPI,340.0,21.0,4.0
+2679,2025-11-02,21,Gachibowli,16,Pizza,UPI,488.0,29.0,3.6
+2901,2025-05-23,9,Gachibowli,19,Fast Food,UPI,248.0,23.0,5.0
+1603,2025-06-22,17,Gachibowli,7,Beverages,Wallet,NA,21.0,4.4
+1038,2025-07-28,19,Kukatpally,3,Fast Food,Wallet,188.0,31.0,3.6
+1290,2025-01-13,20,Banjara Hills,3,Biryani,Cash on Delivery,319.0,26.0,4.8
+1127,2025-11-09,11,Banjara Hills,12,North Indian,Credit/Debit Card,395.0,33.0,4.0
+1493,2025-09-16,8,Secunderabad,7,South Indian,Wallet,261.0,35.0,4.1
+1350,2025-12-12,12,Madhapur,30,Chinese,UPI,304.0,37.0,4.6
+1825,2025-08-16,20,Dilsukhnagar,7,Fast Food,Cash on Delivery,318.0,NA,3.3
+1081,2025-12-02,15,Madhapur,15,North Indian,UPI,360.0,35.0,4.4
+2342,2025-11-14,12,Madhapur,2,Pizza,Credit/Debit Card,482.0,32.0,3.3
+1899,2025-04-26,14,Hitech City,15,Biryani,UPI,202.0,35.0,NA
+2998,2025-12-18,18,Madhapur,15,North Indian,Cash on Delivery,140.0,24.0,4.8
+2693,2025-07-12,19,Ameerpet,27,North Indian,Credit/Debit Card,298.0,39.0,4.3
+2593,2025-05-20,18,Kukatpally,10,Biryani,Credit/Debit Card,537.0,38.0,2.7
+1857,2025-04-24,19,Madhapur,3,Fast Food,UPI,228.0,35.0,3.9
+2316,2025-07-03,19,Gachibowli,3,Biryani,UPI,525.0,33.0,4.1
+1217,2025-08-18,16,Madhapur,12,Fast Food,Cash on Delivery,281.0,32.0,4.2
+2568,2025-09-25,19,Ameerpet,7,North Indian,Wallet,454.0,32.0,3.6
+2879,2025-07-29,19,Madhapur,10,Chinese,UPI,143.0,26.0,4.4
+2598,2025-06-30,20,Secunderabad,26,Biryani,Credit/Debit Card,465.0,39.0,4.1
+1161,2025-06-07,12,Hitech City,11,North Indian,Cash on Delivery,489.0,NA,4.1
+2375,2025-02-08,19,Gachibowli,8,Chinese,UPI,302.0,36.0,4.0
+2294,2025-05-28,19,Kukatpally,11,Chinese,UPI,249.0,44.0,4.0
+2157,2025-06-07,14,Banjara Hills,11,Beverages,Cash on Delivery,124.0,35.0,4.5
+2646,2025-03-16,16,Kukatpally,30,Biryani,UPI,466.0,31.0,5.0
+2600,2025-01-30,19,Kukatpally,1,North Indian,Wallet,277.0,44.0,5.0
+1325,2025-01-25,20,Gachibowli,13,Biryani,Cash on Delivery,398.0,33.0,NA
+2960,2025-10-11,21,Kukatpally,12,Chinese,UPI,389.0,34.0,4.1
+1501,2025-09-07,23,Hitech City,3,North Indian,UPI,517.0,25.0,4.6
+1523,2025-02-08,20,Secunderabad,3,Fast Food,UPI,420.0,53.0,4.1
+2550,2025-04-16,19,Ameerpet,14,North Indian,UPI,308.0,30.0,3.9
+2388,2025-10-21,14,Hitech City,17,Fast Food,UPI,241.0,28.0,NA
+2490,2025-11-19,17,Gachibowli,11,Biryani,Credit/Debit Card,410.0,36.0,3.6
+1088,2025-12-30,19,Madhapur,16,Biryani,UPI,490.0,38.0,NA
+1443,2025-12-18,19,Kukatpally,28,Biryani,UPI,494.0,43.0,3.5
+2262,2025-07-06,19,Gachibowli,15,North Indian,UPI,511.0,37.0,4.2
+2455,2025-12-08,11,Banjara Hills,27,Biryani,UPI,442.0,30.0,4.8
+2653,2025-12-29,22,Hitech City,30,South Indian,UPI,214.0,36.0,4.4
+2617,2025-05-25,12,Madhapur,23,Pizza,UPI,295.0,30.0,4.6
+1251,2025-12-30,18,Gachibowli,15,Desserts,UPI,179.0,29.0,NA
+2665,2025-11-09,20,Ameerpet,15,Pizza,UPI,555.0,37.0,4.0
+1694,2025-02-10,17,Ameerpet,15,South Indian,UPI,NA,32.0,4.1
+2402,2025-11-01,11,Kukatpally,17,Biryani,UPI,296.0,40.0,3.3
+2569,2025-09-16,11,Gachibowli,7,Desserts,UPI,209.0,30.0,3.0
+1149,2025-03-17,17,Gachibowli,4,Pizza,UPI,387.0,24.0,4.8
+2133,2025-08-17,11,Kukatpally,27,Fast Food,Credit/Debit Card,242.0,29.0,4.8
+1783,2025-07-08,13,Banjara Hills,16,Biryani,UPI,471.0,29.0,2.4
+2501,2025-10-07,21,Ameerpet,30,Pizza,Cash on Delivery,513.0,35.0,3.5
+1319,2025-03-07,21,Madhapur,13,North Indian,Credit/Debit Card,348.0,41.0,NA
+2082,2025-03-25,18,Banjara Hills,24,Desserts,UPI,NA,31.0,3.6
+2809,2025-09-08,11,Kukatpally,16,Biryani,UPI,501.0,41.0,4.7
+1914,2025-12-12,20,Dilsukhnagar,28,Biryani,UPI,273.0,49.0,3.2
+1854,2025-09-26,21,Banjara Hills,30,North Indian,Credit/Debit Card,256.0,38.0,3.3
+1985,2025-10-19,12,Dilsukhnagar,1,North Indian,Credit/Debit Card,339.0,48.0,4.0
+1892,2025-10-27,19,Dilsukhnagar,10,Fast Food,Wallet,201.0,39.0,2.8
+2584,2025-03-26,14,Banjara Hills,8,Biryani,Credit/Debit Card,397.0,35.0,3.6
+2939,2025-06-01,20,Madhapur,26,North Indian,Cash on Delivery,399.0,41.0,3.2
+1979,2025-03-30,20,Ameerpet,14,North Indian,Credit/Debit Card,231.0,38.0,4.9
+2471,2025-01-26,13,Gachibowli,11,Fast Food,Credit/Debit Card,349.0,28.0,4.3
+1670,2025-12-01,16,Kukatpally,16,North Indian,Cash on Delivery,362.0,42.0,3.7
+1362,2025-04-05,12,Kukatpally,1,South Indian,UPI,221.0,43.0,3.6
+1817,2025-05-06,12,Gachibowli,13,South Indian,UPI,76.0,27.0,4.2
+1597,2025-06-22,20,Kukatpally,26,Biryani,Credit/Debit Card,476.0,51.0,3.0
+1618,2025-11-09,12,Ameerpet,15,Pizza,Cash on Delivery,243.0,31.0,4.8
+1035,2025-12-03,12,Dilsukhnagar,11,Biryani,Cash on Delivery,681.0,43.0,3.2
+2010,2025-07-12,18,Banjara Hills,13,North Indian,UPI,355.0,42.0,3.9
+1903,2025-02-20,17,Kukatpally,4,Chinese,Wallet,269.0,41.0,4.3
+2095,2025-03-30,11,Secunderabad,16,Fast Food,UPI,280.0,31.0,3.8
+1986,2025-12-25,23,Dilsukhnagar,12,Biryani,Cash on Delivery,325.0,42.0,3.9
+1125,2025-08-08,21,Madhapur,23,North Indian,UPI,370.0,23.0,5.0
+1225,2025-04-07,21,Secunderabad,17,Biryani,UPI,232.0,42.0,3.8
+2271,2025-12-16,19,Madhapur,23,Pizza,Credit/Debit Card,511.0,32.0,4.8
+2066,2025-04-02,10,Dilsukhnagar,17,Beverages,UPI,166.0,38.0,4.7
+1843,2025-03-14,12,Banjara Hills,2,Chinese,UPI,234.0,34.0,4.3
+2111,2025-12-28,19,Kukatpally,13,Biryani,UPI,584.0,40.0,3.0
+1426,2025-06-18,13,Ameerpet,14,South Indian,Credit/Debit Card,175.0,28.0,4.6
+1992,2025-02-18,16,Madhapur,4,Pizza,UPI,557.0,29.0,4.8
+2951,2025-05-02,19,Dilsukhnagar,2,Chinese,Wallet,303.0,45.0,3.5
+1801,2025-06-29,18,Madhapur,23,Biryani,UPI,NA,26.0,5.0
+2905,2025-06-03,19,Gachibowli,23,Biryani,UPI,429.0,NA,3.6
+1889,2025-12-20,19,Banjara Hills,27,Fast Food,UPI,186.0,38.0,4.2
+1041,2025-10-19,13,Kukatpally,28,Biryani,Wallet,425.0,NA,3.1
+1154,2025-07-24,11,Kukatpally,24,Pizza,Credit/Debit Card,353.0,40.0,3.1
+2788,2025-10-05,12,Madhapur,19,North Indian,UPI,369.0,28.0,5.0
+1489,2025-05-24,19,Banjara Hills,23,Chinese,Credit/Debit Card,224.0,27.0,5.0
+2920,2025-09-19,19,Hitech City,8,Biryani,Cash on Delivery,411.0,35.0,4.0
+2536,2025-12-31,19,Ameerpet,21,Fast Food,UPI,273.0,38.0,2.8
+2692,2025-08-03,15,Madhapur,8,Desserts,UPI,217.0,40.0,2.7
+1761,2025-05-12,19,Banjara Hills,2,North Indian,Wallet,337.0,30.0,2.8
+2316,2025-07-03,19,Gachibowli,3,Biryani,UPI,525.0,33.0,4.1
+2035,2025-07-18,23,Banjara Hills,19,Biryani,UPI,388.0,38.0,4.4
+2112,2025-09-25,19,Kukatpally,23,Pizza,Credit/Debit Card,433.0,53.0,4.3
+1372,2025-10-10,21,Hitech City,23,Biryani,Credit/Debit Card,321.0,36.0,3.8
+2889,2025-11-26,14,Madhapur,1,Pizza,Credit/Debit Card,194.0,44.0,NA
+2933,2025-02-10,22,Gachibowli,12,North Indian,Cash on Delivery,272.0,39.0,4.6
+1499,2025-07-17,10,Ameerpet,19,North Indian,Cash on Delivery,252.0,35.0,4.0
+1049,2025-06-02,21,Hitech City,3,Pizza,Cash on Delivery,361.0,40.0,4.1
+1473,2025-10-01,19,Banjara Hills,13,Biryani,UPI,287.0,45.0,3.3
+2492,2025-08-17,11,Banjara Hills,14,Biryani,Cash on Delivery,409.0,25.0,4.3
+2329,2025-07-08,17,Gachibowli,27,Biryani,UPI,283.0,33.0,3.7
+2789,2025-04-21,11,Madhapur,13,North Indian,UPI,344.0,23.0,4.9
+2134,2025-10-04,19,Hitech City,30,Biryani,Credit/Debit Card,454.0,NA,3.9
+2734,2025-03-16,11,Hitech City,22,Biryani,UPI,325.0,26.0,3.7
+1115,2025-06-06,20,Hitech City,6,Biryani,UPI,505.0,30.0,4.6
+2288,2025-08-29,19,Hitech City,12,South Indian,UPI,290.0,40.0,4.2
+1746,2025-04-24,19,Secunderabad,4,Fast Food,Credit/Debit Card,240.0,40.0,NA
+2723,2025-12-13,17,Kukatpally,10,Pizza,Credit/Debit Card,540.0,40.0,4.3
+2971,2025-08-03,14,Kukatpally,1,Pizza,UPI,581.0,35.0,3.8
+1357,2025-04-21,18,Hitech City,4,Desserts,UPI,164.0,30.0,4.1
+1229,2025-04-05,23,Madhapur,16,North Indian,UPI,432.0,34.0,3.4
+1842,2025-12-12,13,Kukatpally,10,Desserts,UPI,245.0,34.0,3.5
+1073,2025-12-29,16,Banjara Hills,18,South Indian,UPI,154.0,35.0,2.8
+1291,2025-01-29,12,Secunderabad,19,Desserts,UPI,336.0,27.0,4.1
+2681,2025-04-10,19,Kukatpally,10,Fast Food,Credit/Debit Card,186.0,30.0,4.4
+1112,2025-04-29,19,Hitech City,16,Chinese,UPI,270.0,32.0,3.9
+1170,2025-09-19,12,Hitech City,3,Pizza,UPI,344.0,35.0,4.8
+1237,2025-10-13,17,Secunderabad,30,Pizza,Credit/Debit Card,405.0,43.0,4.3
+2760,2025-11-16,16,Hitech City,19,South Indian,UPI,167.0,22.0,4.7
+2611,2025-06-09,18,Dilsukhnagar,11,North Indian,UPI,261.0,44.0,3.9
+1248,2025-07-05,13,Ameerpet,19,Pizza,UPI,379.0,52.0,4.9
+2874,2025-01-19,12,Gachibowli,25,Biryani,Credit/Debit Card,324.0,37.0,3.8
+1151,2025-12-31,19,Gachibowli,22,Fast Food,UPI,189.0,25.0,3.2
+2816,2025-06-28,17,Gachibowli,24,North Indian,UPI,NA,27.0,4.0
+1408,2025-08-30,19,Banjara Hills,28,Fast Food,UPI,282.0,41.0,2.9
+1204,2025-02-16,20,Banjara Hills,4,Desserts,UPI,136.0,38.0,4.5
+2705,2025-01-30,17,Kukatpally,4,Fast Food,Wallet,183.0,39.0,4.1
+2229,2025-02-15,13,Kukatpally,14,North Indian,UPI,353.0,41.0,4.3
+2908,2025-03-18,13,Ameerpet,26,Pizza,UPI,449.0,36.0,4.2
+2526,2025-11-04,21,Hitech City,28,South Indian,Wallet,135.0,34.0,4.6
+1751,2025-01-24,18,Gachibowli,1,South Indian,UPI,246.0,32.0,4.0
+2280,2025-08-06,13,Ameerpet,12,North Indian,UPI,319.0,31.0,NA
+2851,2025-08-03,22,Dilsukhnagar,1,Biryani,Cash on Delivery,410.0,49.0,3.1
+1624,2025-08-27,19,Secunderabad,14,South Indian,Cash on Delivery,104.0,34.0,3.9
+1423,2025-02-22,20,Ameerpet,19,South Indian,Cash on Delivery,192.0,33.0,5.0
+1189,2025-06-20,12,Kukatpally,12,North Indian,UPI,400.0,35.0,5.0
+2883,2025-04-01,12,Banjara Hills,14,Chinese,UPI,394.0,32.0,5.0
+1031,2025-06-09,11,Gachibowli,4,North Indian,Credit/Debit Card,340.0,33.0,3.8
+2258,2025-02-20,21,Dilsukhnagar,1,North Indian,UPI,176.0,48.0,4.5
+2766,2025-08-14,12,Madhapur,3,Biryani,UPI,411.0,32.0,5.0
+2202,2025-10-03,18,Secunderabad,13,Biryani,Cash on Delivery,401.0,42.0,4.8
+1269,2025-08-24,20,Hitech City,19,South Indian,UPI,216.0,30.0,4.0
+2374,2025-04-26,16,Gachibowli,5,Fast Food,Cash on Delivery,207.0,32.0,3.6
+1821,2025-03-20,12,Gachibowli,13,Chinese,UPI,546.0,NA,3.7
+2176,2025-03-07,19,Secunderabad,3,North Indian,Credit/Debit Card,264.0,46.0,4.4
+2096,2025-05-29,8,Secunderabad,3,Desserts,UPI,142.0,39.0,4.1
+2380,2025-08-31,12,Ameerpet,30,Biryani,Cash on Delivery,389.0,38.0,3.7
+1957,2025-12-17,18,Hitech City,21,Pizza,UPI,236.0,NA,4.5
+1135,2025-09-01,13,Gachibowli,4,Desserts,UPI,190.0,48.0,3.8
+1390,2025-08-28,9,Secunderabad,19,South Indian,UPI,148.0,44.0,3.7
+1233,2025-09-05,11,Ameerpet,28,Fast Food,Cash on Delivery,281.0,NA,3.9
+2164,2025-10-03,11,Gachibowli,20,Chinese,UPI,293.0,24.0,3.9
+2358,2025-10-31,22,Ameerpet,17,Chinese,UPI,179.0,46.0,2.6
+1757,2025-05-10,12,Kukatpally,27,South Indian,Cash on Delivery,213.0,34.0,3.4
+1458,2025-04-17,13,Banjara Hills,23,Biryani,Credit/Debit Card,466.0,31.0,5.0
+2741,2025-01-09,16,Madhapur,19,Biryani,Cash on Delivery,546.0,25.0,4.3
+2952,2025-03-24,19,Banjara Hills,11,Fast Food,UPI,266.0,39.0,3.2
+1569,2025-05-12,12,Madhapur,17,Fast Food,Cash on Delivery,294.0,35.0,4.4
+2037,2025-02-12,19,Hitech City,8,Fast Food,UPI,288.0,31.0,3.4
+2786,2025-08-02,20,Madhapur,19,Fast Food,UPI,251.0,278.0,5.0
+1753,2025-10-02,18,Madhapur,30,Pizza,UPI,459.0,39.0,3.5
+1459,2025-08-16,19,Madhapur,1,Fast Food,Credit/Debit Card,NA,31.0,4.4
+2121,2025-12-14,19,Madhapur,23,Fast Food,UPI,246.0,33.0,4.9
+1163,2025-06-30,13,Kukatpally,20,North Indian,Credit/Debit Card,390.0,43.0,4.2
+2214,2025-10-07,20,Madhapur,18,Pizza,UPI,437.0,37.0,4.0
+2249,2025-09-01,12,Gachibowli,2,North Indian,UPI,449.0,25.0,4.2
+2210,2025-03-10,17,Hitech City,15,South Indian,UPI,170.0,26.0,3.5
+2211,2025-12-20,22,Ameerpet,29,Biryani,UPI,328.0,36.0,3.2
+1690,2025-01-18,11,Banjara Hills,26,Fast Food,UPI,313.0,33.0,4.6
+2684,2025-08-02,21,Ameerpet,29,Pizza,UPI,607.0,45.0,3.7
+1328,2025-01-24,12,Gachibowli,29,Pizza,Credit/Debit Card,280.0,41.0,4.1
+2245,2025-10-10,9,Kukatpally,25,Biryani,Cash on Delivery,623.0,33.0,4.3
+1378,2025-09-22,12,Madhapur,15,South Indian,Wallet,177.0,NA,3.4
+1555,2025-05-05,13,Dilsukhnagar,11,Biryani,Credit/Debit Card,438.0,48.0,5.0
+1510,2025-12-30,18,Ameerpet,17,South Indian,Wallet,171.0,26.0,NA
+2137,2025-08-17,17,Gachibowli,8,Pizza,UPI,142.0,24.0,4.9
+1245,2025-07-07,9,Banjara Hills,26,Chinese,Cash on Delivery,390.0,31.0,4.5
+1322,2025-04-21,13,Ameerpet,28,Pizza,Credit/Debit Card,418.0,30.0,4.2
+2389,2025-05-28,18,Hitech City,19,Biryani,Credit/Debit Card,395.0,20.0,5.0
+2727,2025-12-20,20,Banjara Hills,12,Biryani,Credit/Debit Card,559.0,52.0,3.6
+1108,2025-07-03,16,Hitech City,25,Beverages,Cash on Delivery,138.0,32.0,3.3
+1428,2025-11-04,11,Banjara Hills,9,Biryani,UPI,354.0,34.0,3.9
+2557,2025-06-11,17,Madhapur,1,Biryani,UPI,162.0,24.0,4.2
+1885,2025-05-10,18,Hitech City,14,Chinese,Wallet,430.0,24.0,5.0
+1617,2025-07-20,11,Hitech City,28,Chinese,UPI,224.0,24.0,3.4
+2411,2025-07-08,19,Gachibowli,28,Pizza,UPI,526.0,31.0,4.4
+1007,2025-07-31,13,Hitech City,17,Biryani,UPI,415.0,32.0,4.4
+2661,2025-09-14,19,Madhapur,1,Chinese,UPI,348.0,38.0,3.7
+2089,2025-11-21,21,Banjara Hills,15,North Indian,UPI,378.0,47.0,NA
+2508,2025-07-24,12,Kukatpally,1,South Indian,Credit/Debit Card,195.0,45.0,3.9
+2016,2025-12-05,12,Hitech City,12,Biryani,UPI,426.0,33.0,3.5
+2797,2025-11-05,18,Madhapur,9,Pizza,UPI,407.0,40.0,3.6
+2758,2025-05-09,12,Banjara Hills,15,Biryani,UPI,461.0,36.0,3.4
+1649,2025-03-23,12,Kukatpally,14,Biryani,Credit/Debit Card,415.0,34.0,4.1
+2211,2025-12-20,22,Ameerpet,29,Biryani,UPI,328.0,36.0,3.2
+1852,2025-03-14,17,Kukatpally,27,Fast Food,Credit/Debit Card,304.0,45.0,3.9
+2369,2025-12-10,21,Kukatpally,24,Chinese,UPI,490.0,34.0,4.4
+1236,2025-01-21,16,Secunderabad,27,Fast Food,Credit/Debit Card,177.0,38.0,4.0
+2014,2025-10-11,18,Kukatpally,28,Pizza,UPI,NA,41.0,4.0
+2333,2025-12-24,22,Madhapur,4,Fast Food,Credit/Debit Card,323.0,41.0,4.9
+1797,2025-09-21,17,Madhapur,23,South Indian,Credit/Debit Card,212.0,40.0,4.6
+1344,2025-12-01,13,Kukatpally,4,South Indian,Credit/Debit Card,212.0,40.0,4.4
+2414,2025-06-28,12,Hitech City,15,Biryani,UPI,379.0,34.0,3.8
+2519,2025-10-18,20,Gachibowli,30,Biryani,Credit/Debit Card,172.0,30.0,NA
+2562,2025-05-08,13,Secunderabad,16,Chinese,UPI,259.0,56.0,2.4
+1672,2025-05-16,21,Kukatpally,2,Fast Food,UPI,196.0,39.0,3.5
+2770,2025-09-10,20,Madhapur,15,Fast Food,UPI,217.0,23.0,4.8
+1680,2025-08-24,19,Madhapur,14,Pizza,UPI,415.0,25.0,4.1
+2339,2025-10-01,19,Dilsukhnagar,17,Chinese,UPI,124.0,50.0,3.1
+1302,2025-01-27,18,Kukatpally,4,Desserts,Credit/Debit Card,188.0,40.0,4.0
+2795,2025-09-03,10,Madhapur,26,Biryani,UPI,227.0,26.0,3.9
+2779,2025-11-02,17,Secunderabad,23,South Indian,Credit/Debit Card,238.0,39.0,5.0
+2012,2025-12-21,13,Madhapur,19,North Indian,UPI,297.0,32.0,3.5
+2509,2025-11-15,12,Ameerpet,15,Biryani,UPI,483.0,30.0,4.5
+1594,2025-10-18,11,Kukatpally,9,Biryani,UPI,437.0,36.0,3.9
+1358,2025-08-08,9,Madhapur,24,South Indian,UPI,196.0,23.0,NA
+2132,2025-01-14,19,Madhapur,13,North Indian,UPI,242.0,34.0,3.9
+1530,2025-06-25,20,Kukatpally,1,Pizza,Credit/Debit Card,374.0,48.0,3.8
+1537,2025-02-14,17,Madhapur,23,Pizza,UPI,422.0,39.0,4.5
+2072,2025-12-03,12,Banjara Hills,16,Chinese,UPI,275.0,36.0,2.7
+2589,2025-04-25,17,Madhapur,28,Biryani,UPI,390.0,32.0,3.7
+2792,2025-05-08,20,Secunderabad,28,Chinese,UPI,315.0,NA,4.4
+2564,2025-11-14,18,Gachibowli,3,Chinese,Credit/Debit Card,332.0,19.0,4.4
+2422,2025-10-05,8,Ameerpet,3,North Indian,Credit/Debit Card,193.0,27.0,4.2
+1002,2025-05-03,19,Hitech City,15,Biryani,UPI,522.0,36.0,4.8
+1336,2025-12-29,17,Secunderabad,14,Fast Food,UPI,281.0,37.0,3.1
+2505,2025-12-24,21,Madhapur,24,Pizza,UPI,472.0,31.0,4.9
+2533,2025-11-05,18,Secunderabad,29,Desserts,Cash on Delivery,209.0,39.0,4.1
+2699,2025-12-11,12,Madhapur,27,Biryani,UPI,299.0,33.0,5.0
+2320,2025-12-19,20,Hitech City,14,Biryani,UPI,319.0,31.0,5.0
+2862,2025-11-23,9,Hitech City,11,Fast Food,Credit/Debit Card,210.0,26.0,4.7
+2642,2025-04-24,11,Kukatpally,30,Biryani,Cash on Delivery,380.0,46.0,3.0
+1973,2025-04-28,10,Madhapur,15,North Indian,Wallet,407.0,25.0,4.2
+1188,2025-09-11,9,Dilsukhnagar,13,Biryani,UPI,449.0,34.0,3.8
+1912,2025-09-18,11,Hitech City,1,North Indian,Cash on Delivery,342.0,23.0,3.7
+1232,2025-10-06,11,Ameerpet,2,Desserts,Cash on Delivery,212.0,38.0,2.5
+2530,2025-05-14,18,Hitech City,6,Biryani,UPI,469.0,29.0,3.5
+2323,2025-12-10,20,Dilsukhnagar,16,Fast Food,UPI,105.0,56.0,2.6
+1589,2025-09-23,13,Ameerpet,21,Fast Food,UPI,237.0,40.0,3.9
+1249,2025-09-01,21,Madhapur,11,North Indian,Credit/Debit Card,609.0,38.0,4.6
+1897,2025-03-17,20,Madhapur,24,Pizza,Wallet,352.0,23.0,NA
+2649,2025-07-08,11,Hitech City,27,Chinese,UPI,275.0,39.0,4.5
+1601,2025-11-16,19,Madhapur,11,North Indian,UPI,318.0,22.0,5.0
+1731,2025-11-15,17,Hitech City,8,South Indian,Wallet,198.0,27.0,3.9
+2667,2025-12-21,19,Gachibowli,12,Biryani,UPI,477.0,28.0,4.2
+1615,2025-08-27,19,Banjara Hills,19,Biryani,Wallet,351.0,39.0,3.9
+2751,2025-08-22,18,Gachibowli,9,North Indian,Wallet,291.0,27.0,4.2
+2567,2025-11-29,19,Dilsukhnagar,12,Biryani,UPI,380.0,49.0,3.6
+1830,2025-03-04,23,Kukatpally,21,Biryani,UPI,270.0,36.0,4.3
+1187,2025-05-01,20,Dilsukhnagar,19,Biryani,UPI,416.0,42.0,3.9
+2208,2025-10-24,20,Kukatpally,30,South Indian,Credit/Debit Card,171.0,46.0,3.0
+2472,2025-01-09,20,Gachibowli,4,Pizza,UPI,527.0,33.0,4.1
+2226,2025-09-14,11,Ameerpet,28,Biryani,UPI,474.0,35.0,NA
+2330,2025-05-04,21,Madhapur,2,Biryani,UPI,187.0,NA,NA
+2724,2025-04-17,20,Madhapur,4,Biryani,Credit/Debit Card,402.0,36.0,5.0
+2235,2025-07-25,19,Banjara Hills,12,Biryani,UPI,430.0,23.0,5.0
+1253,2025-06-18,12,Dilsukhnagar,9,Biryani,Credit/Debit Card,460.0,42.0,3.7
+2929,2025-12-29,21,Banjara Hills,30,North Indian,Wallet,373.0,35.0,5.0
+1745,2025-02-28,20,Ameerpet,4,Chinese,Credit/Debit Card,367.0,38.0,4.0
+2805,2025-12-17,19,Secunderabad,19,Biryani,UPI,406.0,37.0,4.9
+1317,2025-11-25,19,Madhapur,28,Chinese,Credit/Debit Card,417.0,23.0,3.3
+1904,2025-08-30,12,Hitech City,4,Fast Food,Credit/Debit Card,290.0,35.0,4.8
+2125,2025-01-30,11,Gachibowli,7,Chinese,UPI,151.0,27.0,4.1
+1124,2025-03-11,17,Banjara Hills,12,Biryani,UPI,628.0,36.0,3.8
+1864,2025-09-26,20,Kukatpally,17,North Indian,UPI,411.0,31.0,NA
+2744,2025-03-27,18,Hitech City,22,Chinese,Cash on Delivery,298.0,26.0,4.2
+2338,2025-02-24,13,Madhapur,28,South Indian,Credit/Debit Card,244.0,35.0,4.2
+1822,2025-02-16,18,Banjara Hills,19,Desserts,Cash on Delivery,311.0,32.0,4.7
+1518,2025-11-21,11,Secunderabad,19,North Indian,UPI,272.0,34.0,4.0
+1636,2025-03-22,19,Madhapur,16,Fast Food,UPI,178.0,NA,3.8
+1093,2025-10-26,17,Hitech City,4,Pizza,UPI,376.0,31.0,3.7
+1244,2025-07-25,14,Gachibowli,15,Fast Food,Credit/Debit Card,314.0,34.0,3.3
+2347,2025-08-04,14,Dilsukhnagar,29,Fast Food,Credit/Debit Card,271.0,40.0,5.0
+1449,2025-08-10,19,Kukatpally,15,Desserts,UPI,186.0,46.0,4.5
+2301,2025-05-24,19,Hitech City,21,North Indian,Cash on Delivery,356.0,30.0,3.6
+2353,2025-08-03,13,Gachibowli,26,Biryani,Cash on Delivery,445.0,38.0,3.7
+2239,2025-07-22,12,Ameerpet,23,Pizza,Credit/Debit Card,334.0,40.0,NA
+1609,2025-08-24,20,Madhapur,11,Pizza,UPI,467.0,28.0,4.9
+2491,2025-11-23,13,Ameerpet,4,Desserts,UPI,216.0,34.0,4.2
+1709,2025-11-16,12,Secunderabad,4,Pizza,Cash on Delivery,272.0,44.0,4.5
+1478,2025-06-15,20,Kukatpally,5,Desserts,Cash on Delivery,178.0,46.0,3.6
+1263,2025-06-25,19,Ameerpet,12,Biryani,UPI,441.0,28.0,4.8
+1058,2025-01-21,20,Gachibowli,23,North Indian,Credit/Debit Card,187.0,41.0,4.2
+1430,2025-09-05,18,Dilsukhnagar,17,Chinese,Credit/Debit Card,230.0,39.0,NA
+1250,2025-12-03,19,Banjara Hills,4,Beverages,UPI,86.0,NA,5.0
+2029,2025-08-15,21,Madhapur,15,Fast Food,Cash on Delivery,357.0,38.0,3.9
+1020,2025-01-17,17,Ameerpet,24,Beverages,Credit/Debit Card,119.0,52.0,3.5
+2948,2025-03-16,20,Secunderabad,4,Beverages,Cash on Delivery,198.0,31.0,4.7
+1687,2025-04-08,17,Kukatpally,12,Chinese,UPI,292.0,34.0,4.1
+2048,2025-09-17,13,Kukatpally,13,Fast Food,UPI,126.0,34.0,3.9
+2812,2025-04-07,13,Gachibowli,14,South Indian,Credit/Debit Card,192.0,23.0,4.8
+2038,2025-06-20,19,Madhapur,25,North Indian,Credit/Debit Card,364.0,295.0,NA
+1486,2025-06-15,13,Ameerpet,14,Fast Food,Cash on Delivery,198.0,44.0,4.7
+1403,2025-02-15,13,Banjara Hills,29,Pizza,UPI,247.0,30.0,4.2
+2083,2025-12-30,13,Secunderabad,25,Biryani,Credit/Debit Card,268.0,40.0,4.3
+1354,2025-08-12,12,Dilsukhnagar,27,North Indian,UPI,360.0,41.0,3.1
+2842,2025-11-07,10,Kukatpally,1,Biryani,UPI,315.0,40.0,3.7
+1675,2025-05-05,21,Gachibowli,2,Chinese,UPI,467.0,28.0,3.6
+1762,2025-09-27,13,Dilsukhnagar,19,North Indian,UPI,379.0,47.0,3.3
+2720,2025-12-21,11,Banjara Hills,15,South Indian,Wallet,231.0,30.0,4.2
+2073,2025-02-19,12,Gachibowli,3,Fast Food,UPI,335.0,37.0,5.0
+1052,2025-08-10,20,Hitech City,8,North Indian,UPI,385.0,29.0,3.9
+1711,2025-03-20,19,Madhapur,9,Biryani,UPI,373.0,42.0,3.1
+1990,2025-04-26,22,Madhapur,10,North Indian,UPI,366.0,28.0,4.0
+1571,2025-02-11,13,Banjara Hills,28,Fast Food,UPI,159.0,34.0,3.7
+1714,2025-01-26,17,Dilsukhnagar,26,Chinese,Credit/Debit Card,342.0,287.0,3.6
+2032,2025-12-08,19,Kukatpally,20,Fast Food,UPI,237.0,41.0,3.6
+1875,2025-09-23,19,Banjara Hills,23,South Indian,UPI,221.0,31.0,4.7
+1952,2025-11-30,18,Dilsukhnagar,19,Chinese,Cash on Delivery,276.0,42.0,4.5
+2257,2025-10-16,10,Ameerpet,17,South Indian,UPI,317.0,26.0,3.8
+2064,2025-07-13,18,Ameerpet,7,North Indian,UPI,357.0,23.0,3.9
+2494,2025-08-05,12,Madhapur,12,Biryani,UPI,400.0,44.0,NA
+1043,2025-11-06,18,Ameerpet,10,Chinese,Wallet,284.0,45.0,2.5
+2722,2025-11-15,23,Madhapur,24,Fast Food,Credit/Debit Card,235.0,35.0,3.5
+2843,2025-10-05,12,Dilsukhnagar,26,Chinese,UPI,338.0,36.0,3.2
+2904,2025-05-06,13,Banjara Hills,4,Beverages,UPI,68.0,29.0,4.7
+1710,2025-12-29,19,Hitech City,19,Biryani,Cash on Delivery,266.0,31.0,NA
+1928,2025-08-16,12,Gachibowli,2,Beverages,Wallet,205.0,36.0,3.3
+2532,2025-05-28,20,Ameerpet,2,Biryani,UPI,443.0,46.0,3.5
+1076,2025-08-10,9,Madhapur,1,Fast Food,UPI,210.0,31.0,4.6
+1228,2025-10-24,12,Dilsukhnagar,12,Desserts,Cash on Delivery,125.0,40.0,4.3
+2632,2025-09-02,11,Hitech City,28,Biryani,Cash on Delivery,483.0,31.0,4.1
+2548,2025-04-25,18,Gachibowli,10,Fast Food,UPI,309.0,35.0,3.8
+1744,2025-08-31,17,Hitech City,19,Biryani,UPI,262.0,29.0,4.8
+1983,2025-10-24,13,Gachibowli,20,North Indian,Credit/Debit Card,270.0,23.0,3.6
+1153,2025-11-25,17,Hitech City,8,Pizza,UPI,339.0,35.0,NA
+1353,2025-06-30,19,Hitech City,3,Pizza,UPI,369.0,33.0,4.0
+2755,2025-07-05,18,Kukatpally,25,Beverages,UPI,226.0,23.0,4.8
+2848,2025-11-28,19,Secunderabad,3,Chinese,Cash on Delivery,158.0,42.0,4.0
+2700,2025-03-21,10,Kukatpally,28,Biryani,Credit/Debit Card,292.0,36.0,3.7
+2682,2025-03-31,19,Hitech City,9,North Indian,UPI,480.0,30.0,3.6
+1120,2025-12-23,21,Hitech City,23,North Indian,Credit/Debit Card,445.0,NA,4.6
+1792,2025-07-05,19,Hitech City,8,Biryani,UPI,406.0,42.0,4.6
+2666,2025-11-03,20,Hitech City,2,South Indian,UPI,309.0,25.0,3.2
+1917,2025-09-19,17,Secunderabad,15,Biryani,UPI,394.0,32.0,5.0
+2586,2025-10-21,12,Madhapur,15,Fast Food,UPI,185.0,28.0,4.5
+2205,2025-06-01,14,Kukatpally,18,Biryani,UPI,360.0,45.0,4.2
+1543,2025-07-14,23,Madhapur,27,North Indian,Cash on Delivery,476.0,33.0,4.3
+2836,2025-09-08,20,Banjara Hills,7,South Indian,UPI,131.0,32.0,4.0
+1202,2025-12-28,20,Gachibowli,25,Biryani,Wallet,478.0,30.0,4.1
+2539,2025-12-18,18,Hitech City,25,Chinese,Credit/Debit Card,292.0,30.0,3.5
+1065,2025-06-16,23,Gachibowli,1,Desserts,UPI,295.0,20.0,5.0
+2044,2025-10-23,18,Gachibowli,26,Chinese,Credit/Debit Card,369.0,26.0,4.7
+1179,2025-06-12,18,Secunderabad,1,Pizza,UPI,366.0,32.0,4.3
+2456,2025-10-21,22,Kukatpally,11,Desserts,UPI,242.0,39.0,4.8
+2110,2025-09-03,13,Gachibowli,3,North Indian,Cash on Delivery,475.0,26.0,4.7
+1894,2025-12-07,22,Kukatpally,5,Beverages,Cash on Delivery,142.0,32.0,2.9
+2113,2025-10-07,20,Banjara Hills,10,Biryani,Cash on Delivery,351.0,37.0,3.2
+1593,2025-11-08,11,Banjara Hills,21,Beverages,Cash on Delivery,96.0,45.0,3.9
+1844,2025-12-31,20,Madhapur,15,North Indian,UPI,523.0,28.0,5.0
+1339,2025-03-02,12,Kukatpally,14,Beverages,Cash on Delivery,117.0,37.0,4.0
+2009,2025-10-14,13,Hitech City,1,Pizza,UPI,411.0,29.0,4.3
+2764,2025-01-17,12,Madhapur,19,Fast Food,Credit/Debit Card,141.0,38.0,4.4
+1361,2025-03-02,13,Madhapur,20,North Indian,UPI,149.0,29.0,4.5
+2400,2025-11-01,11,Banjara Hills,13,Beverages,UPI,119.0,18.0,4.5
+2337,2025-02-08,13,Hitech City,16,Pizza,Cash on Delivery,572.0,35.0,2.8
+2773,2025-06-29,13,Gachibowli,14,Chinese,Credit/Debit Card,483.0,32.0,4.3
+1588,2025-11-03,12,Gachibowli,16,Biryani,Cash on Delivery,243.0,30.0,3.9
+2782,2025-09-15,13,Madhapur,17,Biryani,Cash on Delivery,319.0,27.0,4.4
+2148,2025-02-01,21,Gachibowli,15,Fast Food,Credit/Debit Card,90.0,22.0,4.7
+2105,2025-09-02,19,Dilsukhnagar,4,Fast Food,Cash on Delivery,264.0,49.0,3.6
+2234,2025-07-27,19,Gachibowli,12,Biryani,Credit/Debit Card,239.0,42.0,4.5
+2103,2025-03-11,11,Kukatpally,25,Pizza,UPI,602.0,32.0,4.0
+1098,2025-05-07,11,Gachibowli,20,Biryani,Cash on Delivery,216.0,36.0,3.5
+1284,2025-05-12,12,Hitech City,19,North Indian,Wallet,453.0,42.0,4.1
+1678,2025-08-09,10,Kukatpally,11,North Indian,UPI,232.0,33.0,4.0
+1998,2025-03-15,18,Gachibowli,8,Beverages,UPI,108.0,29.0,4.2
+2609,2025-06-16,19,Kukatpally,2,Desserts,UPI,298.0,46.0,1.7
+1893,2025-03-14,12,Gachibowli,9,North Indian,UPI,588.0,26.0,4.0
+1915,2025-08-01,18,Kukatpally,12,North Indian,Credit/Debit Card,218.0,45.0,4.1
+2345,2025-11-27,18,Kukatpally,7,Chinese,Credit/Debit Card,275.0,42.0,NA
+1443,2025-12-18,19,Kukatpally,28,Biryani,UPI,494.0,43.0,3.5
+2264,2025-11-04,10,Dilsukhnagar,24,Pizza,Cash on Delivery,327.0,31.0,3.8
+1164,2025-04-01,12,Gachibowli,29,Desserts,Credit/Debit Card,321.0,25.0,5.0
+1856,2025-03-16,20,Ameerpet,29,North Indian,Wallet,377.0,NA,3.9
+1747,2025-05-28,16,Kukatpally,22,Biryani,UPI,368.0,31.0,4.0
+1425,2025-11-08,20,Dilsukhnagar,1,Chinese,UPI,NA,40.0,4.5
+2777,2025-09-29,20,Madhapur,1,Biryani,Credit/Debit Card,334.0,35.0,4.1
+2512,2025-03-10,9,Dilsukhnagar,17,Pizza,Wallet,174.0,39.0,2.5
+2826,2025-01-21,10,Hitech City,12,South Indian,UPI,NA,25.0,NA
+1991,2025-11-29,12,Dilsukhnagar,21,Biryani,UPI,177.0,47.0,2.3
+2289,2025-10-27,19,Madhapur,14,Chinese,UPI,295.0,31.0,4.5
+2658,2025-11-04,23,Secunderabad,19,Biryani,Credit/Debit Card,409.0,36.0,4.1
+1133,2025-10-11,18,Madhapur,4,Biryani,UPI,372.0,35.0,4.7
+1812,2025-07-15,12,Kukatpally,1,South Indian,UPI,173.0,50.0,2.9
+1585,2025-05-13,13,Kukatpally,19,North Indian,Credit/Debit Card,402.0,35.0,3.9
+2382,2025-03-31,20,Secunderabad,2,Desserts,UPI,169.0,47.0,3.3
+1144,2025-03-30,18,Madhapur,4,Pizza,UPI,451.0,31.0,3.8
+2116,2025-01-21,10,Gachibowli,23,Beverages,UPI,110.0,19.0,5.0
+2415,2025-08-17,19,Hitech City,16,North Indian,UPI,335.0,43.0,3.9
+2802,2025-01-15,10,Gachibowli,30,Fast Food,Wallet,305.0,26.0,4.5
+2827,2025-12-28,12,Madhapur,4,Chinese,Wallet,284.0,29.0,3.6
+2457,2025-09-05,12,Ameerpet,4,South Indian,Wallet,148.0,NA,3.7
+2318,2025-12-07,19,Dilsukhnagar,27,Biryani,UPI,331.0,44.0,3.6
+1381,2025-12-31,10,Hitech City,26,Chinese,UPI,365.0,30.0,4.2
+2406,2025-11-02,20,Gachibowli,21,Biryani,Credit/Debit Card,379.0,18.0,3.6
+1315,2025-06-11,18,Madhapur,5,Pizza,Credit/Debit Card,365.0,29.0,3.3
+2762,2025-09-11,20,Kukatpally,15,Desserts,UPI,219.0,33.0,3.8
+1360,2025-12-12,18,Banjara Hills,28,Biryani,Credit/Debit Card,357.0,28.0,4.6
+2990,2025-10-09,18,Banjara Hills,12,Chinese,Credit/Debit Card,386.0,22.0,4.9
+1905,2025-04-29,12,Gachibowli,29,North Indian,Credit/Debit Card,343.0,35.0,NA
+1870,2025-10-03,13,Dilsukhnagar,23,North Indian,UPI,273.0,49.0,4.1
+2001,2025-09-01,12,Gachibowli,29,South Indian,UPI,249.0,28.0,4.4
+2129,2025-03-11,21,Gachibowli,4,Chinese,UPI,361.0,24.0,4.4
+1613,2025-06-23,10,Kukatpally,30,Beverages,UPI,156.0,30.0,4.6
+2076,2025-10-23,18,Banjara Hills,12,Chinese,Wallet,334.0,32.0,4.6
+2145,2025-12-11,12,Kukatpally,1,Biryani,UPI,492.0,45.0,4.4
+2327,2025-08-16,11,Kukatpally,23,South Indian,UPI,277.0,24.0,5.0
+1730,2025-06-18,19,Ameerpet,19,South Indian,UPI,176.0,37.0,4.5
+1688,2025-03-30,19,Kukatpally,14,South Indian,Cash on Delivery,155.0,36.0,3.8
+1008,2025-12-23,19,Madhapur,11,Fast Food,Wallet,134.0,28.0,5.0
+2395,2025-12-29,21,Dilsukhnagar,12,Fast Food,Cash on Delivery,200.0,44.0,3.6
+1806,2025-03-02,11,Hitech City,27,Fast Food,UPI,293.0,32.0,3.8
+2260,2025-05-21,13,Madhapur,26,Biryani,UPI,353.0,42.0,3.4
+1931,2025-11-01,8,Gachibowli,19,South Indian,Credit/Debit Card,154.0,26.0,5.0
+1860,2025-10-07,16,Kukatpally,17,Chinese,UPI,136.0,38.0,3.1
+2122,2025-04-29,15,Hitech City,4,Biryani,UPI,346.0,36.0,NA
+1239,2025-01-03,18,Madhapur,24,Biryani,Credit/Debit Card,190.0,28.0,4.1
+1079,2025-10-24,19,Madhapur,24,Chinese,UPI,310.0,25.0,4.1
+2523,2025-06-24,13,Gachibowli,13,Biryani,UPI,301.0,NA,4.5
+2028,2025-07-13,16,Madhapur,23,South Indian,Credit/Debit Card,159.0,22.0,5.0
+2497,2025-07-29,13,Madhapur,28,North Indian,UPI,313.0,40.0,3.4
+1117,2025-06-29,18,Banjara Hills,14,Pizza,UPI,389.0,24.0,4.1
+1324,2025-01-05,17,Secunderabad,15,North Indian,Cash on Delivery,215.0,32.0,4.3
+2771,2025-07-21,19,Dilsukhnagar,15,South Indian,UPI,177.0,35.0,4.1
+1440,2025-07-29,20,Kukatpally,15,Biryani,Cash on Delivery,324.0,40.0,3.9
+1549,2025-09-23,11,Gachibowli,23,North Indian,Wallet,524.0,24.0,5.0
+1174,2025-12-17,20,Madhapur,19,Pizza,UPI,469.0,36.0,4.0
+2673,2025-08-24,19,Madhapur,23,Beverages,Wallet,103.0,43.0,NA
+2479,2025-03-16,14,Gachibowli,25,Chinese,Cash on Delivery,225.0,39.0,3.5
+2973,2025-09-15,11,Kukatpally,12,Chinese,Cash on Delivery,292.0,30.0,5.0
+2434,2025-09-05,13,Gachibowli,24,Pizza,UPI,521.0,28.0,4.0
+2891,2025-07-03,14,Banjara Hills,29,Biryani,Cash on Delivery,268.0,40.0,4.2
+1963,2025-07-21,20,Madhapur,30,Desserts,Wallet,285.0,26.0,5.0
+2440,2025-11-20,12,Gachibowli,20,Biryani,UPI,370.0,29.0,4.3
+1415,2025-06-12,18,Gachibowli,11,North Indian,UPI,417.0,28.0,3.6
+2847,2025-11-08,19,Kukatpally,14,Fast Food,Credit/Debit Card,258.0,39.0,3.3
+1972,2025-02-02,20,Madhapur,23,Desserts,UPI,176.0,34.0,3.1
+1807,2025-06-28,13,Kukatpally,27,Biryani,UPI,631.0,33.0,3.6
+1165,2025-12-03,12,Kukatpally,11,North Indian,Credit/Debit Card,331.0,31.0,5.0
+2141,2025-10-23,12,Hitech City,17,Biryani,Credit/Debit Card,292.0,42.0,4.2
+2302,2025-06-04,11,Secunderabad,13,Fast Food,UPI,425.0,32.0,3.2
+2610,2025-08-24,20,Kukatpally,27,South Indian,Credit/Debit Card,240.0,38.0,3.5
+2231,2025-06-06,13,Hitech City,14,North Indian,Cash on Delivery,255.0,29.0,4.8
+2326,2025-09-29,20,Secunderabad,1,Fast Food,UPI,300.0,36.0,4.8
+2701,2025-12-28,11,Hitech City,12,South Indian,UPI,158.0,24.0,5.0
+1387,2025-01-26,15,Banjara Hills,30,Fast Food,Cash on Delivery,215.0,30.0,4.1
+2881,2025-02-07,19,Gachibowli,9,Desserts,Credit/Debit Card,136.0,31.0,4.8
+1123,2025-11-15,19,Secunderabad,16,Fast Food,UPI,267.0,48.0,3.0
+1096,2025-11-21,8,Gachibowli,21,Beverages,UPI,162.0,28.0,4.0
+2408,2025-05-17,12,Madhapur,9,Pizza,UPI,433.0,41.0,3.4
+1046,2025-10-07,11,Dilsukhnagar,23,Biryani,UPI,NA,26.0,5.0
+1846,2025-09-18,18,Secunderabad,20,Biryani,UPI,563.0,38.0,3.3
+2577,2025-11-10,12,Hitech City,13,Pizza,Cash on Delivery,307.0,29.0,4.8
+1974,2025-04-18,18,Gachibowli,28,South Indian,Credit/Debit Card,179.0,25.0,4.3
+1383,2025-04-06,20,Secunderabad,23,North Indian,Wallet,353.0,47.0,4.1
+2241,2025-12-15,18,Hitech City,8,Chinese,UPI,306.0,31.0,3.9
+1764,2025-12-19,19,Gachibowli,20,Chinese,UPI,298.0,35.0,3.7
+2784,2025-09-04,18,Kukatpally,28,Pizza,Credit/Debit Card,464.0,33.0,4.4
+2379,2025-01-04,21,Madhapur,28,Fast Food,Cash on Delivery,225.0,30.0,4.8
+1191,2025-08-10,13,Secunderabad,20,North Indian,Cash on Delivery,355.0,26.0,4.4
+2925,2025-06-14,19,Secunderabad,19,Pizza,UPI,304.0,45.0,3.2
+1728,2025-08-12,19,Banjara Hills,12,Pizza,UPI,363.0,39.0,3.5
+2238,2025-07-29,12,Gachibowli,6,Desserts,Cash on Delivery,212.0,38.0,1.9
+2124,2025-03-25,19,Hitech City,7,Beverages,Cash on Delivery,158.0,41.0,4.9
+1039,2025-03-02,19,Kukatpally,4,Fast Food,UPI,371.0,40.0,4.1
+2283,2025-03-18,20,Ameerpet,15,South Indian,UPI,226.0,38.0,4.9
+2426,2025-10-19,21,Secunderabad,2,Biryani,UPI,366.0,30.0,3.9
+1256,2025-05-11,19,Kukatpally,12,Fast Food,Cash on Delivery,108.0,41.0,3.8
+1092,2025-01-18,18,Banjara Hills,27,Fast Food,Cash on Delivery,294.0,29.0,4.4
+1726,2025-10-01,20,Kukatpally,12,Biryani,Cash on Delivery,374.0,32.0,5.0
+1698,2025-10-04,23,Ameerpet,28,Biryani,UPI,278.0,36.0,4.6
+2652,2025-10-22,18,Secunderabad,13,North Indian,UPI,129.0,34.0,3.8
+2156,2025-10-19,17,Gachibowli,16,Chinese,UPI,132.0,24.0,4.1
+2468,2025-03-16,12,Secunderabad,15,Biryani,Credit/Debit Card,404.0,44.0,3.7
+2595,2025-05-24,13,Madhapur,28,South Indian,UPI,219.0,30.0,5.0
+2676,2025-12-24,21,Hitech City,23,Pizza,Cash on Delivery,246.0,42.0,3.8
+1909,2025-08-24,10,Kukatpally,17,Desserts,Credit/Debit Card,198.0,33.0,5.0
+1371,2025-11-12,13,Hitech City,28,Biryani,UPI,337.0,28.0,3.5
+2880,2025-02-16,20,Kukatpally,1,Chinese,Credit/Debit Card,287.0,40.0,4.0
+1980,2025-09-13,19,Ameerpet,4,Biryani,Cash on Delivery,457.0,44.0,5.0
+1586,2025-11-28,23,Gachibowli,26,North Indian,UPI,354.0,25.0,5.0
+2947,2025-07-28,19,Kukatpally,15,North Indian,UPI,242.0,31.0,4.7
+1553,2025-07-27,19,Kukatpally,29,Pizza,Cash on Delivery,456.0,42.0,4.1
+1592,2025-07-01,20,Dilsukhnagar,27,Desserts,UPI,127.0,35.0,3.8
+1627,2025-04-22,13,Dilsukhnagar,14,Chinese,Cash on Delivery,292.0,43.0,5.0
+1655,2025-11-22,18,Kukatpally,24,Biryani,Credit/Debit Card,250.0,29.0,4.3
+1964,2025-08-23,19,Hitech City,16,Fast Food,Cash on Delivery,362.0,36.0,4.3
+1793,2025-11-08,20,Banjara Hills,26,Biryani,Credit/Debit Card,424.0,38.0,3.5
+1424,2025-06-01,12,Banjara Hills,12,Fast Food,Credit/Debit Card,391.0,34.0,3.7
+1348,2025-05-16,14,Madhapur,26,Chinese,Credit/Debit Card,446.0,29.0,3.8
+2215,2025-10-05,15,Banjara Hills,4,Pizza,UPI,555.0,37.0,4.3
+1422,2025-04-20,19,Hitech City,8,Biryani,UPI,380.0,29.0,4.3
+1522,2025-11-15,20,Kukatpally,16,North Indian,UPI,353.0,33.0,3.6
+2146,2025-06-30,9,Hitech City,2,South Indian,UPI,159.0,42.0,3.2
+2497,2025-07-29,13,Madhapur,28,North Indian,UPI,313.0,40.0,3.4
+2170,2025-07-24,12,Dilsukhnagar,2,North Indian,Cash on Delivery,199.0,41.0,3.1
+2224,2025-02-17,15,Gachibowli,19,Biryani,UPI,473.0,32.0,4.4
+1809,2025-12-12,17,Banjara Hills,3,North Indian,Credit/Debit Card,542.0,29.0,4.1
+2619,2025-05-08,19,Ameerpet,27,North Indian,UPI,363.0,36.0,3.9
+1297,2025-07-26,21,Madhapur,23,Pizza,UPI,688.0,31.0,4.5
+2835,2025-12-10,10,Hitech City,12,Fast Food,UPI,231.0,43.0,NA
+1116,2025-08-21,18,Dilsukhnagar,2,Desserts,Credit/Debit Card,160.0,48.0,2.5
+2747,2025-09-23,19,Secunderabad,3,Chinese,Credit/Debit Card,101.0,47.0,4.1
+2946,2025-03-30,18,Banjara Hills,27,Biryani,UPI,378.0,29.0,4.3
+2715,2025-11-01,12,Banjara Hills,19,Chinese,UPI,316.0,29.0,4.3
+1469,2025-11-12,12,Kukatpally,23,Chinese,UPI,380.0,41.0,3.5
+1689,2025-07-29,20,Hitech City,24,Chinese,UPI,187.0,44.0,3.8
+1280,2025-02-05,20,Banjara Hills,28,Chinese,Credit/Debit Card,261.0,35.0,3.8
+1451,2025-07-17,18,Secunderabad,3,North Indian,Credit/Debit Card,268.0,34.0,3.9
+1847,2025-12-22,20,Secunderabad,15,North Indian,Credit/Debit Card,349.0,47.0,3.4
+1540,2025-12-18,15,Hitech City,19,Fast Food,Cash on Delivery,190.0,NA,4.8
+2477,2025-04-17,13,Kukatpally,24,South Indian,UPI,134.0,39.0,3.9
+2829,2025-12-12,20,Banjara Hills,26,Biryani,Cash on Delivery,482.0,27.0,3.0
+2128,2025-11-23,18,Madhapur,30,Pizza,UPI,492.0,39.0,3.0
+1515,2025-08-14,20,Hitech City,26,Beverages,Cash on Delivery,130.0,41.0,3.3
+1483,2025-06-01,23,Ameerpet,26,North Indian,UPI,342.0,41.0,2.9
+1575,2025-08-06,19,Secunderabad,2,Biryani,Credit/Debit Card,413.0,38.0,2.9
+2194,2025-07-26,20,Kukatpally,19,Chinese,UPI,297.0,34.0,NA
+2443,2025-01-01,11,Madhapur,12,Pizza,UPI,593.0,31.0,5.0
+2131,2025-04-03,18,Kukatpally,14,Fast Food,UPI,193.0,40.0,4.5
+2626,2025-02-17,9,Secunderabad,9,Biryani,Cash on Delivery,353.0,41.0,3.8
+1388,2025-06-25,17,Hitech City,19,Chinese,UPI,301.0,36.0,3.6
+1748,2025-10-13,18,Dilsukhnagar,6,Chinese,UPI,NA,47.0,2.7
+1203,2025-07-15,13,Gachibowli,11,South Indian,UPI,NA,40.0,4.2
+1503,2025-10-18,13,Gachibowli,26,South Indian,Cash on Delivery,208.0,36.0,3.7
+2603,2025-11-30,18,Banjara Hills,24,North Indian,UPI,131.0,33.0,4.1
+1529,2025-07-12,19,Ameerpet,7,Fast Food,UPI,273.0,42.0,4.4
+2555,2025-09-02,19,Hitech City,26,Biryani,Cash on Delivery,549.0,26.0,4.3
+2307,2025-10-02,16,Gachibowli,8,Chinese,UPI,162.0,30.0,3.1
+1110,2025-07-31,17,Banjara Hills,29,North Indian,UPI,347.0,37.0,4.6
+1143,2025-12-01,11,Kukatpally,15,Biryani,UPI,284.0,NA,3.1
+1784,2025-04-25,16,Madhapur,13,Pizza,Cash on Delivery,548.0,18.0,4.6
+2825,2025-12-24,18,Gachibowli,12,Biryani,UPI,484.0,35.0,4.8
+1402,2025-09-27,16,Banjara Hills,4,Pizza,Credit/Debit Card,193.0,25.0,3.7
+1159,2025-12-17,22,Madhapur,28,Fast Food,UPI,324.0,41.0,NA
+1775,2025-09-29,13,Hitech City,23,North Indian,UPI,533.0,35.0,5.0
+1446,2025-01-28,15,Gachibowli,24,North Indian,Cash on Delivery,328.0,16.0,4.2
+2482,2025-08-14,18,Hitech City,9,Beverages,UPI,89.0,27.0,4.9
+1572,2025-07-28,17,Gachibowli,25,Fast Food,UPI,174.0,25.0,3.4
+2765,2025-10-11,14,Dilsukhnagar,23,North Indian,Credit/Debit Card,402.0,47.0,3.2
+2583,2025-11-08,20,Madhapur,15,Desserts,UPI,110.0,31.0,4.6
+2182,2025-08-20,13,Madhapur,12,Fast Food,UPI,211.0,26.0,4.1
+1215,2025-11-24,12,Gachibowli,21,North Indian,UPI,300.0,26.0,4.8
+1779,2025-06-13,11,Dilsukhnagar,14,Biryani,UPI,391.0,51.0,4.2
+1932,2025-11-10,20,Madhapur,23,Biryani,Credit/Debit Card,247.0,34.0,4.6
+2663,2025-11-19,11,Gachibowli,23,Fast Food,Credit/Debit Card,290.0,22.0,4.5
+2844,2025-08-09,20,Banjara Hills,5,Fast Food,UPI,274.0,40.0,3.0
+2151,2025-06-06,17,Kukatpally,23,Desserts,Credit/Debit Card,246.0,31.0,4.8
+1331,2025-08-30,12,Gachibowli,19,Pizza,Credit/Debit Card,664.0,NA,5.0
+2820,2025-07-01,13,Dilsukhnagar,17,North Indian,Credit/Debit Card,458.0,43.0,3.9
+2328,2025-12-16,12,Gachibowli,11,South Indian,Credit/Debit Card,200.0,32.0,4.3
+2495,2025-05-14,19,Banjara Hills,9,Biryani,Credit/Debit Card,650.0,29.0,3.7
+2218,2025-08-10,19,Banjara Hills,3,Biryani,UPI,315.0,192.0,4.4
+1429,2025-02-24,13,Gachibowli,18,South Indian,Wallet,181.0,24.0,2.8
+1834,2025-09-05,12,Madhapur,3,Biryani,UPI,295.0,26.0,4.7
+1713,2025-11-29,8,Hitech City,19,Pizza,UPI,341.0,40.0,4.2
+2015,2025-11-24,22,Secunderabad,26,Chinese,Wallet,292.0,41.0,3.1
+2219,2025-05-26,12,Kukatpally,27,North Indian,UPI,320.0,31.0,5.0
+2930,2025-12-30,17,Ameerpet,4,North Indian,Credit/Debit Card,441.0,40.0,3.7
+2996,2025-11-18,10,Kukatpally,15,Biryani,Credit/Debit Card,313.0,29.0,4.4
+2451,2025-12-20,11,Kukatpally,4,Pizza,UPI,397.0,35.0,NA
+1638,2025-01-17,17,Gachibowli,19,North Indian,Credit/Debit Card,307.0,29.0,4.2
+2979,2025-06-16,12,Gachibowli,19,Fast Food,Credit/Debit Card,275.0,39.0,NA
+2753,2025-08-21,19,Banjara Hills,23,Pizza,Wallet,534.0,38.0,4.4
+2039,2025-04-29,20,Madhapur,26,Fast Food,UPI,212.0,41.0,4.1
+1596,2025-12-11,20,Hitech City,12,Biryani,UPI,281.0,37.0,NA
+1238,2025-01-23,18,Banjara Hills,24,North Indian,UPI,375.0,37.0,3.7
+1448,2025-12-14,12,Gachibowli,26,Biryani,UPI,365.0,30.0,4.0
+2168,2025-04-03,8,Madhapur,15,Chinese,Credit/Debit Card,398.0,23.0,4.4
+2098,2025-01-30,18,Dilsukhnagar,1,Biryani,Cash on Delivery,289.0,35.0,4.2
+1216,2025-01-19,10,Banjara Hills,13,North Indian,UPI,300.0,35.0,2.7
+1517,2025-10-03,20,Hitech City,28,Biryani,Cash on Delivery,197.0,29.0,3.9
+1564,2025-12-12,21,Hitech City,15,Pizza,Credit/Debit Card,514.0,33.0,4.1
+2452,2025-10-06,18,Kukatpally,8,Fast Food,Wallet,275.0,25.0,4.3
+1759,2025-07-06,18,Gachibowli,19,Chinese,UPI,315.0,32.0,3.8
+1273,2025-11-12,11,Kukatpally,22,Biryani,Credit/Debit Card,391.0,31.0,4.0
+2055,2025-07-13,11,Secunderabad,30,Fast Food,Credit/Debit Card,310.0,30.0,4.6
+1639,2025-06-21,18,Banjara Hills,20,Biryani,Cash on Delivery,534.0,29.0,3.9
+2870,2025-12-06,10,Banjara Hills,14,Fast Food,Cash on Delivery,150.0,31.0,4.5
+1140,2025-09-22,11,Dilsukhnagar,11,Biryani,Cash on Delivery,297.0,45.0,4.4
+2493,2025-06-03,14,Madhapur,11,Pizza,Credit/Debit Card,347.0,32.0,5.0
+1850,2025-08-22,12,Hitech City,11,Biryani,Wallet,471.0,23.0,4.1
+2193,2025-05-05,12,Ameerpet,4,Chinese,UPI,201.0,27.0,4.8
+2419,2025-12-12,18,Hitech City,15,North Indian,Cash on Delivery,267.0,32.0,4.4
+2090,2025-03-29,13,Kukatpally,27,Biryani,Credit/Debit Card,375.0,34.0,3.8
+2543,2025-07-30,21,Kukatpally,21,Chinese,UPI,462.0,41.0,2.6
+1782,2025-07-06,16,Dilsukhnagar,24,Biryani,Credit/Debit Card,335.0,36.0,5.0
+2916,2025-04-06,12,Ameerpet,8,Biryani,UPI,576.0,38.0,3.0
+2305,2025-05-22,20,Madhapur,14,Chinese,Credit/Debit Card,460.0,30.0,4.6
+1675,2025-05-05,21,Gachibowli,2,Chinese,UPI,467.0,28.0,3.6
+1820,2025-01-01,14,Gachibowli,18,Fast Food,Cash on Delivery,244.0,34.0,3.5
+1800,2025-07-15,13,Gachibowli,16,Biryani,UPI,439.0,31.0,3.3
+1647,2025-12-01,11,Gachibowli,24,Biryani,Wallet,398.0,NA,4.1
+1432,2025-06-25,20,Banjara Hills,20,Desserts,UPI,103.0,37.0,3.6
+2592,2025-04-10,17,Madhapur,11,South Indian,Credit/Debit Card,145.0,34.0,4.5
+2334,2025-01-15,17,Banjara Hills,2,Biryani,UPI,529.0,34.0,3.2
+2683,2025-11-21,20,Secunderabad,1,Pizza,Wallet,548.0,50.0,3.6
+1750,2025-03-22,18,Secunderabad,30,South Indian,Wallet,214.0,42.0,2.7
+2086,2025-09-14,20,Banjara Hills,12,Chinese,Credit/Debit Card,467.0,33.0,NA
+2746,2025-03-18,19,Banjara Hills,21,South Indian,Credit/Debit Card,166.0,36.0,4.0
+2175,2025-03-21,19,Kukatpally,8,Biryani,Cash on Delivery,437.0,35.0,3.1
+2207,2025-03-31,13,Madhapur,6,Fast Food,Credit/Debit Card,159.0,29.0,3.7
+2401,2025-07-12,19,Hitech City,23,South Indian,UPI,137.0,27.0,4.4
+2677,2025-04-28,18,Banjara Hills,27,Biryani,Cash on Delivery,360.0,37.0,NA
+2781,2025-09-28,15,Ameerpet,1,Pizza,Wallet,392.0,25.0,3.2
+2832,2025-09-22,18,Ameerpet,23,Fast Food,UPI,252.0,27.0,5.0
+2118,2025-06-11,8,Dilsukhnagar,12,Fast Food,Credit/Debit Card,290.0,42.0,4.2
+1939,2025-12-26,14,Ameerpet,30,Beverages,Credit/Debit Card,171.0,22.0,4.9
+1683,2025-03-25,20,Gachibowli,26,Biryani,UPI,296.0,33.0,2.9
+1734,2025-12-28,22,Kukatpally,3,Chinese,Wallet,227.0,35.0,4.3
+1612,2025-07-11,13,Madhapur,18,North Indian,Cash on Delivery,165.0,31.0,4.0
+2551,2025-09-20,10,Secunderabad,10,Desserts,UPI,148.0,37.0,3.2
+2534,2025-02-13,9,Secunderabad,13,Pizza,Credit/Debit Card,282.0,33.0,4.2
+1884,2025-03-23,22,Kukatpally,14,Chinese,UPI,277.0,35.0,3.7
+2391,2025-10-01,8,Madhapur,24,Desserts,Cash on Delivery,302.0,41.0,3.5
+2162,2025-11-07,18,Madhapur,8,North Indian,Credit/Debit Card,346.0,19.0,4.4
+1721,2025-02-27,13,Hitech City,10,Pizza,UPI,417.0,48.0,2.3
+1129,2025-05-02,11,Kukatpally,23,Pizza,UPI,209.0,31.0,4.5
+1890,2025-11-26,19,Ameerpet,12,Biryani,UPI,362.0,44.0,3.3
+2052,2025-04-28,18,Kukatpally,14,North Indian,UPI,162.0,41.0,4.3
+1009,2025-04-30,21,Madhapur,1,Biryani,UPI,536.0,NA,3.8
+2572,2025-12-22,12,Banjara Hills,26,Beverages,UPI,165.0,39.0,3.4
+1312,2025-05-27,11,Gachibowli,11,Fast Food,UPI,275.0,37.0,4.7
+2656,2025-11-13,12,Gachibowli,23,Fast Food,Cash on Delivery,290.0,30.0,4.1
+2319,2025-07-14,12,Hitech City,19,North Indian,Credit/Debit Card,231.0,33.0,4.9
+2690,2025-04-05,22,Secunderabad,14,Biryani,Cash on Delivery,361.0,33.0,5.0
+2749,2025-12-13,11,Dilsukhnagar,13,Fast Food,UPI,384.0,41.0,3.2
+2961,2025-04-14,22,Madhapur,20,Biryani,UPI,565.0,30.0,4.9
+1527,2025-05-30,18,Gachibowli,7,Biryani,Credit/Debit Card,560.0,22.0,4.2
+1981,2025-06-16,12,Banjara Hills,3,Biryani,Wallet,385.0,38.0,4.5
+1978,2025-01-03,12,Banjara Hills,13,Pizza,UPI,586.0,33.0,4.4
+2955,2025-08-21,11,Gachibowli,14,Desserts,UPI,284.0,23.0,4.5
+1507,2025-01-22,19,Kukatpally,23,Desserts,UPI,232.0,36.0,4.0
+1207,2025-10-20,16,Gachibowli,11,Desserts,UPI,195.0,20.0,4.6
+1902,2025-12-23,12,Gachibowli,14,North Indian,UPI,469.0,26.0,4.8
+2954,2025-01-23,19,Hitech City,14,Biryani,UPI,151.0,32.0,4.0
+1106,2025-05-05,12,Banjara Hills,12,Pizza,Wallet,NA,37.0,4.1
+1717,2025-09-18,16,Hitech City,19,Fast Food,Cash on Delivery,272.0,36.0,4.8
+2000,2025-05-04,11,Hitech City,23,South Indian,UPI,226.0,33.0,4.5
+2759,2025-09-29,14,Dilsukhnagar,15,North Indian,UPI,273.0,38.0,3.8
+1271,2025-08-26,11,Hitech City,23,Biryani,UPI,396.0,32.0,3.9
+2969,2025-07-23,21,Dilsukhnagar,16,South Indian,UPI,210.0,47.0,3.0
+2968,2025-09-22,11,Banjara Hills,13,Biryani,UPI,512.0,NA,3.7
+1055,2025-01-08,19,Hitech City,7,Biryani,UPI,369.0,33.0,NA
+1541,2025-06-28,19,Gachibowli,15,Fast Food,Credit/Debit Card,347.0,48.0,NA
+2304,2025-08-31,21,Secunderabad,1,Fast Food,UPI,279.0,46.0,4.1
+1767,2025-07-18,12,Gachibowli,19,Chinese,Credit/Debit Card,275.0,24.0,5.0
+2470,2025-07-24,20,Gachibowli,11,North Indian,Credit/Debit Card,327.0,41.0,4.5
+2123,2025-07-27,8,Banjara Hills,3,North Indian,Credit/Debit Card,298.0,25.0,4.5
+1190,2025-06-03,20,Hitech City,14,Biryani,Wallet,382.0,30.0,3.9
+1109,2025-05-27,18,Madhapur,12,Biryani,Cash on Delivery,290.0,12.0,4.6
+1538,2025-06-26,12,Madhapur,19,Pizza,UPI,415.0,32.0,4.1
+1855,2025-07-14,13,Secunderabad,30,Fast Food,Wallet,414.0,44.0,3.5
+2366,2025-08-09,19,Madhapur,13,Chinese,Credit/Debit Card,221.0,30.0,3.9
+2043,2025-12-20,9,Kukatpally,24,Fast Food,Credit/Debit Card,252.0,26.0,4.0
+1023,2025-09-28,19,Kukatpally,25,Biryani,UPI,265.0,38.0,2.6
+1377,2025-08-29,20,Kukatpally,4,Fast Food,UPI,353.0,50.0,2.9
+1737,2025-09-10,12,Secunderabad,1,Fast Food,UPI,319.0,47.0,3.0
+2740,2025-05-06,15,Madhapur,19,North Indian,UPI,421.0,21.0,4.6
+1595,2025-07-13,16,Kukatpally,26,North Indian,UPI,280.0,29.0,4.5
+2794,2025-06-21,12,Hitech City,23,Biryani,Cash on Delivery,177.0,39.0,4.0
+1206,2025-03-04,18,Secunderabad,6,Beverages,UPI,115.0,51.0,3.1
+1094,2025-11-03,17,Madhapur,17,South Indian,UPI,278.0,25.0,4.1
+1808,2025-08-18,12,Gachibowli,24,North Indian,UPI,281.0,NA,3.7
+2854,2025-06-19,13,Ameerpet,17,Biryani,UPI,381.0,46.0,4.0
+2424,2025-08-20,14,Secunderabad,9,Pizza,Credit/Debit Card,375.0,31.0,3.7
+2252,2025-12-14,12,Madhapur,28,Pizza,Credit/Debit Card,520.0,21.0,4.9
+2475,2025-10-05,20,Madhapur,3,Desserts,UPI,238.0,34.0,4.6
+1447,2025-12-15,16,Dilsukhnagar,11,Pizza,Credit/Debit Card,179.0,55.0,3.3
+2169,2025-09-17,12,Madhapur,28,Chinese,Credit/Debit Card,328.0,26.0,4.6
+1568,2025-06-02,13,Kukatpally,3,Desserts,UPI,219.0,31.0,3.6
+2346,2025-11-08,19,Gachibowli,11,Pizza,UPI,514.0,25.0,4.6
+1936,2025-07-20,12,Secunderabad,14,Desserts,Cash on Delivery,193.0,49.0,NA
+2674,2025-08-26,21,Madhapur,10,Biryani,UPI,503.0,32.0,3.2
+2423,2025-11-15,14,Kukatpally,19,Beverages,UPI,97.0,46.0,3.6
+1778,2025-05-05,9,Kukatpally,30,Chinese,Credit/Debit Card,268.0,31.0,4.0
+2005,2025-06-14,21,Hitech City,12,Biryani,UPI,341.0,30.0,4.1
+2992,2025-09-24,18,Secunderabad,1,Biryani,UPI,485.0,29.0,5.0
+1708,2025-09-26,18,Hitech City,1,Beverages,UPI,164.0,35.0,4.0
+1561,2025-11-27,12,Secunderabad,24,Desserts,UPI,286.0,50.0,2.9
+2444,2025-09-16,19,Hitech City,14,Biryani,Credit/Debit Card,NA,33.0,5.0
+2488,2025-12-31,19,Gachibowli,23,Chinese,UPI,183.0,32.0,5.0
+2486,2025-07-20,13,Madhapur,13,North Indian,Credit/Debit Card,321.0,36.0,3.8
+1956,2025-10-07,13,Dilsukhnagar,7,South Indian,Credit/Debit Card,248.0,54.0,2.8
+2866,2025-08-19,12,Madhapur,2,Beverages,UPI,117.0,32.0,3.6
+2390,2025-11-10,17,Hitech City,8,North Indian,Credit/Debit Card,330.0,34.0,4.1
+1470,2025-09-12,18,Gachibowli,11,North Indian,UPI,280.0,30.0,3.8
+1987,2025-07-16,12,Hitech City,8,North Indian,Cash on Delivery,372.0,29.0,3.1
+2989,2025-06-11,12,Kukatpally,4,Beverages,Credit/Debit Card,172.0,36.0,4.3
+1810,2025-01-19,19,Kukatpally,8,Pizza,Wallet,510.0,37.0,3.9
+2436,2025-11-09,12,Secunderabad,19,Biryani,UPI,548.0,38.0,NA
+1131,2025-02-27,11,Secunderabad,28,Pizza,Wallet,390.0,38.0,4.6
+1982,2025-12-10,12,Madhapur,21,Biryani,UPI,406.0,40.0,3.4
+1848,2025-01-30,11,Secunderabad,4,South Indian,UPI,219.0,33.0,3.5
+1945,2025-02-12,10,Ameerpet,19,Biryani,Cash on Delivery,453.0,34.0,4.1
+1025,2025-09-26,18,Gachibowli,1,Biryani,Credit/Debit Card,348.0,28.0,5.0
+1584,2025-11-22,10,Madhapur,9,North Indian,Wallet,109.0,32.0,4.4
+1392,2025-10-10,22,Madhapur,27,Biryani,Cash on Delivery,475.0,42.0,3.8
+1343,2025-10-20,9,Gachibowli,24,Pizza,UPI,445.0,31.0,4.7
+1407,2025-11-12,12,Madhapur,20,North Indian,UPI,399.0,43.0,3.9
+2664,2025-07-05,20,Hitech City,17,North Indian,UPI,342.0,26.0,4.4
+1156,2025-02-14,12,Gachibowli,23,Biryani,Credit/Debit Card,275.0,31.0,4.4
+2906,2025-02-15,12,Secunderabad,3,Biryani,UPI,361.0,36.0,4.1
+2153,2025-11-01,22,Banjara Hills,17,Biryani,UPI,313.0,46.0,3.7
+2267,2025-06-26,18,Dilsukhnagar,12,Fast Food,Credit/Debit Card,203.0,47.0,3.5
+2023,2025-09-21,16,Secunderabad,28,Biryani,UPI,523.0,28.0,3.6
+2978,2025-11-17,13,Hitech City,1,Pizza,Credit/Debit Card,472.0,29.0,4.5
+1630,2025-08-03,19,Hitech City,17,South Indian,Wallet,153.0,34.0,3.6
+2804,2025-06-03,19,Hitech City,16,Desserts,Cash on Delivery,145.0,32.0,4.0
+2651,2025-11-24,20,Hitech City,24,South Indian,Credit/Debit Card,224.0,43.0,3.4
+2839,2025-03-07,18,Dilsukhnagar,2,Chinese,UPI,258.0,36.0,4.3
+2057,2025-03-19,18,Hitech City,4,Biryani,UPI,374.0,38.0,4.4
+1881,2025-12-28,20,Banjara Hills,10,Biryani,Credit/Debit Card,353.0,44.0,4.1
+2313,2025-11-20,10,Kukatpally,13,Chinese,UPI,469.0,34.0,3.6
+1180,2025-08-11,19,Kukatpally,4,North Indian,UPI,612.0,35.0,4.6
+1948,2025-02-24,19,Gachibowli,12,Fast Food,Credit/Debit Card,403.0,35.0,4.5
+2088,2025-10-08,17,Secunderabad,24,Fast Food,UPI,399.0,42.0,4.1
+1011,2025-11-21,15,Ameerpet,8,Fast Food,Credit/Debit Card,197.0,27.0,4.3
+1355,2025-07-25,12,Kukatpally,1,Biryani,UPI,326.0,47.0,2.8
+1068,2025-05-27,17,Gachibowli,4,Chinese,Wallet,207.0,33.0,3.6
+2268,2025-11-18,21,Hitech City,17,Biryani,UPI,539.0,31.0,4.1
+1146,2025-08-29,19,Banjara Hills,9,North Indian,Credit/Debit Card,NA,36.0,3.8
+2962,2025-04-03,21,Madhapur,4,North Indian,UPI,281.0,NA,4.8
+1416,2025-01-26,19,Gachibowli,11,Biryani,UPI,NA,36.0,3.9
+1393,2025-09-15,19,Hitech City,23,Biryani,Cash on Delivery,203.0,37.0,4.8
+1524,2025-04-03,22,Gachibowli,13,Biryani,UPI,334.0,37.0,NA
+2945,2025-08-12,11,Secunderabad,4,North Indian,UPI,317.0,35.0,4.0
+2860,2025-07-05,13,Hitech City,29,Desserts,UPI,149.0,46.0,3.5
+1438,2025-04-10,18,Hitech City,19,Desserts,Credit/Debit Card,183.0,28.0,4.0
+2213,2025-09-15,20,Gachibowli,13,Desserts,Wallet,299.0,32.0,4.8
+1056,2025-12-11,12,Secunderabad,26,Desserts,UPI,191.0,54.0,3.5
+1139,2025-04-30,12,Hitech City,7,Fast Food,Credit/Debit Card,254.0,43.0,3.8
+2637,2025-05-16,11,Madhapur,7,Fast Food,Credit/Debit Card,203.0,32.0,4.8
+1196,2025-08-06,11,Ameerpet,23,Biryani,UPI,386.0,35.0,4.4
+2387,2025-09-27,20,Banjara Hills,28,Fast Food,Cash on Delivery,203.0,33.0,3.9
+2060,2025-05-06,18,Banjara Hills,27,South Indian,Credit/Debit Card,160.0,26.0,5.0
+1450,2025-09-15,13,Kukatpally,4,South Indian,Cash on Delivery,140.0,45.0,3.8
+1547,2025-09-06,20,Ameerpet,27,Biryani,UPI,292.0,42.0,3.6
+1989,2025-12-08,12,Kukatpally,26,Beverages,UPI,209.0,35.0,4.1
+2621,2025-10-16,20,Dilsukhnagar,23,Pizza,UPI,303.0,32.0,3.9
+1970,2025-06-15,10,Ameerpet,13,Biryani,Wallet,343.0,42.0,3.4
+2158,2025-01-07,10,Banjara Hills,17,Beverages,UPI,151.0,31.0,4.2
+2582,2025-01-16,20,Ameerpet,3,Biryani,UPI,616.0,43.0,3.2
+1175,2025-10-19,11,Hitech City,28,Desserts,Cash on Delivery,199.0,26.0,4.0
+1255,2025-06-06,8,Banjara Hills,12,Biryani,Credit/Debit Card,452.0,26.0,5.0
+1386,2025-08-23,17,Gachibowli,23,Biryani,UPI,263.0,27.0,4.9
+2886,2025-11-28,12,Madhapur,28,Biryani,Credit/Debit Card,488.0,35.0,3.4
+2102,2025-12-21,21,Hitech City,20,South Indian,Credit/Debit Card,174.0,34.0,4.2
+2725,2025-08-07,12,Hitech City,10,Fast Food,Credit/Debit Card,272.0,40.0,3.7
+1712,2025-11-03,15,Kukatpally,17,Beverages,UPI,208.0,25.0,5.0
+1838,2025-04-07,18,Gachibowli,8,North Indian,Cash on Delivery,494.0,19.0,4.5
+2907,2025-07-29,20,Kukatpally,23,North Indian,Credit/Debit Card,344.0,32.0,4.9
+2872,2025-08-28,12,Kukatpally,19,Chinese,Credit/Debit Card,416.0,33.0,4.2
+1090,2025-02-16,16,Banjara Hills,1,Biryani,Credit/Debit Card,406.0,34.0,3.8
+2412,2025-07-11,11,Secunderabad,7,Biryani,UPI,245.0,29.0,4.6
+2573,2025-09-01,16,Ameerpet,19,Biryani,UPI,302.0,32.0,4.0
+2864,2025-12-10,13,Kukatpally,12,Biryani,Cash on Delivery,361.0,30.0,3.6
+1001,2025-12-16,22,Kukatpally,21,Pizza,Cash on Delivery,570.0,49.0,3.5
+2403,2025-01-04,11,Gachibowli,7,North Indian,Credit/Debit Card,288.0,35.0,3.8
+1823,2025-08-16,18,Hitech City,28,Pizza,Cash on Delivery,251.0,34.0,3.5
+1614,2025-07-20,13,Hitech City,23,Biryani,Cash on Delivery,298.0,27.0,5.0
+2030,2025-12-09,13,Madhapur,14,Fast Food,Credit/Debit Card,321.0,34.0,4.2
+2126,2025-02-10,20,Hitech City,25,Beverages,UPI,187.0,28.0,3.2
+2574,2025-06-29,11,Kukatpally,22,North Indian,UPI,231.0,32.0,4.4
+1040,2025-04-21,21,Gachibowli,29,Desserts,UPI,142.0,34.0,4.1
+2295,2025-07-28,21,Hitech City,27,Chinese,UPI,408.0,35.0,3.9
+2013,2025-11-08,17,Madhapur,14,Pizza,Cash on Delivery,327.0,32.0,4.6
+1944,2025-10-18,12,Kukatpally,4,Biryani,Wallet,563.0,43.0,3.6
+1666,2025-10-17,13,Hitech City,1,Desserts,Wallet,132.0,37.0,3.5
+1453,2025-03-01,20,Gachibowli,2,Fast Food,UPI,332.0,27.0,3.5
+1781,2025-10-31,20,Banjara Hills,1,Biryani,Cash on Delivery,310.0,26.0,4.4
+2149,2025-02-24,11,Gachibowli,10,Biryani,Cash on Delivery,206.0,26.0,3.9
+1178,2025-05-24,20,Banjara Hills,24,Fast Food,UPI,272.0,35.0,4.2
+1137,2025-02-04,11,Secunderabad,19,Pizza,UPI,431.0,33.0,NA
+1337,2025-04-29,12,Secunderabad,25,Fast Food,UPI,204.0,43.0,3.7
+1119,2025-04-29,19,Hitech City,27,Fast Food,UPI,265.0,33.0,3.8
+2986,2025-04-30,15,Madhapur,1,Fast Food,Credit/Debit Card,317.0,24.0,4.3
+2865,2025-04-08,18,Ameerpet,9,Biryani,UPI,328.0,38.0,3.8
+2748,2025-09-11,20,Madhapur,14,Biryani,UPI,371.0,42.0,3.6
+1352,2025-12-24,10,Secunderabad,20,Fast Food,UPI,244.0,33.0,3.9
+1625,2025-05-11,23,Madhapur,19,Biryani,Credit/Debit Card,445.0,31.0,4.5
+1193,2025-06-16,12,Hitech City,14,Chinese,Wallet,328.0,44.0,3.7
+2474,2025-03-21,14,Gachibowli,23,Fast Food,Credit/Debit Card,210.0,33.0,3.9
+2361,2025-11-22,15,Gachibowli,23,Biryani,Credit/Debit Card,433.0,NA,NA
+1136,2025-11-08,18,Hitech City,7,Fast Food,Wallet,278.0,24.0,4.2
+1461,2025-03-20,11,Dilsukhnagar,26,Pizza,Cash on Delivery,483.0,36.0,4.3
+1042,2025-03-06,19,Madhapur,23,Biryani,Cash on Delivery,330.0,41.0,4.2
+1724,2025-06-06,18,Gachibowli,19,Biryani,UPI,496.0,30.0,5.0
+1699,2025-09-26,11,Hitech City,2,North Indian,Wallet,326.0,28.0,4.2
+1637,2025-11-09,16,Madhapur,23,Biryani,UPI,197.0,36.0,4.7
+1359,2025-02-04,8,Ameerpet,8,North Indian,UPI,396.0,37.0,4.3
+2726,2025-12-11,19,Dilsukhnagar,26,Pizza,UPI,404.0,49.0,2.2
+1559,2025-11-10,17,Madhapur,4,Biryani,Wallet,360.0,36.0,NA
+1814,2025-04-26,18,Hitech City,13,Chinese,UPI,420.0,31.0,3.4
+1619,2025-10-18,11,Gachibowli,4,Chinese,UPI,264.0,NA,4.9
+1466,2025-03-15,18,Dilsukhnagar,12,South Indian,UPI,178.0,39.0,5.0
+2775,2025-05-13,18,Kukatpally,8,South Indian,UPI,138.0,38.0,2.8
+2672,2025-12-05,20,Hitech City,2,North Indian,UPI,546.0,35.0,3.3
+2381,2025-05-02,11,Ameerpet,9,Pizza,UPI,567.0,35.0,4.5
+1080,2025-11-17,20,Hitech City,3,North Indian,UPI,352.0,38.0,4.7
+2754,2025-02-01,19,Madhapur,9,Biryani,Wallet,371.0,41.0,4.2
+1492,2025-07-29,19,Madhapur,4,Pizza,UPI,393.0,39.0,5.0
+2840,2025-04-02,11,Madhapur,2,Desserts,Wallet,183.0,37.0,4.0
+1528,2025-03-22,21,Dilsukhnagar,12,Fast Food,Wallet,171.0,53.0,NA
+2815,2025-12-31,12,Kukatpally,28,Biryani,UPI,591.0,31.0,3.0
+2310,2025-07-09,13,Ameerpet,12,Chinese,Cash on Delivery,165.0,32.0,3.9
+2355,2025-05-17,19,Banjara Hills,4,South Indian,Wallet,195.0,29.0,4.2
+2473,2025-07-20,18,Hitech City,17,Beverages,UPI,89.0,31.0,4.0
+2823,2025-10-08,20,Madhapur,13,Pizza,Credit/Debit Card,549.0,30.0,4.5
+2926,2025-02-06,14,Madhapur,28,Beverages,UPI,112.0,29.0,4.4
+2686,2025-10-09,11,Kukatpally,19,South Indian,Cash on Delivery,188.0,22.0,4.8
+2136,2025-06-19,22,Dilsukhnagar,7,Biryani,Credit/Debit Card,445.0,46.0,3.2
+1480,2025-08-02,14,Secunderabad,26,Biryani,Wallet,581.0,51.0,3.5
+2757,2025-07-04,13,Kukatpally,23,Biryani,Credit/Debit Card,487.0,40.0,3.5
+2321,2025-05-11,12,Hitech City,14,Fast Food,Credit/Debit Card,257.0,36.0,4.9
+1103,2025-06-21,20,Madhapur,9,Biryani,UPI,205.0,36.0,4.0
+1664,2025-06-28,18,Gachibowli,29,Chinese,UPI,445.0,16.0,4.7
+1743,2025-02-01,10,Hitech City,27,Biryani,Credit/Debit Card,551.0,24.0,5.0
+2696,2025-06-03,18,Ameerpet,18,Fast Food,Credit/Debit Card,353.0,23.0,3.8
+2599,2025-11-27,12,Gachibowli,13,Desserts,UPI,273.0,28.0,5.0
+1054,2025-09-06,18,Dilsukhnagar,18,Chinese,Cash on Delivery,358.0,51.0,2.2
+1988,2025-09-15,20,Madhapur,24,North Indian,UPI,384.0,39.0,3.2
+2735,2025-08-20,20,Kukatpally,28,Biryani,Credit/Debit Card,387.0,45.0,3.1
+2393,2025-01-01,19,Hitech City,26,South Indian,UPI,205.0,28.0,3.8
+1069,2025-02-15,20,Kukatpally,3,Pizza,UPI,250.0,36.0,2.6
+2806,2025-05-26,13,Hitech City,26,Fast Food,Credit/Debit Card,121.0,32.0,4.2
+1718,2025-08-03,11,Kukatpally,5,South Indian,UPI,166.0,31.0,3.3
+2101,2025-12-27,23,Kukatpally,1,North Indian,UPI,359.0,28.0,4.6
+1727,2025-09-30,13,Hitech City,25,Pizza,Credit/Debit Card,346.0,40.0,2.9
+1334,2025-01-06,19,Gachibowli,21,Chinese,Credit/Debit Card,338.0,39.0,4.1
+2417,2025-11-12,12,Hitech City,14,Fast Food,UPI,171.0,34.0,5.0
+1787,2025-04-19,12,Madhapur,13,South Indian,Credit/Debit Card,174.0,40.0,3.6
+1785,2025-04-09,15,Kukatpally,3,Chinese,UPI,306.0,32.0,4.4
+2552,2025-05-27,19,Secunderabad,23,Chinese,Credit/Debit Card,306.0,48.0,3.6
+2159,2025-05-09,13,Madhapur,21,Chinese,Credit/Debit Card,350.0,39.0,4.5
+1955,2025-05-08,12,Madhapur,12,Beverages,Wallet,67.0,43.0,4.1
+2138,2025-02-16,13,Ameerpet,20,Biryani,UPI,339.0,34.0,3.1
+2377,2025-05-28,20,Gachibowli,8,North Indian,UPI,403.0,37.0,3.3
+1659,2025-01-07,18,Kukatpally,20,Fast Food,UPI,219.0,35.0,3.7
+1128,2025-08-27,12,Madhapur,3,Fast Food,UPI,235.0,33.0,5.0
+2464,2025-06-17,19,Gachibowli,23,Fast Food,UPI,207.0,31.0,5.0
+2828,2025-11-18,12,Madhapur,7,Chinese,UPI,379.0,30.0,3.9
+2489,2025-02-26,19,Gachibowli,11,Fast Food,UPI,300.0,35.0,4.1
+2458,2025-03-24,12,Banjara Hills,29,North Indian,UPI,368.0,46.0,3.5
+1460,2025-04-12,12,Madhapur,25,Biryani,Wallet,390.0,34.0,4.4
+2107,2025-02-18,14,Banjara Hills,25,Pizza,UPI,319.0,42.0,3.4
+1951,2025-05-14,12,Gachibowli,20,Fast Food,Credit/Debit Card,218.0,41.0,4.3
+2080,2025-06-15,20,Gachibowli,21,Biryani,UPI,312.0,NA,4.6
+1770,2025-10-15,21,Secunderabad,10,Beverages,UPI,118.0,42.0,4.3
+1075,2025-07-31,18,Madhapur,19,Biryani,Credit/Debit Card,405.0,27.0,4.6
+2130,2025-05-12,18,Banjara Hills,20,Pizza,UPI,337.0,NA,4.0
+2188,2025-11-04,12,Madhapur,8,North Indian,UPI,421.0,24.0,4.3
+2976,2025-06-21,20,Ameerpet,24,Desserts,Cash on Delivery,281.0,30.0,4.4
+1462,2025-08-20,16,Hitech City,12,North Indian,Cash on Delivery,283.0,27.0,4.6
+2420,2025-08-21,23,Ameerpet,15,Chinese,Cash on Delivery,349.0,37.0,3.9
+1640,2025-11-25,20,Kukatpally,11,Biryani,Cash on Delivery,376.0,37.0,3.8
+2707,2025-08-03,14,Banjara Hills,30,Biryani,Credit/Debit Card,480.0,40.0,NA
+3000,2025-11-04,20,Ameerpet,2,Beverages,UPI,105.0,33.0,2.4
+1519,2025-03-02,17,Dilsukhnagar,26,Pizza,UPI,527.0,30.0,3.4
+2680,2025-07-09,15,Hitech City,24,Pizza,Credit/Debit Card,431.0,33.0,3.7
+2650,2025-10-15,19,Banjara Hills,11,Pizza,Credit/Debit Card,621.0,28.0,4.4
+1930,2025-09-05,11,Gachibowli,24,North Indian,Cash on Delivery,587.0,NA,4.5
+1231,2025-12-24,11,Banjara Hills,25,Chinese,UPI,397.0,29.0,3.6
+1413,2025-10-11,19,Dilsukhnagar,4,Fast Food,Cash on Delivery,291.0,52.0,3.7
+1556,2025-07-28,13,Gachibowli,23,Pizza,UPI,510.0,20.0,5.0
+1544,2025-10-20,19,Gachibowli,23,Beverages,Cash on Delivery,130.0,37.0,4.4
+2553,2025-09-07,13,Banjara Hills,23,Pizza,UPI,545.0,38.0,4.1
+2863,2025-06-03,19,Secunderabad,15,Pizza,Credit/Debit Card,442.0,37.0,4.2
+2372,2025-08-18,17,Banjara Hills,19,Biryani,UPI,360.0,33.0,4.0
+2918,2025-03-09,13,Dilsukhnagar,28,South Indian,UPI,189.0,42.0,4.4
+2251,2025-12-13,16,Hitech City,13,Biryani,UPI,235.0,31.0,4.7
+1645,2025-10-07,12,Hitech City,11,Fast Food,UPI,212.0,34.0,NA
+2454,2025-12-23,13,Banjara Hills,23,South Indian,UPI,235.0,34.0,3.3
+2623,2025-07-03,12,Hitech City,23,Beverages,Cash on Delivery,70.0,28.0,5.0
+1959,2025-05-27,18,Gachibowli,1,Chinese,UPI,239.0,28.0,4.9
+1665,2025-03-22,11,Hitech City,3,Fast Food,Wallet,310.0,38.0,3.7
+2383,2025-01-21,20,Banjara Hills,4,Chinese,UPI,348.0,30.0,5.0
+2356,2025-04-19,17,Secunderabad,24,Pizza,Cash on Delivery,549.0,45.0,3.2
+1772,2025-07-12,13,Kukatpally,17,Fast Food,UPI,206.0,36.0,4.0
+2463,2025-02-24,16,Hitech City,27,Biryani,Cash on Delivery,240.0,31.0,4.1
+2768,2025-05-27,12,Gachibowli,15,Fast Food,UPI,286.0,31.0,4.8
+1262,2025-02-03,18,Hitech City,15,Fast Food,Credit/Debit Card,219.0,27.0,3.5
+1295,2025-07-04,21,Madhapur,15,Fast Food,UPI,293.0,35.0,4.8
+1722,2025-02-21,23,Hitech City,28,Biryani,Credit/Debit Card,476.0,NA,4.4
+2594,2025-04-07,14,Gachibowli,4,Pizza,Credit/Debit Card,527.0,31.0,4.4
+2371,2025-08-20,14,Secunderabad,28,Fast Food,UPI,385.0,43.0,5.0
+2620,2025-01-28,14,Dilsukhnagar,16,North Indian,UPI,151.0,42.0,4.1
+2284,2025-02-21,18,Gachibowli,17,Biryani,UPI,358.0,23.0,4.3
+1160,2025-05-22,19,Hitech City,13,South Indian,Credit/Debit Card,200.0,43.0,4.7
+2578,2025-04-12,19,Dilsukhnagar,28,South Indian,Credit/Debit Card,177.0,54.0,3.3
+1651,2025-12-24,20,Gachibowli,30,Chinese,Cash on Delivery,281.0,34.0,4.7
+2469,2025-11-15,22,Hitech City,4,South Indian,Cash on Delivery,165.0,39.0,4.2
+1695,2025-11-28,21,Hitech City,21,Biryani,Credit/Debit Card,462.0,36.0,4.0
+1910,2025-03-29,19,Kukatpally,8,Fast Food,UPI,327.0,45.0,4.3
+2958,2025-07-13,20,Banjara Hills,1,South Indian,Wallet,124.0,33.0,4.4
+1869,2025-06-11,19,Madhapur,18,North Indian,Cash on Delivery,347.0,30.0,4.4
+2708,2025-05-31,19,Hitech City,3,Pizza,Cash on Delivery,314.0,42.0,3.8
+1015,2025-06-20,10,Secunderabad,2,Beverages,UPI,112.0,41.0,3.5
+1976,2025-10-06,12,Kukatpally,20,North Indian,Wallet,251.0,33.0,4.5
+2884,2025-09-04,20,Kukatpally,7,Pizza,UPI,638.0,42.0,4.5
+1463,2025-06-12,20,Gachibowli,4,Beverages,UPI,180.0,41.0,4.3
+2943,2025-11-19,18,Madhapur,29,Biryani,UPI,403.0,32.0,3.7
+2385,2025-11-27,22,Gachibowli,7,Chinese,UPI,317.0,32.0,2.7
+1620,2025-06-02,20,Hitech City,12,Chinese,UPI,267.0,28.0,5.0
+2559,2025-05-25,18,Banjara Hills,30,Pizza,UPI,207.0,30.0,4.6
+2988,2025-05-03,11,Dilsukhnagar,17,Fast Food,UPI,296.0,39.0,2.9
+2261,2025-01-07,11,Gachibowli,15,Chinese,UPI,490.0,29.0,3.2
+1874,2025-11-28,12,Banjara Hills,23,Beverages,UPI,119.0,35.0,5.0
+1467,2025-12-07,19,Madhapur,29,South Indian,Wallet,256.0,36.0,3.7
+1754,2025-01-21,21,Gachibowli,18,Beverages,Credit/Debit Card,192.0,40.0,3.2
+2516,2025-06-19,11,Dilsukhnagar,9,Fast Food,UPI,397.0,37.0,3.7
+1942,2025-08-31,19,Ameerpet,14,Biryani,UPI,180.0,38.0,4.3
+1883,2025-11-08,18,Kukatpally,7,Biryani,UPI,397.0,33.0,3.5
+1292,2025-11-20,11,Ameerpet,6,South Indian,UPI,154.0,45.0,3.1
+1234,2025-05-19,18,Dilsukhnagar,3,Biryani,UPI,357.0,34.0,4.6
+1742,2025-07-27,12,Banjara Hills,12,North Indian,UPI,188.0,49.0,4.9
+2432,2025-01-02,19,Dilsukhnagar,25,Desserts,UPI,251.0,44.0,3.4
+2659,2025-12-13,11,Secunderabad,20,South Indian,Credit/Debit Card,201.0,40.0,3.5
+2502,2025-07-31,14,Madhapur,19,Biryani,Credit/Debit Card,322.0,29.0,5.0
+1050,2025-03-20,18,Kukatpally,27,Pizza,UPI,459.0,28.0,4.7
+1786,2025-08-29,13,Gachibowli,27,Pizza,Cash on Delivery,279.0,32.0,4.1
+2084,2025-02-02,21,Gachibowli,25,Pizza,UPI,170.0,32.0,2.7
+2616,2025-11-27,21,Kukatpally,28,Biryani,UPI,384.0,50.0,3.5
+2242,2025-05-24,18,Banjara Hills,17,North Indian,Wallet,262.0,NA,4.8
+1535,2025-05-15,12,Dilsukhnagar,1,Biryani,Cash on Delivery,NA,43.0,3.9
+1629,2025-04-28,20,Kukatpally,23,Biryani,UPI,402.0,42.0,3.7
+1929,2025-03-19,21,Gachibowli,12,Biryani,UPI,398.0,33.0,4.5
+2670,2025-10-22,13,Gachibowli,13,Desserts,UPI,NA,26.0,4.2
+1526,2025-07-10,19,Madhapur,19,North Indian,Credit/Debit Card,353.0,22.0,3.6
+2081,2025-05-18,19,Hitech City,12,Fast Food,UPI,256.0,33.0,4.4
+1400,2025-08-08,20,Banjara Hills,19,Fast Food,Credit/Debit Card,356.0,42.0,3.7
+2459,2025-08-14,12,Hitech City,4,North Indian,UPI,197.0,34.0,4.0
+2604,2025-09-27,11,Dilsukhnagar,8,South Indian,UPI,210.0,42.0,4.4
+2344,2025-12-05,12,Kukatpally,11,Fast Food,UPI,64.0,NA,4.1
+2993,2025-08-15,20,Ameerpet,14,Chinese,UPI,315.0,22.0,4.2
+2062,2025-05-29,13,Gachibowli,4,Beverages,Credit/Debit Card,87.0,32.0,NA
+1590,2025-11-17,17,Madhapur,1,Pizza,UPI,292.0,29.0,4.4
+1674,2025-05-30,12,Secunderabad,13,Fast Food,Wallet,247.0,42.0,2.7
+2433,2025-11-20,12,Secunderabad,20,South Indian,UPI,166.0,40.0,NA
+1107,2025-12-01,9,Kukatpally,25,Chinese,Cash on Delivery,391.0,41.0,3.6
+1836,2025-02-14,17,Gachibowli,27,Biryani,Wallet,474.0,32.0,3.2
+1252,2025-02-09,20,Ameerpet,14,North Indian,UPI,426.0,42.0,4.7
+2581,2025-05-07,15,Gachibowli,23,Chinese,Credit/Debit Card,279.0,21.0,4.4
+2431,2025-08-29,13,Dilsukhnagar,2,North Indian,UPI,259.0,47.0,3.2
+1391,2025-09-20,20,Madhapur,1,Desserts,UPI,205.0,27.0,4.4
+2240,2025-01-14,11,Banjara Hills,13,Biryani,Credit/Debit Card,389.0,41.0,4.0
+1795,2025-10-22,11,Gachibowli,8,Fast Food,Cash on Delivery,173.0,20.0,3.9
+1057,2025-05-03,18,Hitech City,23,Pizza,Wallet,407.0,28.0,5.0
+1669,2025-06-21,18,Secunderabad,14,Biryani,Cash on Delivery,397.0,48.0,4.3
+1682,2025-11-17,12,Hitech City,4,Pizza,Cash on Delivery,377.0,29.0,5.0
+1804,2025-02-22,20,Madhapur,17,Pizza,UPI,561.0,35.0,3.5
+2206,2025-04-17,10,Gachibowli,24,Chinese,UPI,305.0,26.0,3.7
+2078,2025-01-30,10,Madhapur,14,Pizza,Cash on Delivery,505.0,28.0,4.5
+2503,2025-12-05,11,Gachibowli,27,Biryani,UPI,228.0,24.0,4.0
+2871,2025-08-10,23,Madhapur,19,Biryani,Cash on Delivery,417.0,241.0,3.9
+1347,2025-08-18,21,Dilsukhnagar,11,Biryani,Cash on Delivery,389.0,42.0,4.5
+2731,2025-04-14,20,Banjara Hills,23,Biryani,Credit/Debit Card,457.0,34.0,4.8
+1152,2025-07-14,14,Secunderabad,18,Beverages,UPI,155.0,44.0,NA
+2716,2025-07-27,10,Hitech City,16,Biryani,UPI,344.0,28.0,4.0
+1828,2025-12-15,19,Madhapur,4,Pizza,Cash on Delivery,452.0,34.0,4.8
+2255,2025-05-13,13,Madhapur,1,Biryani,UPI,480.0,29.0,3.8
+1525,2025-01-03,19,Hitech City,28,South Indian,UPI,275.0,23.0,4.3
+2266,2025-11-17,12,Madhapur,27,Fast Food,UPI,200.0,35.0,4.1
+1022,2025-04-05,13,Gachibowli,13,Pizza,UPI,418.0,19.0,4.1
+1406,2025-10-14,12,Ameerpet,23,Fast Food,Cash on Delivery,369.0,33.0,4.4
+1258,2025-10-24,20,Banjara Hills,21,South Indian,UPI,179.0,27.0,3.6
+1701,2025-09-19,18,Gachibowli,23,Pizza,UPI,360.0,35.0,4.4
+1389,2025-08-27,18,Banjara Hills,2,Biryani,UPI,405.0,30.0,4.0
+1186,2025-04-04,12,Gachibowli,27,Biryani,Cash on Delivery,296.0,35.0,3.5
+1044,2025-12-14,13,Secunderabad,29,Chinese,Cash on Delivery,180.0,37.0,4.0
+1474,2025-01-09,17,Gachibowli,19,Desserts,Credit/Debit Card,258.0,23.0,4.9
+1853,2025-08-10,15,Banjara Hills,27,Pizza,Credit/Debit Card,640.0,35.0,3.0
+2478,2025-08-30,18,Secunderabad,23,Biryani,UPI,460.0,41.0,4.1
+1341,2025-08-31,20,Gachibowli,11,Fast Food,Wallet,281.0,34.0,3.4
+2167,2025-09-27,12,Gachibowli,15,Beverages,UPI,60.0,25.0,4.7
+2776,2025-07-08,11,Madhapur,3,Biryani,Cash on Delivery,597.0,36.0,4.7
+2524,2025-10-11,19,Secunderabad,11,South Indian,UPI,302.0,44.0,3.8
+2042,2025-04-03,13,Madhapur,12,Fast Food,UPI,146.0,24.0,5.0
+2923,2025-08-26,20,Ameerpet,26,Beverages,UPI,80.0,29.0,5.0
+1961,2025-06-21,21,Dilsukhnagar,27,North Indian,UPI,305.0,31.0,4.9
+2560,2025-12-21,11,Ameerpet,1,Chinese,UPI,353.0,18.0,4.7
+2438,2025-10-22,13,Kukatpally,19,Biryani,Wallet,493.0,37.0,3.7
+2351,2025-09-21,12,Secunderabad,25,North Indian,UPI,338.0,38.0,3.6
+1316,2025-03-15,12,Madhapur,4,Pizza,Cash on Delivery,466.0,36.0,4.2
+1330,2025-02-06,18,Madhapur,26,Pizza,UPI,582.0,27.0,5.0
+1513,2025-10-20,12,Banjara Hills,15,South Indian,UPI,232.0,28.0,4.7
+2987,2025-04-23,15,Banjara Hills,14,Pizza,Credit/Debit Card,484.0,32.0,4.3
+1346,2025-04-25,18,Banjara Hills,27,South Indian,UPI,175.0,35.0,NA
+1833,2025-09-07,17,Gachibowli,9,Chinese,Cash on Delivery,240.0,34.0,NA
+2311,2025-12-01,12,Madhapur,3,South Indian,UPI,NA,34.0,3.8
+1684,2025-10-24,13,Gachibowli,1,Chinese,Cash on Delivery,325.0,22.0,4.4
+2003,2025-04-24,13,Madhapur,10,Fast Food,UPI,265.0,27.0,4.0
+2942,2025-06-08,11,Ameerpet,14,Chinese,UPI,255.0,36.0,3.7
+2882,2025-03-30,18,Hitech City,14,Biryani,UPI,379.0,NA,5.0
+1773,2025-07-17,19,Madhapur,13,Biryani,UPI,307.0,35.0,4.1
+1067,2025-06-01,18,Madhapur,12,Fast Food,UPI,229.0,35.0,NA
+2631,2025-01-21,18,Gachibowli,24,Fast Food,UPI,320.0,25.0,3.0
+1933,2025-05-20,19,Ameerpet,24,Biryani,Credit/Debit Card,304.0,34.0,4.2
+2932,2025-07-02,19,Dilsukhnagar,21,North Indian,UPI,213.0,40.0,4.5
+2808,2025-04-29,19,Madhapur,8,Chinese,Cash on Delivery,251.0,27.0,4.6
+1644,2025-11-07,14,Gachibowli,27,North Indian,Credit/Debit Card,349.0,33.0,4.3
+2774,2025-07-19,19,Banjara Hills,7,Chinese,UPI,377.0,33.0,4.9
+1809,2025-12-12,17,Banjara Hills,3,North Indian,Credit/Debit Card,542.0,29.0,4.1
+2308,2025-09-17,20,Secunderabad,4,South Indian,Cash on Delivery,148.0,45.0,4.4
+1646,2025-07-19,13,Hitech City,17,Fast Food,Credit/Debit Card,273.0,30.0,NA
+1418,2025-04-02,12,Hitech City,19,Fast Food,UPI,300.0,34.0,4.3
+2712,2025-12-21,20,Gachibowli,23,Chinese,UPI,330.0,29.0,5.0
+2453,2025-12-28,17,Gachibowli,19,Biryani,Credit/Debit Card,421.0,23.0,3.9
+2139,2025-03-16,19,Banjara Hills,11,North Indian,UPI,451.0,38.0,4.3
+1542,2025-09-23,21,Gachibowli,23,Biryani,Cash on Delivery,341.0,30.0,5.0
+2935,2025-04-21,18,Gachibowli,15,North Indian,UPI,524.0,42.0,3.5
+2873,2025-08-02,13,Gachibowli,24,Fast Food,UPI,247.0,24.0,4.0
+2817,2025-01-02,18,Banjara Hills,11,South Indian,Cash on Delivery,196.0,38.0,4.7
+2296,2025-06-07,21,Hitech City,1,North Indian,UPI,284.0,43.0,3.3
+1314,2025-04-27,12,Banjara Hills,11,North Indian,UPI,287.0,33.0,5.0
+1307,2025-05-02,17,Hitech City,23,Biryani,Cash on Delivery,355.0,28.0,4.4
+1941,2025-11-12,12,Secunderabad,2,South Indian,Cash on Delivery,164.0,44.0,3.6
+2309,2025-03-08,20,Ameerpet,7,Chinese,Credit/Debit Card,368.0,34.0,4.6
+1130,2025-12-12,18,Kukatpally,10,South Indian,UPI,177.0,45.0,3.8
+1396,2025-08-12,13,Secunderabad,7,Biryani,Cash on Delivery,268.0,37.0,4.1
+2833,2025-08-04,18,Gachibowli,17,Biryani,Credit/Debit Card,118.0,36.0,NA
+1327,2025-12-28,13,Madhapur,23,Beverages,Credit/Debit Card,150.0,23.0,5.0
+1192,2025-10-26,12,Madhapur,27,Biryani,Wallet,405.0,27.0,3.8
+1723,2025-09-14,21,Kukatpally,14,Beverages,UPI,132.0,30.0,5.0
+2174,2025-02-19,16,Hitech City,21,Desserts,Cash on Delivery,165.0,28.0,4.3
+2801,2025-07-19,18,Kukatpally,18,Biryani,Wallet,283.0,39.0,4.5
+2065,2025-04-01,18,Madhapur,14,South Indian,Wallet,104.0,43.0,5.0
+2331,2025-03-09,18,Madhapur,28,Pizza,UPI,501.0,36.0,4.1
+2398,2025-12-04,19,Secunderabad,14,Biryani,UPI,392.0,38.0,4.3
+1994,2025-10-29,11,Hitech City,4,Chinese,UPI,469.0,27.0,5.0
+1921,2025-09-06,21,Dilsukhnagar,30,Fast Food,UPI,233.0,49.0,3.6
+1496,2025-10-02,19,Hitech City,9,Biryani,Wallet,286.0,51.0,3.9
+2297,2025-08-19,18,Banjara Hills,16,Beverages,UPI,181.0,33.0,3.4
+2033,2025-11-19,13,Secunderabad,11,Biryani,Credit/Debit Card,460.0,37.0,2.9
+1868,2025-08-29,17,Ameerpet,26,Beverages,Wallet,143.0,31.0,3.0
+1385,2025-07-23,11,Madhapur,11,South Indian,Credit/Debit Card,162.0,31.0,3.8
+2461,2025-08-06,17,Gachibowli,11,Desserts,UPI,128.0,35.0,4.8
+1653,2025-04-26,18,Madhapur,25,Chinese,UPI,285.0,28.0,5.0
+2644,2025-09-29,19,Banjara Hills,19,North Indian,UPI,458.0,32.0,4.5
+1398,2025-02-20,18,Banjara Hills,14,Desserts,UPI,178.0,29.0,4.8
+1947,2025-08-29,20,Secunderabad,28,Biryani,Cash on Delivery,NA,38.0,4.8
+2476,2025-11-02,19,Dilsukhnagar,15,North Indian,UPI,374.0,44.0,3.9
+2970,2025-12-05,12,Kukatpally,19,Pizza,UPI,418.0,41.0,NA
+1725,2025-04-12,22,Banjara Hills,30,Chinese,Wallet,349.0,26.0,4.3
+1533,2025-09-19,19,Hitech City,11,South Indian,Credit/Debit Card,210.0,NA,4.0
+1763,2025-01-28,19,Hitech City,11,Pizza,UPI,522.0,30.0,NA
+1162,2025-07-13,9,Madhapur,15,Chinese,Credit/Debit Card,363.0,31.0,4.5
+2335,2025-10-17,17,Ameerpet,25,Chinese,Cash on Delivery,170.0,24.0,3.9
+2657,2025-10-13,20,Kukatpally,12,North Indian,UPI,174.0,42.0,4.1
+2104,2025-10-09,16,Secunderabad,6,Pizza,Wallet,305.0,42.0,2.9
+1937,2025-09-20,12,Banjara Hills,19,South Indian,UPI,144.0,36.0,3.3
+2040,2025-03-23,20,Gachibowli,6,Beverages,UPI,110.0,39.0,3.2
+2367,2025-02-13,21,Dilsukhnagar,3,Biryani,Cash on Delivery,495.0,44.0,5.0
+2074,2025-01-23,17,Hitech City,23,Pizza,Wallet,434.0,31.0,4.9
+2275,2025-06-11,14,Hitech City,29,Pizza,UPI,385.0,35.0,5.0
+2691,2025-02-12,10,Ameerpet,19,Beverages,Cash on Delivery,77.0,32.0,NA
+1021,2025-06-21,14,Madhapur,20,Biryani,UPI,426.0,22.0,3.9
+1570,2025-04-23,12,Banjara Hills,24,South Indian,Credit/Debit Card,166.0,40.0,3.8
+2160,2025-05-29,11,Madhapur,3,Biryani,Cash on Delivery,473.0,24.0,4.8
+1654,2025-03-10,21,Kukatpally,27,Chinese,UPI,372.0,46.0,3.7
+1697,2025-11-24,16,Secunderabad,12,North Indian,Cash on Delivery,323.0,42.0,4.9
+1482,2025-07-07,10,Madhapur,17,Biryani,UPI,437.0,28.0,4.3
+1034,2025-04-11,12,Kukatpally,13,Beverages,Credit/Debit Card,142.0,41.0,4.7
+2135,2025-09-17,20,Secunderabad,27,Fast Food,Credit/Debit Card,218.0,47.0,3.7
+2407,2025-09-08,20,Madhapur,14,Biryani,UPI,324.0,29.0,4.9
+2050,2025-12-14,20,Gachibowli,7,North Indian,UPI,497.0,32.0,2.7
+1048,2025-12-29,19,Gachibowli,11,South Indian,Wallet,257.0,27.0,4.2
+2199,2025-08-21,16,Banjara Hills,16,North Indian,UPI,306.0,27.0,3.8
+1030,2025-07-18,12,Banjara Hills,15,Biryani,UPI,451.0,35.0,3.6
+2006,2025-07-11,18,Secunderabad,30,Pizza,UPI,231.0,43.0,4.1
+2178,2025-05-11,11,Kukatpally,14,Chinese,Cash on Delivery,395.0,40.0,4.6
+2465,2025-08-01,13,Madhapur,23,Biryani,Cash on Delivery,381.0,37.0,3.5
+2504,2025-03-30,12,Hitech City,28,Pizza,UPI,284.0,32.0,3.4
+2714,2025-11-09,18,Dilsukhnagar,27,Fast Food,Credit/Debit Card,300.0,42.0,3.3
+2186,2025-08-18,19,Dilsukhnagar,10,Pizza,UPI,446.0,43.0,2.9
+2269,2025-08-01,17,Madhapur,11,Biryani,Cash on Delivery,354.0,30.0,5.0
+1511,2025-01-09,13,Banjara Hills,12,Pizza,Credit/Debit Card,637.0,36.0,3.6
+2183,2025-12-09,13,Banjara Hills,12,Biryani,UPI,330.0,NA,4.5
+1531,2025-10-25,12,Madhapur,28,Fast Food,UPI,270.0,33.0,4.7
+1923,2025-02-19,13,Madhapur,23,Pizza,UPI,503.0,36.0,5.0
+1502,2025-09-27,12,Hitech City,9,Biryani,UPI,356.0,44.0,3.5
+1433,2025-01-27,23,Ameerpet,20,North Indian,Wallet,280.0,27.0,3.4
+1254,2025-03-28,20,Gachibowli,12,North Indian,Wallet,386.0,23.0,4.8
+2934,2025-05-26,21,Ameerpet,3,Biryani,UPI,412.0,48.0,4.2
+2821,2025-10-09,13,Madhapur,15,Biryani,Credit/Debit Card,557.0,31.0,4.1
+2736,2025-09-19,19,Banjara Hills,11,Pizza,Credit/Debit Card,273.0,28.0,4.7
+2614,2025-06-03,18,Hitech City,4,Fast Food,Cash on Delivery,233.0,35.0,4.0
+1780,2025-01-24,12,Ameerpet,16,Chinese,Credit/Debit Card,336.0,35.0,3.0
+1367,2025-02-04,12,Gachibowli,9,South Indian,UPI,246.0,NA,2.8
+2077,2025-11-16,11,Gachibowli,14,Fast Food,Cash on Delivery,350.0,29.0,4.8
+2079,2025-10-28,12,Banjara Hills,2,North Indian,UPI,298.0,42.0,4.0
+1681,2025-02-16,12,Kukatpally,1,Biryani,Wallet,285.0,NA,3.5
+2660,2025-07-21,11,Hitech City,25,Biryani,Wallet,419.0,29.0,5.0
+1813,2025-01-11,19,Hitech City,30,Biryani,Cash on Delivery,470.0,39.0,3.9
+1736,2025-08-26,12,Kukatpally,12,Pizza,Credit/Debit Card,NA,34.0,4.3
+2049,2025-03-30,18,Madhapur,30,South Indian,UPI,176.0,26.0,3.7
+1299,2025-12-28,17,Kukatpally,15,Desserts,Credit/Debit Card,221.0,26.0,3.4
+1557,2025-04-04,12,Hitech City,23,Pizza,UPI,261.0,30.0,4.0
+1576,2025-07-04,10,Madhapur,4,Fast Food,UPI,226.0,23.0,4.3
+1019,2025-05-17,12,Gachibowli,17,Beverages,Credit/Debit Card,129.0,48.0,3.1
+1573,2025-11-30,13,Ameerpet,1,Biryani,Wallet,351.0,37.0,3.8
+2279,2025-05-13,20,Gachibowli,27,Pizza,UPI,446.0,36.0,2.6
+1226,2025-02-16,12,Kukatpally,14,Biryani,UPI,399.0,38.0,4.4
+1600,2025-04-16,12,Hitech City,13,Fast Food,UPI,322.0,50.0,2.9
+1420,2025-12-16,22,Madhapur,13,South Indian,Cash on Delivery,195.0,37.0,3.5
+2554,2025-11-30,19,Hitech City,13,Biryani,Cash on Delivery,479.0,37.0,4.2
+2303,2025-08-28,12,Ameerpet,19,Pizza,Cash on Delivery,388.0,24.0,5.0
+2247,2025-02-01,23,Gachibowli,19,South Indian,UPI,128.0,28.0,4.1
+2635,2025-10-20,19,Madhapur,21,Fast Food,UPI,205.0,27.0,3.2
+2449,2025-09-28,20,Kukatpally,8,Chinese,Cash on Delivery,385.0,NA,4.2
+1219,2025-11-22,13,Secunderabad,27,Desserts,UPI,259.0,43.0,4.2
+1308,2025-07-01,18,Madhapur,21,Chinese,UPI,361.0,30.0,4.4
+1157,2025-02-26,19,Kukatpally,4,South Indian,Credit/Debit Card,97.0,47.0,3.8
+1172,2025-09-20,10,Hitech City,14,Biryani,Cash on Delivery,293.0,37.0,4.2
+2467,2025-02-23,13,Secunderabad,12,Fast Food,UPI,343.0,NA,3.8
+2588,2025-06-20,11,Hitech City,24,Fast Food,UPI,316.0,26.0,3.0
+1706,2025-12-16,13,Banjara Hills,1,Fast Food,UPI,172.0,41.0,2.9
+1287,2025-11-22,19,Dilsukhnagar,29,Pizza,Credit/Debit Card,552.0,51.0,NA
+2091,2025-01-01,19,Kukatpally,4,North Indian,UPI,197.0,42.0,4.6
+1454,2025-02-18,11,Secunderabad,11,Beverages,UPI,170.0,42.0,3.9
+2941,2025-10-09,17,Kukatpally,26,Chinese,UPI,229.0,40.0,4.5
+1072,2025-10-21,19,Banjara Hills,28,Desserts,UPI,281.0,29.0,4.3
+2437,2025-10-09,22,Madhapur,26,Biryani,UPI,491.0,48.0,NA
+1083,2025-10-25,10,Gachibowli,28,North Indian,UPI,377.0,32.0,4.9
+2911,2025-12-19,15,Kukatpally,11,Chinese,Cash on Delivery,237.0,41.0,4.2
+2546,2025-01-03,18,Dilsukhnagar,11,Desserts,UPI,NA,40.0,4.1
+2921,2025-02-14,18,Hitech City,26,North Indian,UPI,248.0,33.0,3.5
+1016,2025-08-09,16,Kukatpally,11,Fast Food,Cash on Delivery,164.0,37.0,4.3
+2719,2025-10-22,19,Madhapur,12,Chinese,UPI,269.0,35.0,4.2
+1536,2025-12-07,22,Madhapur,11,Chinese,UPI,231.0,32.0,5.0
+2531,2025-11-05,16,Hitech City,7,Chinese,UPI,369.0,26.0,4.5
+1919,2025-10-09,20,Secunderabad,16,Chinese,Credit/Debit Card,272.0,41.0,3.4
+1452,2025-07-01,18,Gachibowli,26,Fast Food,Cash on Delivery,230.0,26.0,5.0
+2528,2025-07-24,13,Dilsukhnagar,17,Fast Food,UPI,316.0,38.0,4.0
+1405,2025-04-14,12,Kukatpally,18,Pizza,UPI,386.0,40.0,4.1
+2853,2025-11-23,18,Hitech City,27,Desserts,Wallet,277.0,23.0,5.0
+2515,2025-05-25,13,Gachibowli,4,Biryani,Cash on Delivery,495.0,33.0,5.0
+2800,2025-02-10,12,Secunderabad,10,Fast Food,Credit/Debit Card,219.0,51.0,2.8
+1740,2025-10-26,19,Gachibowli,23,North Indian,Cash on Delivery,323.0,25.0,4.2
+1365,2025-12-03,18,Gachibowli,19,North Indian,Credit/Debit Card,414.0,27.0,NA
+2484,2025-04-16,18,Dilsukhnagar,7,Fast Food,Cash on Delivery,220.0,30.0,4.9
+1105,2025-11-27,19,Ameerpet,17,North Indian,UPI,545.0,28.0,4.0
+2293,2025-01-20,19,Dilsukhnagar,11,North Indian,UPI,367.0,36.0,4.4
+2859,2025-09-21,20,Ameerpet,19,Biryani,Wallet,492.0,34.0,4.6
+2654,2025-10-21,19,Madhapur,27,South Indian,UPI,159.0,43.0,3.5
+1662,2025-11-06,18,Hitech City,14,Fast Food,UPI,157.0,25.0,4.9
+1242,2025-10-21,19,Hitech City,4,North Indian,Credit/Debit Card,362.0,36.0,4.4
+1431,2025-12-20,18,Madhapur,23,Biryani,UPI,281.0,28.0,4.4
+1815,2025-02-28,18,Madhapur,23,Biryani,Wallet,264.0,NA,5.0
+2922,2025-07-09,18,Ameerpet,13,Biryani,UPI,228.0,33.0,3.4
+2228,2025-07-02,18,Gachibowli,12,Pizza,Wallet,500.0,30.0,4.6
+1631,2025-12-17,17,Hitech City,11,Fast Food,Cash on Delivery,247.0,30.0,4.0
+1097,2025-02-18,21,Hitech City,11,South Indian,UPI,272.0,30.0,4.1
+1468,2025-12-04,19,Gachibowli,30,Chinese,Credit/Debit Card,264.0,26.0,4.2
+2579,2025-11-05,10,Kukatpally,10,Pizza,Wallet,278.0,31.0,3.4
+2517,2025-11-09,22,Ameerpet,24,Biryani,UPI,363.0,40.0,3.1
+2191,2025-12-23,17,Kukatpally,3,Biryani,UPI,209.0,32.0,3.5
+1085,2025-05-20,17,Kukatpally,15,Pizza,UPI,525.0,39.0,4.2
+1702,2025-12-09,18,Kukatpally,4,Biryani,Credit/Debit Card,427.0,42.0,3.9
+1010,2025-07-31,12,Gachibowli,14,Beverages,UPI,149.0,34.0,3.9
+1605,2025-07-27,18,Madhapur,12,Biryani,UPI,324.0,31.0,4.5
+1879,2025-04-24,19,Gachibowli,27,Fast Food,UPI,189.0,30.0,4.1
+2340,2025-09-17,10,Secunderabad,13,Pizza,Wallet,320.0,40.0,3.4
+1774,2025-11-11,19,Dilsukhnagar,21,Pizza,Credit/Debit Card,482.0,45.0,3.7
+2386,2025-05-31,13,Banjara Hills,17,North Indian,UPI,348.0,33.0,4.5
+2163,2025-10-22,11,Kukatpally,27,North Indian,UPI,314.0,28.0,4.9
+1277,2025-11-24,9,Hitech City,3,South Indian,Credit/Debit Card,193.0,31.0,4.5
+2409,2025-05-21,18,Secunderabad,23,Fast Food,Cash on Delivery,309.0,47.0,4.2
+2373,2025-12-27,19,Banjara Hills,1,Pizza,Credit/Debit Card,606.0,38.0,4.6
+1089,2025-10-26,17,Ameerpet,14,South Indian,UPI,174.0,NA,5.0
+1091,2025-09-20,12,Secunderabad,25,Fast Food,UPI,237.0,39.0,4.2
+1766,2025-10-16,16,Kukatpally,1,South Indian,Credit/Debit Card,279.0,37.0,3.4
+1281,2025-03-23,11,Ameerpet,4,Biryani,Cash on Delivery,352.0,37.0,3.8
+2008,2025-03-29,14,Dilsukhnagar,21,Pizza,UPI,593.0,57.0,1.9
+1652,2025-04-25,12,Ameerpet,21,Biryani,UPI,288.0,42.0,2.9
+2485,2025-05-28,18,Kukatpally,15,Pizza,UPI,439.0,34.0,3.9
+2662,2025-08-04,11,Ameerpet,8,Beverages,Credit/Debit Card,184.0,25.0,4.0
+2876,2025-05-02,18,Madhapur,3,North Indian,Credit/Debit Card,246.0,35.0,4.0
+2967,2025-09-19,12,Hitech City,25,Desserts,Cash on Delivery,183.0,41.0,2.9
+2227,2025-09-11,20,Secunderabad,13,South Indian,Wallet,244.0,43.0,3.7
+2427,2025-09-27,20,Madhapur,30,Pizza,Wallet,541.0,29.0,5.0
+2365,2025-03-16,21,Secunderabad,12,Pizza,UPI,386.0,49.0,NA
+1993,2025-09-17,18,Hitech City,11,Desserts,Cash on Delivery,198.0,27.0,3.7
+1366,2025-10-12,15,Gachibowli,24,Fast Food,UPI,158.0,29.0,5.0
+1024,2025-03-28,13,Gachibowli,6,Pizza,Wallet,343.0,35.0,3.5
+2370,2025-11-10,18,Ameerpet,14,South Indian,Cash on Delivery,157.0,37.0,4.2
+1677,2025-03-29,19,Gachibowli,8,Fast Food,UPI,189.0,43.0,2.9
+1999,2025-04-12,18,Kukatpally,17,Biryani,Wallet,380.0,40.0,4.6
+2190,2025-07-20,20,Kukatpally,28,South Indian,Credit/Debit Card,212.0,35.0,4.3
+2359,2025-01-30,12,Hitech City,27,Fast Food,Cash on Delivery,295.0,33.0,5.0
+1311,2025-07-16,13,Ameerpet,23,Fast Food,UPI,143.0,48.0,3.7
+2061,2025-03-20,19,Hitech City,20,Pizza,Cash on Delivery,394.0,29.0,3.3
+1641,2025-09-30,22,Madhapur,9,North Indian,Cash on Delivery,357.0,27.0,3.9
+2378,2025-05-25,12,Hitech City,16,Chinese,UPI,392.0,36.0,2.1
+2404,2025-05-12,19,Ameerpet,12,Biryani,UPI,305.0,45.0,3.4
+1241,2025-12-17,17,Madhapur,24,Chinese,UPI,206.0,29.0,4.6
+1667,2025-10-30,20,Gachibowli,10,Beverages,Credit/Debit Card,83.0,28.0,3.5
+2343,2025-08-07,15,Madhapur,29,Fast Food,UPI,290.0,19.0,NA
+2728,2025-03-04,20,Ameerpet,21,North Indian,UPI,272.0,44.0,3.2
+2287,2025-11-02,19,Madhapur,14,North Indian,Credit/Debit Card,317.0,40.0,4.4
+1099,2025-06-29,17,Gachibowli,23,Biryani,UPI,229.0,29.0,4.9
+1168,2025-02-04,12,Madhapur,17,Biryani,UPI,544.0,31.0,2.8
+1497,2025-01-13,20,Ameerpet,11,Pizza,UPI,NA,40.0,2.7
+1276,2025-10-01,11,Hitech City,19,Chinese,Wallet,60.0,33.0,4.2
+2114,2025-12-27,10,Banjara Hills,23,Biryani,Wallet,316.0,29.0,4.0
+1715,2025-10-21,8,Kukatpally,1,Pizza,UPI,451.0,22.0,3.6
+2540,2025-07-08,17,Kukatpally,10,Fast Food,UPI,166.0,26.0,3.7
+2687,2025-04-26,12,Kukatpally,23,Pizza,UPI,503.0,31.0,4.6
+1332,2025-10-21,19,Kukatpally,4,Fast Food,Wallet,353.0,47.0,4.3
+1220,2025-09-17,19,Gachibowli,26,North Indian,Wallet,251.0,31.0,3.7
+1434,2025-12-10,11,Gachibowli,12,South Indian,UPI,137.0,20.0,5.0
+2924,2025-04-20,13,Dilsukhnagar,9,Pizza,UPI,577.0,42.0,3.1
+2717,2025-10-05,19,Madhapur,23,Biryani,UPI,164.0,36.0,4.2
+1487,2025-12-23,22,Gachibowli,13,Chinese,Credit/Debit Card,328.0,29.0,4.0
+2538,2025-11-28,16,Banjara Hills,7,North Indian,UPI,356.0,34.0,4.0
+1532,2025-12-01,18,Banjara Hills,14,Biryani,Cash on Delivery,510.0,31.0,4.2
+2742,2025-04-08,18,Secunderabad,19,Pizza,UPI,401.0,32.0,4.7
+1261,2025-01-18,20,Madhapur,28,Biryani,Cash on Delivery,407.0,29.0,4.8
+1811,2025-09-09,17,Banjara Hills,23,Fast Food,UPI,358.0,43.0,4.1
+1306,2025-09-29,11,Hitech City,14,Beverages,UPI,113.0,30.0,NA
+2694,2025-10-20,19,Ameerpet,25,Biryani,Credit/Debit Card,354.0,38.0,3.8
+1197,2025-12-06,10,Banjara Hills,25,Chinese,Cash on Delivery,231.0,20.0,4.4
+2165,2025-03-09,17,Banjara Hills,6,Biryani,UPI,357.0,33.0,4.2
+2147,2025-01-03,10,Kukatpally,19,Pizza,UPI,365.0,43.0,5.0
+1495,2025-05-11,12,Gachibowli,2,South Indian,Cash on Delivery,258.0,18.0,4.1
+1111,2025-06-30,22,Dilsukhnagar,11,Beverages,UPI,207.0,50.0,2.9
+2109,2025-02-08,11,Kukatpally,25,Biryani,Credit/Debit Card,304.0,35.0,3.8
+2645,2025-02-01,18,Hitech City,15,North Indian,UPI,423.0,32.0,3.9
+1514,2025-11-12,14,Kukatpally,23,North Indian,UPI,454.0,40.0,NA
+1692,2025-10-11,18,Madhapur,12,Fast Food,UPI,NA,32.0,4.9
+2507,2025-11-22,19,Gachibowli,3,Biryani,UPI,454.0,30.0,4.3
+1370,2025-10-22,10,Gachibowli,24,Pizza,Credit/Debit Card,441.0,12.0,4.5
+1794,2025-05-25,11,Hitech City,28,Pizza,Credit/Debit Card,450.0,33.0,4.4
+2099,2025-12-08,17,Madhapur,14,Biryani,UPI,516.0,26.0,4.6
+2544,2025-04-14,21,Kukatpally,25,North Indian,Wallet,361.0,NA,3.5
+2818,2025-12-18,12,Secunderabad,12,South Indian,UPI,169.0,44.0,3.5
+1927,2025-02-01,19,Kukatpally,12,North Indian,UPI,495.0,29.0,4.3
+1274,2025-03-09,17,Hitech City,26,Pizza,UPI,727.0,24.0,5.0
+1397,2025-09-04,12,Hitech City,30,Beverages,Credit/Debit Card,140.0,34.0,4.3
+2179,2025-06-07,17,Hitech City,7,Chinese,Credit/Debit Card,285.0,23.0,4.7
+1448,2025-12-14,12,Gachibowli,26,Biryani,UPI,365.0,30.0,4.0
+2216,2025-11-09,19,Secunderabad,12,Biryani,UPI,446.0,38.0,4.7
+1798,2025-07-05,19,Madhapur,27,Beverages,Credit/Debit Card,187.0,35.0,4.3
+2299,2025-09-27,14,Madhapur,22,Pizza,UPI,386.0,42.0,4.0
+2212,2025-08-31,20,Ameerpet,13,Chinese,UPI,327.0,43.0,3.3
+2075,2025-10-11,20,Madhapur,30,Biryani,Cash on Delivery,434.0,37.0,4.0
+2063,2025-05-29,17,Dilsukhnagar,25,South Indian,Credit/Debit Card,216.0,40.0,4.1
+1962,2025-10-17,20,Dilsukhnagar,23,Beverages,Wallet,73.0,46.0,NA
+1419,2025-06-14,20,Madhapur,19,North Indian,UPI,299.0,35.0,NA
+2469,2025-11-15,22,Hitech City,4,South Indian,Cash on Delivery,165.0,39.0,4.2
+2233,2025-08-26,20,Secunderabad,17,Chinese,UPI,325.0,48.0,3.9
+1376,2025-12-20,18,Hitech City,8,Chinese,Wallet,144.0,29.0,4.9
+1464,2025-09-10,20,Madhapur,19,Fast Food,UPI,260.0,32.0,5.0
+1471,2025-09-08,20,Madhapur,22,Pizza,Credit/Debit Card,330.0,22.0,4.6
+2542,2025-03-05,11,Dilsukhnagar,4,Biryani,UPI,347.0,38.0,4.1
+2100,2025-05-21,13,Gachibowli,23,North Indian,UPI,495.0,36.0,4.9
+2273,2025-01-14,12,Hitech City,16,North Indian,UPI,345.0,29.0,3.3
+1560,2025-12-04,18,Madhapur,1,Chinese,Cash on Delivery,267.0,30.0,3.5
+1303,2025-07-22,19,Kukatpally,4,Fast Food,UPI,212.0,32.0,5.0
+1583,2025-08-24,17,Madhapur,2,Biryani,Cash on Delivery,405.0,25.0,4.3
+2270,2025-04-15,13,Hitech City,5,Pizza,Wallet,407.0,NA,3.2
+2995,2025-11-12,10,Dilsukhnagar,12,South Indian,Wallet,248.0,35.0,4.3
+1799,2025-10-19,10,Madhapur,13,Biryani,Credit/Debit Card,351.0,25.0,3.7
+1012,2025-07-12,19,Gachibowli,13,Fast Food,Cash on Delivery,217.0,22.0,3.6
+2737,2025-09-18,18,Madhapur,17,Biryani,UPI,141.0,19.0,5.0
+2510,2025-05-19,20,Dilsukhnagar,15,Pizza,Credit/Debit Card,463.0,34.0,4.2
+2487,2025-07-23,22,Kukatpally,9,Pizza,Credit/Debit Card,285.0,37.0,4.5
+1539,2025-12-15,13,Gachibowli,30,Fast Food,UPI,246.0,40.0,3.8
+1628,2025-09-25,17,Ameerpet,29,Biryani,Cash on Delivery,378.0,36.0,3.9
+1282,2025-02-05,11,Ameerpet,29,Pizza,Wallet,485.0,33.0,3.2
+2278,2025-11-28,19,Hitech City,19,Fast Food,UPI,276.0,40.0,3.6
+1984,2025-07-11,15,Madhapur,20,Pizza,UPI,379.0,26.0,5.0
+2997,2025-05-14,12,Kukatpally,30,Biryani,UPI,628.0,19.0,NA
+2480,2025-05-18,8,Madhapur,14,Biryani,Cash on Delivery,519.0,24.0,5.0
+1224,2025-10-05,11,Gachibowli,10,Fast Food,Wallet,170.0,41.0,3.2
+2602,2025-12-06,9,Dilsukhnagar,19,Chinese,UPI,316.0,39.0,3.4
+1673,2025-08-17,13,Ameerpet,4,North Indian,Credit/Debit Card,263.0,33.0,NA
+2244,2025-12-31,13,Hitech City,10,Pizza,Cash on Delivery,330.0,37.0,4.3
+1967,2025-05-03,17,Kukatpally,29,Chinese,UPI,224.0,37.0,5.0
+2450,2025-05-08,18,Kukatpally,23,Biryani,UPI,244.0,44.0,5.0
+2394,2025-01-19,12,Kukatpally,29,Pizza,UPI,330.0,43.0,2.8
+2150,2025-02-17,11,Kukatpally,14,Chinese,UPI,400.0,37.0,4.2
+2094,2025-03-02,12,Kukatpally,4,Beverages,Cash on Delivery,187.0,29.0,3.4
+2994,2025-07-12,12,Banjara Hills,26,Fast Food,UPI,400.0,34.0,3.4
+1995,2025-09-06,20,Gachibowli,11,South Indian,UPI,268.0,26.0,4.7
+1581,2025-10-09,12,Gachibowli,23,North Indian,Credit/Debit Card,307.0,45.0,NA
+2046,2025-09-26,17,Gachibowli,23,Chinese,UPI,323.0,24.0,4.7
+1078,2025-10-27,20,Madhapur,15,Biryani,Credit/Debit Card,485.0,36.0,4.4
+1548,2025-04-19,12,Madhapur,4,Chinese,Wallet,331.0,29.0,4.0
+2132,2025-01-14,19,Madhapur,13,North Indian,UPI,242.0,34.0,3.9
+1749,2025-03-29,17,Hitech City,15,Desserts,UPI,225.0,33.0,4.9
+2959,2025-02-14,19,Madhapur,19,North Indian,Credit/Debit Card,254.0,32.0,4.4
+1827,2025-01-13,11,Hitech City,13,Biryani,Credit/Debit Card,399.0,26.0,4.1
+1126,2025-03-23,20,Banjara Hills,20,Desserts,UPI,204.0,28.0,4.1
+2253,2025-08-15,14,Hitech City,18,Biryani,Credit/Debit Card,336.0,29.0,3.6
+1758,2025-08-31,18,Madhapur,16,South Indian,Credit/Debit Card,161.0,34.0,2.8
+2067,2025-08-13,17,Madhapur,15,Biryani,UPI,361.0,29.0,5.0
+2541,2025-05-11,18,Dilsukhnagar,28,Fast Food,Cash on Delivery,236.0,27.0,5.0
+2597,2025-03-18,21,Secunderabad,9,Fast Food,UPI,120.0,45.0,2.5
+1577,2025-07-17,13,Gachibowli,21,North Indian,Wallet,358.0,39.0,3.0
+2576,2025-02-01,19,Gachibowli,13,Biryani,UPI,227.0,27.0,3.7
+1622,2025-11-20,10,Ameerpet,8,Pizza,Cash on Delivery,NA,42.0,4.0
+1768,2025-04-14,16,Ameerpet,9,Beverages,Credit/Debit Card,100.0,38.0,4.8
+2399,2025-01-11,12,Gachibowli,29,Pizza,Cash on Delivery,462.0,31.0,4.5
+2230,2025-07-06,18,Madhapur,17,Biryani,UPI,456.0,21.0,5.0
+2983,2025-03-08,20,Ameerpet,19,Pizza,Wallet,500.0,37.0,4.5
+2637,2025-05-16,11,Madhapur,7,Fast Food,Credit/Debit Card,203.0,32.0,4.8
+2031,2025-11-26,16,Hitech City,9,Pizza,Credit/Debit Card,306.0,32.0,4.6
+2819,2025-01-11,19,Dilsukhnagar,17,Biryani,UPI,427.0,47.0,4.1
+1803,2025-05-24,13,Gachibowli,24,South Indian,UPI,251.0,179.0,NA
+1845,2025-06-16,19,Hitech City,29,Desserts,UPI,NA,38.0,4.2
+2518,2025-04-29,19,Gachibowli,26,Chinese,UPI,249.0,26.0,4.2
+2703,2025-02-14,19,Madhapur,8,Chinese,UPI,349.0,42.0,2.9
+2956,2025-08-15,11,Madhapur,16,Biryani,UPI,388.0,34.0,3.8
+2977,2025-05-22,21,Hitech City,28,Desserts,UPI,60.0,37.0,3.8
+2729,2025-06-05,20,Kukatpally,26,Biryani,Cash on Delivery,NA,37.0,3.7
+1260,2025-12-09,15,Kukatpally,29,Fast Food,UPI,112.0,33.0,3.8
+1283,2025-10-12,18,Ameerpet,24,Pizza,UPI,285.0,33.0,4.4
+1635,2025-11-26,15,Hitech City,28,South Indian,Cash on Delivery,187.0,31.0,4.0
+2615,2025-11-01,18,Hitech City,24,North Indian,UPI,308.0,34.0,4.0
+2892,2025-12-20,17,Kukatpally,1,Beverages,UPI,180.0,34.0,4.1
+1475,2025-12-20,18,Hitech City,1,Chinese,UPI,330.0,23.0,NA
+1456,2025-11-15,13,Hitech City,6,Pizza,UPI,359.0,29.0,3.4
+1321,2025-11-18,18,Banjara Hills,17,Fast Food,Credit/Debit Card,203.0,23.0,4.9
+1435,2025-11-29,13,Ameerpet,24,Pizza,Cash on Delivery,434.0,40.0,3.4
+2688,2025-11-26,22,Banjara Hills,16,Desserts,UPI,176.0,32.0,4.1
+2937,2025-02-17,18,Gachibowli,11,North Indian,UPI,293.0,31.0,4.8
+1300,2025-03-15,19,Hitech City,19,Biryani,Credit/Debit Card,285.0,21.0,4.0
+1437,2025-08-17,17,Hitech City,14,Biryani,UPI,329.0,29.0,4.3
+2700,2025-03-21,10,Kukatpally,28,Biryani,Credit/Debit Card,292.0,36.0,3.7
+2834,2025-08-07,20,Gachibowli,1,Desserts,Cash on Delivery,115.0,29.0,4.8
+1439,2025-11-09,20,Hitech City,12,Fast Food,Credit/Debit Card,256.0,33.0,5.0
+1326,2025-10-23,21,Ameerpet,30,North Indian,UPI,343.0,31.0,4.2
+1404,2025-08-30,22,Madhapur,11,South Indian,Credit/Debit Card,222.0,35.0,4.1
+2290,2025-06-21,12,Gachibowli,4,Biryani,Wallet,258.0,29.0,4.2
+1565,2025-08-23,11,Gachibowli,30,North Indian,UPI,205.0,30.0,4.8
+2627,2025-06-04,11,Hitech City,15,South Indian,UPI,120.0,25.0,4.8
+1293,2025-04-20,19,Secunderabad,17,South Indian,Credit/Debit Card,75.0,43.0,4.4
+1279,2025-08-22,18,Gachibowli,3,North Indian,UPI,323.0,32.0,3.6
+1656,2025-04-17,12,Secunderabad,7,Biryani,UPI,442.0,40.0,3.4
+2756,2025-06-20,20,Madhapur,17,Biryani,Credit/Debit Card,325.0,32.0,4.9
+1733,2025-10-16,13,Banjara Hills,12,North Indian,Credit/Debit Card,390.0,31.0,3.9
+1554,2025-10-26,17,Gachibowli,30,Biryani,UPI,400.0,28.0,4.5
+1095,2025-09-02,18,Hitech City,4,Pizza,UPI,NA,33.0,4.9
+2898,2025-12-17,11,Madhapur,3,Biryani,UPI,325.0,31.0,5.0
+2709,2025-09-22,14,Dilsukhnagar,4,Chinese,UPI,403.0,32.0,4.0
+2256,2025-02-02,15,Gachibowli,21,Desserts,UPI,226.0,35.0,3.7
+1246,2025-05-26,11,Gachibowli,14,Biryani,Credit/Debit Card,429.0,34.0,4.0
+1946,2025-10-27,17,Hitech City,13,Chinese,UPI,305.0,28.0,3.4
+2192,2025-08-17,11,Kukatpally,4,North Indian,Cash on Delivery,330.0,33.0,5.0
+2527,2025-06-20,18,Gachibowli,12,North Indian,Cash on Delivery,362.0,30.0,4.7
+2357,2025-09-08,10,Madhapur,17,North Indian,Cash on Delivery,304.0,38.0,3.9
+2810,2025-07-18,12,Banjara Hills,25,Desserts,UPI,164.0,NA,3.7
+1776,2025-09-16,20,Gachibowli,17,Biryani,UPI,467.0,45.0,4.0
+1427,2025-10-26,20,Madhapur,15,Desserts,UPI,286.0,37.0,4.9
+2566,2025-08-19,18,Gachibowli,23,Chinese,UPI,194.0,23.0,4.8
+2187,2025-06-03,18,Ameerpet,19,Fast Food,UPI,205.0,25.0,4.4
+1150,2025-02-22,12,Ameerpet,15,Beverages,UPI,115.0,36.0,3.8
+1227,2025-11-30,21,Kukatpally,2,North Indian,Cash on Delivery,268.0,40.0,2.6
+1866,2025-08-29,13,Gachibowli,10,Fast Food,UPI,214.0,26.0,NA
+1968,2025-11-22,13,Madhapur,12,South Indian,Cash on Delivery,184.0,47.0,3.8
+2710,2025-09-12,19,Banjara Hills,25,Biryani,UPI,415.0,45.0,2.7
+2119,2025-01-03,18,Ameerpet,8,Chinese,Wallet,266.0,27.0,4.0
+2246,2025-01-25,19,Hitech City,28,Fast Food,Credit/Debit Card,252.0,38.0,3.4
+2622,2025-03-24,14,Banjara Hills,25,Biryani,UPI,192.0,44.0,4.5
+1901,2025-11-03,12,Hitech City,16,Biryani,UPI,354.0,28.0,4.0
+1700,2025-08-08,21,Madhapur,14,Biryani,Cash on Delivery,470.0,32.0,5.0
+2498,2025-12-11,13,Madhapur,15,Pizza,Wallet,358.0,19.0,NA
+2991,2025-12-17,17,Hitech City,30,Biryani,UPI,368.0,32.0,4.2
+1602,2025-06-22,21,Ameerpet,27,North Indian,Credit/Debit Card,321.0,36.0,4.5
+2292,2025-02-27,19,Gachibowli,26,Fast Food,UPI,226.0,31.0,3.6
+2059,2025-05-05,10,Madhapur,11,Pizza,UPI,420.0,27.0,4.6
+1218,2025-04-12,20,Banjara Hills,15,Chinese,UPI,289.0,37.0,4.8
+2097,2025-02-05,13,Ameerpet,2,Fast Food,Cash on Delivery,190.0,33.0,NA
+1818,2025-06-24,19,Madhapur,12,Chinese,UPI,285.0,43.0,4.1
+1221,2025-07-01,8,Secunderabad,1,Fast Food,Credit/Debit Card,158.0,38.0,2.8
+1214,2025-11-16,20,Gachibowli,19,Chinese,UPI,366.0,30.0,4.0
+2867,2025-08-11,20,Madhapur,12,Pizza,UPI,327.0,46.0,3.3
+1908,2025-05-10,13,Gachibowli,5,North Indian,Wallet,410.0,29.0,NA
+1395,2025-09-10,18,Banjara Hills,3,Biryani,UPI,279.0,35.0,3.7
+2647,2025-05-29,21,Madhapur,3,Chinese,Credit/Debit Card,414.0,28.0,4.8
+1368,2025-10-01,12,Hitech City,26,Biryani,Cash on Delivery,374.0,35.0,2.7
+1925,2025-02-03,13,Madhapur,4,Pizza,Credit/Debit Card,449.0,33.0,5.0
+1013,2025-05-08,16,Gachibowli,26,Biryani,UPI,199.0,30.0,3.3
+2855,2025-06-22,12,Ameerpet,4,North Indian,Wallet,252.0,48.0,3.9
+2368,2025-11-27,20,Gachibowli,3,Fast Food,UPI,180.0,31.0,NA
+2223,2025-05-07,23,Gachibowli,14,Fast Food,UPI,269.0,34.0,4.8
+2750,2025-11-03,19,Gachibowli,3,Chinese,Cash on Delivery,345.0,33.0,4.2
+2721,2025-02-12,23,Secunderabad,6,Biryani,UPI,431.0,41.0,4.5
+1235,2025-05-16,20,Gachibowli,26,Chinese,UPI,77.0,34.0,4.0
+1696,2025-11-03,18,Gachibowli,9,Biryani,UPI,412.0,35.0,4.4
+2445,2025-10-10,20,Kukatpally,25,Pizza,Cash on Delivery,379.0,29.0,2.8
+2085,2025-11-12,13,Ameerpet,14,Biryani,UPI,215.0,37.0,4.5
+2885,2025-03-27,10,Kukatpally,25,North Indian,UPI,349.0,44.0,4.3
+2633,2025-02-16,18,Hitech City,10,Chinese,UPI,279.0,35.0,4.4
+2787,2025-10-14,21,Kukatpally,12,South Indian,Cash on Delivery,247.0,38.0,4.2
+2322,2025-11-23,19,Hitech City,1,Fast Food,UPI,273.0,37.0,4.0
+1064,2025-04-02,15,Madhapur,14,Biryani,UPI,293.0,NA,5.0
+1735,2025-11-17,13,Kukatpally,1,Fast Food,UPI,155.0,34.0,4.2
+2024,2025-10-29,10,Madhapur,26,Biryani,Credit/Debit Card,308.0,34.0,3.8
+1965,2025-05-22,19,Gachibowli,20,Chinese,UPI,224.0,25.0,4.2
+1608,2025-02-05,13,Hitech City,30,Chinese,UPI,400.0,41.0,4.1
+1014,2025-11-20,12,Madhapur,9,Fast Food,Cash on Delivery,237.0,36.0,3.5
+1840,2025-07-01,20,Dilsukhnagar,16,Biryani,UPI,401.0,37.0,4.3
+1436,2025-08-06,14,Gachibowli,17,Fast Food,Cash on Delivery,203.0,23.0,5.0
+1018,2025-03-30,18,Hitech City,20,Biryani,UPI,516.0,36.0,3.3
+1765,2025-12-26,16,Kukatpally,26,South Indian,UPI,60.0,33.0,3.8
+2514,2025-07-11,20,Hitech City,26,Chinese,Cash on Delivery,269.0,33.0,4.8
+2783,2025-09-19,13,Gachibowli,4,Biryani,Credit/Debit Card,402.0,24.0,5.0
+1349,2025-05-28,20,Banjara Hills,3,South Indian,Credit/Debit Card,198.0,39.0,4.7
+1208,2025-08-02,20,Secunderabad,4,Biryani,UPI,413.0,40.0,3.5
+2115,2025-09-27,12,Hitech City,15,Desserts,Credit/Debit Card,210.0,33.0,5.0
+2332,2025-10-04,15,Gachibowli,26,South Indian,UPI,144.0,13.0,4.5
+1342,2025-11-01,19,Madhapur,28,Biryani,UPI,423.0,NA,3.4
+2405,2025-10-20,11,Dilsukhnagar,20,Beverages,Cash on Delivery,178.0,43.0,3.6
+1345,2025-11-05,17,Madhapur,30,Desserts,UPI,241.0,28.0,3.0
+2496,2025-11-03,20,Ameerpet,23,Biryani,UPI,505.0,41.0,3.6
+2807,2025-08-21,20,Gachibowli,28,Biryani,UPI,223.0,29.0,4.4
+2846,2025-09-24,20,Madhapur,14,Chinese,Credit/Debit Card,371.0,25.0,4.9
+1552,2025-11-09,13,Madhapur,20,Chinese,UPI,358.0,41.0,4.6
+1599,2025-02-22,18,Secunderabad,19,Pizza,UPI,505.0,NA,5.0
+2718,2025-02-09,18,Ameerpet,14,Pizza,UPI,482.0,34.0,4.7
+1033,2025-08-23,20,Kukatpally,14,North Indian,UPI,303.0,36.0,4.5
+1373,2025-08-28,20,Gachibowli,22,South Indian,UPI,151.0,13.0,3.9
+1658,2025-12-29,18,Ameerpet,3,Biryani,Cash on Delivery,406.0,40.0,4.0
+2695,2025-07-17,11,Hitech City,12,Pizza,Credit/Debit Card,463.0,24.0,4.6
+1173,2025-02-16,19,Secunderabad,29,Desserts,UPI,241.0,53.0,4.4
+2087,2025-10-15,21,Madhapur,23,Biryani,UPI,310.0,38.0,3.8
+2858,2025-08-14,20,Gachibowli,23,Fast Food,Credit/Debit Card,308.0,24.0,4.4
+1409,2025-08-30,23,Dilsukhnagar,4,Fast Food,UPI,186.0,36.0,4.0
+2051,2025-05-17,12,Dilsukhnagar,4,Beverages,UPI,150.0,36.0,5.0
+2914,2025-04-04,23,Gachibowli,12,North Indian,UPI,180.0,24.0,4.2
+1201,2025-10-03,22,Ameerpet,4,North Indian,Cash on Delivery,170.0,26.0,4.5
+2317,2025-01-06,12,Gachibowli,20,Beverages,Cash on Delivery,150.0,29.0,4.1
+1861,2025-12-31,15,Secunderabad,3,Fast Food,Credit/Debit Card,230.0,46.0,3.5
+2608,2025-03-05,20,Hitech City,9,Beverages,Cash on Delivery,108.0,37.0,4.0
+2875,2025-07-29,12,Kukatpally,23,South Indian,Cash on Delivery,239.0,36.0,4.4
+2535,2025-01-24,18,Kukatpally,25,Fast Food,UPI,254.0,32.0,4.6
+2166,2025-11-06,17,Gachibowli,27,South Indian,UPI,155.0,22.0,4.2
+2896,2025-08-30,19,Banjara Hills,29,Fast Food,Credit/Debit Card,415.0,30.0,3.2
+2890,2025-05-15,19,Ameerpet,28,Fast Food,UPI,378.0,39.0,3.5
+2362,2025-06-02,17,Madhapur,15,Biryani,UPI,245.0,22.0,4.9
+2974,2025-08-15,9,Madhapur,14,Biryani,UPI,527.0,20.0,4.2
+1490,2025-05-14,13,Madhapur,14,Pizza,Credit/Debit Card,539.0,37.0,3.3
+2887,2025-04-10,11,Dilsukhnagar,8,South Indian,UPI,211.0,45.0,3.8
+1213,2025-10-21,20,Kukatpally,2,Beverages,Credit/Debit Card,89.0,46.0,3.8
+1134,2025-01-31,20,Hitech City,25,Desserts,UPI,88.0,34.0,3.8
+1061,2025-05-06,21,Gachibowli,18,North Indian,UPI,313.0,29.0,3.6
+1691,2025-04-16,12,Gachibowli,10,Chinese,UPI,357.0,44.0,3.7
+1027,2025-06-07,18,Hitech City,23,Desserts,Credit/Debit Card,211.0,28.0,5.0
+1101,2025-07-12,18,Banjara Hills,4,North Indian,UPI,344.0,40.0,2.9
+2556,2025-10-02,12,Secunderabad,8,Fast Food,UPI,386.0,53.0,3.6
+2613,2025-05-15,14,Dilsukhnagar,23,Desserts,UPI,240.0,50.0,3.1
+1975,2025-12-27,18,Gachibowli,14,Fast Food,Cash on Delivery,236.0,25.0,5.0
+2150,2025-02-17,11,Kukatpally,14,Chinese,UPI,400.0,37.0,4.2
+1777,2025-09-18,11,Gachibowli,23,Pizza,UPI,552.0,28.0,4.9
+1789,2025-10-25,12,Madhapur,4,South Indian,Cash on Delivery,194.0,37.0,4.1
+1521,2025-01-14,19,Secunderabad,15,Pizza,Cash on Delivery,463.0,43.0,4.3
+1364,2025-02-18,12,Secunderabad,2,Beverages,UPI,94.0,26.0,3.7
+1310,2025-08-06,17,Banjara Hills,27,Biryani,Wallet,245.0,39.0,4.7
+1796,2025-12-14,21,Madhapur,15,Biryani,UPI,353.0,39.0,4.5
+1829,2025-02-23,15,Kukatpally,5,Chinese,UPI,187.0,40.0,3.5
+2629,2025-09-07,20,Hitech City,18,Biryani,Credit/Debit Card,420.0,35.0,2.8
+2277,2025-08-07,19,Banjara Hills,7,Fast Food,UPI,214.0,40.0,4.0
+1545,2025-01-17,19,Banjara Hills,29,Pizza,UPI,496.0,33.0,4.3
+1940,2025-02-18,18,Secunderabad,11,Pizza,Cash on Delivery,537.0,43.0,4.8
+2506,2025-11-07,12,Ameerpet,14,Fast Food,UPI,253.0,34.0,5.0
+1442,2025-09-28,17,Madhapur,27,Chinese,UPI,307.0,19.0,4.0
+1648,2025-04-18,16,Kukatpally,24,Biryani,Credit/Debit Card,267.0,26.0,4.2
+2004,2025-11-28,12,Gachibowli,19,Chinese,UPI,509.0,28.0,5.0
+1477,2025-10-29,19,Gachibowli,16,Biryani,Credit/Debit Card,372.0,23.0,5.0
+2047,2025-05-29,12,Banjara Hills,4,Biryani,Cash on Delivery,463.0,32.0,4.7
+1063,2025-05-08,20,Banjara Hills,3,Chinese,UPI,390.0,37.0,4.9
+2173,2025-08-05,16,Madhapur,7,Pizza,UPI,371.0,23.0,5.0
+1484,2025-04-26,18,Kukatpally,30,Beverages,Cash on Delivery,131.0,32.0,3.7
+2752,2025-03-09,11,Kukatpally,14,North Indian,UPI,371.0,37.0,4.0
+2027,2025-04-08,20,Secunderabad,23,North Indian,Credit/Debit Card,215.0,41.0,4.8
+2811,2025-06-13,19,Gachibowli,11,Biryani,UPI,293.0,32.0,4.8
+2282,2025-11-10,10,Madhapur,25,Biryani,UPI,288.0,24.0,4.4
+1053,2025-03-27,20,Madhapur,11,Desserts,UPI,81.0,32.0,4.5
+1243,2025-07-20,23,Kukatpally,16,Biryani,Credit/Debit Card,378.0,37.0,3.2
+2198,2025-05-20,16,Ameerpet,25,Desserts,UPI,232.0,35.0,3.9
+1036,2025-06-02,13,Hitech City,19,South Indian,Credit/Debit Card,200.0,41.0,3.8
+2203,2025-02-06,12,Kukatpally,12,Chinese,Credit/Debit Card,271.0,40.0,4.7
+2704,2025-04-26,21,Madhapur,3,North Indian,UPI,371.0,45.0,4.2
+1739,2025-09-27,20,Kukatpally,23,Biryani,Wallet,438.0,32.0,4.2
+1121,2025-10-30,19,Gachibowli,27,Biryani,Cash on Delivery,294.0,34.0,4.2
+2928,2025-07-18,15,Dilsukhnagar,22,South Indian,UPI,151.0,40.0,3.8
+2300,2025-09-23,20,Banjara Hills,5,Biryani,UPI,529.0,27.0,4.0
+2020,2025-05-03,19,Dilsukhnagar,12,North Indian,Cash on Delivery,193.0,40.0,3.5
+1045,2025-09-04,21,Hitech City,24,Chinese,Credit/Debit Card,413.0,43.0,4.3
+2325,2025-04-06,12,Gachibowli,29,Fast Food,UPI,262.0,42.0,3.6
+1837,2025-12-24,12,Ameerpet,11,Biryani,UPI,372.0,34.0,4.2
+1077,2025-05-22,18,Dilsukhnagar,29,Fast Food,Credit/Debit Card,261.0,41.0,4.0
+2745,2025-01-11,18,Madhapur,21,Biryani,Credit/Debit Card,550.0,26.0,4.4
+1369,2025-09-12,12,Hitech City,2,Beverages,UPI,60.0,23.0,4.1
+1907,2025-05-25,14,Kukatpally,29,Fast Food,UPI,NA,40.0,4.3
+2237,2025-10-21,23,Banjara Hills,3,Biryani,Credit/Debit Card,334.0,33.0,3.4
+1268,2025-04-05,19,Kukatpally,16,Pizza,UPI,399.0,36.0,3.3
+2336,2025-12-11,16,Ameerpet,5,Pizza,Credit/Debit Card,485.0,37.0,2.9
+1729,2025-12-13,12,Secunderabad,24,North Indian,UPI,200.0,39.0,4.7
+1445,2025-05-07,11,Secunderabad,16,Chinese,Cash on Delivery,249.0,45.0,2.5
+1504,2025-08-04,20,Dilsukhnagar,19,Biryani,UPI,386.0,39.0,3.9
+2520,2025-02-07,19,Hitech City,27,Biryani,Credit/Debit Card,472.0,21.0,4.9
+2058,2025-09-26,19,Banjara Hills,24,Pizza,UPI,357.0,34.0,4.7
+2034,2025-12-21,14,Secunderabad,10,Biryani,UPI,319.0,32.0,3.6
+2713,2025-09-28,12,Gachibowli,19,Chinese,UPI,298.0,30.0,3.9
+2185,2025-02-26,17,Hitech City,12,North Indian,Cash on Delivery,193.0,25.0,4.2
+1286,2025-02-03,21,Kukatpally,24,Fast Food,Cash on Delivery,192.0,38.0,3.3
+1296,2025-11-02,19,Hitech City,16,South Indian,Credit/Debit Card,232.0,28.0,4.0
+2641,2025-11-28,20,Gachibowli,28,Biryani,UPI,328.0,39.0,4.0
+2849,2025-08-15,13,Kukatpally,24,North Indian,UPI,318.0,38.0,2.7
+1626,2025-10-16,14,Hitech City,12,Biryani,Credit/Debit Card,392.0,33.0,4.6
+1278,2025-06-13,10,Madhapur,23,Biryani,Wallet,479.0,39.0,3.1
+2915,2025-02-08,22,Secunderabad,7,Pizza,UPI,407.0,53.0,3.2
+2628,2025-12-18,12,Banjara Hills,15,South Indian,UPI,155.0,29.0,4.9
+1485,2025-08-08,14,Madhapur,4,North Indian,UPI,324.0,35.0,4.9
+2521,2025-10-24,19,Madhapur,27,Chinese,UPI,254.0,40.0,2.5
+1183,2025-06-12,17,Gachibowli,9,Beverages,UPI,80.0,31.0,2.8
+1971,2025-11-01,8,Gachibowli,17,North Indian,UPI,167.0,17.0,5.0
+2852,2025-07-21,11,Gachibowli,7,Pizza,Cash on Delivery,333.0,37.0,3.2
+2964,2025-12-04,20,Hitech City,10,Beverages,UPI,137.0,38.0,3.8
+1685,2025-06-09,11,Gachibowli,15,Pizza,Cash on Delivery,736.0,32.0,3.5
+2769,2025-12-13,18,Secunderabad,28,Fast Food,UPI,230.0,44.0,3.4
+2980,2025-11-10,16,Secunderabad,23,Fast Food,Credit/Debit Card,257.0,45.0,3.4
+1037,2025-01-21,18,Gachibowli,12,Biryani,UPI,373.0,22.0,4.2
+2181,2025-12-03,12,Kukatpally,26,North Indian,Cash on Delivery,406.0,35.0,4.8
+1003,2025-07-31,12,Gachibowli,17,Fast Food,Cash on Delivery,140.0,27.0,4.6
+1755,2025-01-15,16,Kukatpally,4,Desserts,UPI,215.0,48.0,4.1
+1509,2025-09-20,18,Kukatpally,12,Chinese,UPI,102.0,33.0,4.4
+1498,2025-05-02,19,Gachibowli,15,Chinese,UPI,251.0,NA,4.2
+1309,2025-06-11,12,Kukatpally,12,North Indian,UPI,303.0,36.0,4.6
+2314,2025-03-20,18,Secunderabad,25,Beverages,Wallet,168.0,33.0,4.8
+2585,2025-01-27,19,Banjara Hills,7,South Indian,Credit/Debit Card,199.0,43.0,4.0
+2439,2025-06-21,10,Banjara Hills,12,Beverages,Credit/Debit Card,115.0,30.0,4.5
+2446,2025-08-22,14,Banjara Hills,15,Pizza,UPI,573.0,31.0,5.0
+1142,2025-12-14,20,Hitech City,29,Beverages,Cash on Delivery,132.0,29.0,4.6
+2248,2025-01-14,13,Secunderabad,21,Desserts,Cash on Delivery,152.0,37.0,2.4
+1865,2025-01-31,17,Madhapur,6,Fast Food,UPI,244.0,40.0,3.4
+1184,2025-04-28,18,Secunderabad,16,North Indian,UPI,464.0,48.0,3.3
+2868,2025-11-12,20,Hitech City,23,Biryani,Cash on Delivery,361.0,277.0,4.2
+2949,2025-03-20,20,Ameerpet,4,Biryani,Cash on Delivery,396.0,34.0,4.3
+2011,2025-01-09,13,Banjara Hills,27,Biryani,Wallet,322.0,46.0,3.7
+1913,2025-03-04,13,Madhapur,4,South Indian,Wallet,185.0,32.0,5.0
+2697,2025-05-01,12,Gachibowli,4,Chinese,Wallet,229.0,25.0,3.5
+1849,2025-12-10,19,Dilsukhnagar,10,Fast Food,Cash on Delivery,357.0,57.0,2.8
+1512,2025-08-18,20,Kukatpally,26,Desserts,UPI,171.0,40.0,3.4
+1732,2025-02-08,9,Madhapur,14,South Indian,Cash on Delivery,281.0,29.0,4.5
+2636,2025-07-03,13,Kukatpally,16,North Indian,Cash on Delivery,NA,38.0,3.6
+1997,2025-09-07,18,Ameerpet,28,Pizza,UPI,505.0,40.0,4.4
+2917,2025-01-29,19,Secunderabad,15,Chinese,UPI,156.0,37.0,4.2
+2772,2025-09-08,13,Banjara Hills,29,Biryani,UPI,331.0,32.0,4.6
+1888,2025-11-03,20,Banjara Hills,26,Chinese,Cash on Delivery,257.0,26.0,3.9
+1118,2025-11-11,23,Hitech City,30,Pizza,Credit/Debit Card,361.0,30.0,4.1
+2878,2025-09-18,15,Madhapur,19,North Indian,Wallet,241.0,27.0,4.6
+2026,2025-05-23,16,Secunderabad,23,Biryani,Wallet,293.0,35.0,3.7
+1114,2025-03-15,13,Hitech City,28,Fast Food,UPI,341.0,38.0,3.4
+1546,2025-03-12,13,Gachibowli,24,Fast Food,UPI,301.0,37.0,4.0
+2711,2025-12-14,20,Gachibowli,18,North Indian,UPI,325.0,29.0,4.5
+2790,2025-05-10,20,Banjara Hills,23,Biryani,UPI,396.0,32.0,4.3
+1166,2025-04-28,20,Gachibowli,28,Biryani,Credit/Debit Card,387.0,24.0,4.3
+1185,2025-06-19,19,Gachibowli,19,Desserts,UPI,189.0,36.0,4.3
+2702,2025-05-27,21,Dilsukhnagar,6,Biryani,UPI,359.0,45.0,2.1
+2397,2025-12-14,12,Banjara Hills,9,Biryani,UPI,273.0,35.0,3.1
+1275,2025-07-04,20,Secunderabad,4,Biryani,UPI,555.0,41.0,4.1
+2002,2025-07-09,12,Gachibowli,19,Desserts,Credit/Debit Card,263.0,22.0,4.5
+1705,2025-02-06,17,Madhapur,28,North Indian,Credit/Debit Card,370.0,24.0,4.5
+2025,2025-10-23,21,Kukatpally,30,Biryani,UPI,381.0,41.0,4.6
+2591,2025-05-16,20,Secunderabad,10,South Indian,UPI,74.0,40.0,2.7
+2912,2025-03-12,10,Gachibowli,29,Biryani,UPI,374.0,23.0,4.9
+2565,2025-09-24,9,Hitech City,13,Chinese,Cash on Delivery,175.0,30.0,4.5
+2525,2025-12-07,19,Kukatpally,19,South Indian,Cash on Delivery,230.0,41.0,3.6
+2743,2025-05-21,19,Hitech City,4,Chinese,Credit/Debit Card,409.0,34.0,4.2
+1384,2025-08-12,21,Secunderabad,7,Fast Food,Credit/Debit Card,218.0,44.0,3.6
+2430,2025-07-29,19,Gachibowli,15,Desserts,Credit/Debit Card,114.0,24.0,5.0
+1562,2025-12-20,21,Madhapur,15,Pizza,UPI,334.0,38.0,4.6
+1863,2025-03-19,13,Hitech City,19,Biryani,Credit/Debit Card,266.0,36.0,4.0
+2045,2025-09-15,20,Madhapur,4,Chinese,Cash on Delivery,NA,42.0,3.3
+2830,2025-04-28,11,Banjara Hills,14,Desserts,UPI,302.0,29.0,4.9
+1177,2025-03-08,15,Hitech City,15,Desserts,Cash on Delivery,123.0,30.0,3.6
+2360,2025-11-19,14,Gachibowli,29,Beverages,Wallet,135.0,27.0,5.0
+1380,2025-10-21,13,Kukatpally,19,Biryani,UPI,260.0,43.0,4.7
+2570,2025-04-01,13,Secunderabad,13,Pizza,Credit/Debit Card,327.0,34.0,4.7
+2196,2025-11-05,20,Gachibowli,26,Biryani,UPI,216.0,24.0,4.0
+2017,2025-05-31,17,Madhapur,17,South Indian,UPI,208.0,25.0,4.3
+1520,2025-12-11,11,Dilsukhnagar,12,Biryani,UPI,386.0,39.0,3.8
+1831,2025-03-13,12,Kukatpally,12,Chinese,UPI,314.0,35.0,4.4
+1508,2025-02-19,10,Kukatpally,2,Fast Food,Cash on Delivery,207.0,NA,3.6
+2177,2025-12-19,12,Hitech City,8,North Indian,UPI,236.0,33.0,3.3
+2643,2025-08-24,11,Kukatpally,12,Beverages,UPI,82.0,28.0,4.5
+1414,2025-08-06,10,Kukatpally,4,Biryani,Cash on Delivery,292.0,40.0,4.2
+2634,2025-08-13,20,Madhapur,23,Biryani,UPI,183.0,28.0,3.8
+1623,2025-03-16,19,Kukatpally,1,Chinese,Cash on Delivery,357.0,38.0,3.1
+1873,2025-08-20,20,Kukatpally,13,Biryani,Credit/Debit Card,259.0,33.0,4.6
+2606,2025-07-01,19,Hitech City,26,Chinese,Credit/Debit Card,398.0,41.0,4.1
+1859,2025-01-18,21,Madhapur,11,South Indian,Cash on Delivery,178.0,38.0,3.8
+2972,2025-06-07,17,Hitech City,16,Chinese,Credit/Debit Card,324.0,35.0,3.1
+1642,2025-08-10,17,Kukatpally,12,Fast Food,UPI,105.0,40.0,4.1
+2341,2025-02-04,19,Kukatpally,14,Pizza,Cash on Delivery,269.0,29.0,4.2
+2984,2025-12-10,23,Hitech City,28,Pizza,UPI,388.0,43.0,3.9
+1259,2025-07-28,20,Hitech City,11,North Indian,Wallet,459.0,37.0,4.7
+1835,2025-12-28,19,Gachibowli,23,North Indian,Credit/Debit Card,331.0,26.0,3.4
+1663,2025-06-07,12,Hitech City,1,Chinese,UPI,341.0,41.0,3.9
+2499,2025-09-09,19,Ameerpet,19,Fast Food,Credit/Debit Card,60.0,39.0,4.0
+1338,2025-04-01,19,Gachibowli,11,Chinese,UPI,156.0,29.0,4.4
+2563,2025-07-12,19,Gachibowli,25,Desserts,UPI,197.0,30.0,2.7
+2529,2025-10-28,17,Kukatpally,11,Chinese,UPI,281.0,27.0,NA
+1399,2025-05-06,10,Kukatpally,24,Pizza,UPI,277.0,33.0,4.5
+2448,2025-11-07,16,Ameerpet,14,Biryani,UPI,184.0,28.0,4.7
+1606,2025-11-05,16,Banjara Hills,23,Pizza,Credit/Debit Card,369.0,20.0,5.0
+2965,2025-11-02,20,Madhapur,14,Biryani,Credit/Debit Card,367.0,35.0,4.0
+2685,2025-02-15,19,Secunderabad,23,South Indian,UPI,203.0,44.0,4.1
+1481,2025-08-01,10,Ameerpet,30,Biryani,Wallet,341.0,28.0,4.7
+2447,2025-07-28,12,Dilsukhnagar,23,Pizza,UPI,346.0,46.0,3.9
+2144,2025-09-18,17,Dilsukhnagar,23,North Indian,UPI,244.0,42.0,4.0
+1918,2025-10-07,12,Madhapur,13,Desserts,UPI,165.0,NA,2.9
+2675,2025-03-22,12,Secunderabad,27,Biryani,Cash on Delivery,367.0,41.0,3.0
+2706,2025-11-01,16,Gachibowli,3,Fast Food,UPI,354.0,27.0,4.8
+2018,2025-09-05,12,Dilsukhnagar,15,Chinese,Credit/Debit Card,264.0,30.0,4.6
+1876,2025-07-20,12,Banjara Hills,8,Beverages,UPI,NA,35.0,4.4
+2739,2025-06-29,19,Hitech City,17,Biryani,UPI,155.0,29.0,4.5
+1660,2025-08-18,12,Hitech City,29,Biryani,Credit/Debit Card,320.0,35.0,3.7
+2022,2025-02-26,18,Secunderabad,28,North Indian,Credit/Debit Card,481.0,40.0,4.4
+1790,2025-06-15,20,Dilsukhnagar,29,Beverages,UPI,139.0,39.0,4.0
+1257,2025-03-25,21,Kukatpally,13,Desserts,UPI,303.0,27.0,4.2
+1969,2025-09-02,18,Kukatpally,23,Biryani,UPI,391.0,28.0,5.0
+1953,2025-10-23,12,Gachibowli,15,South Indian,Credit/Debit Card,111.0,34.0,3.6
+2668,2025-04-26,13,Madhapur,27,Biryani,Credit/Debit Card,402.0,26.0,4.8
+2274,2025-04-23,12,Banjara Hills,29,Pizza,UPI,291.0,38.0,3.9
+2689,2025-05-20,22,Madhapur,15,South Indian,UPI,197.0,32.0,4.2
+2899,2025-02-22,19,Gachibowli,26,Fast Food,Cash on Delivery,208.0,38.0,3.6
